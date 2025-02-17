@@ -59,6 +59,13 @@ http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1,BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+
+#EXTINF:-1,Ulusal Kanal
+https://canlitvulusal3.xyz/live/ulusalkanal/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
@@ -72,6 +79,8 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
 https://krt.blutv.com/blutv_krt_live/live.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TH HABER 
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
@@ -175,8 +184,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9grLJCS/fone22.png",FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png",POWER TV
-http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png",POWER TV
 https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
@@ -184,8 +192,7 @@ http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png",NUMBER ONE 
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL - KRAL POP 
-http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
+
 
 
 
@@ -215,6 +222,8 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 
+#EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="TGRT.Belgesel.tr" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png",TGRT BELGESEL
+https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
@@ -256,8 +265,6 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="TGRT.Belgesel.tr" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png",TGRT BELGESEL
-https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
 
 
 
