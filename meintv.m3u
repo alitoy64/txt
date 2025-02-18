@@ -192,6 +192,7 @@ https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png",POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png",NUMBER ONE 
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
 
