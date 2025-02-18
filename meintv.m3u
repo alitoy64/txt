@@ -193,13 +193,6 @@ http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png",POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png",NUMBER ONE 
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",ANADOLU NET TV
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
 
@@ -230,12 +223,16 @@ https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+
 #EXTINF:-1 tvg-name="A2 HD" tvg-id="A2TV.tr" tvg-logo="https://i.ibb.co/7WTsG83/a2.png",A2
 https://trn03.tulix.tv/gt-atva2/index.m3u8
+
 #EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
 #EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.pgn,TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
 #EXTINF:-1 tvg-name="WOMAN TV" tvg-id="WomanTV.tr" tvg-logo="https://i.ibb.co/bHTjDyk/woman-tv.png",WOMAN TV
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:-1 tvg-name="TGRT EU" tvg-id="TGRTEU.tr" tvg-logo="https://i.ibb.co/kMM9hwR/tgrt-eu.png",TGRT EU
