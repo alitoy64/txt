@@ -63,8 +63,8 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
 
-#EXTINF:-1,Ulusal Kanal
-https://canlitvulusal3.xyz/live/ulusalkanal/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
+https://internettv.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 
 
 
