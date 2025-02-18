@@ -118,6 +118,13 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
 
 
+#EXTINF:-1 tvg-id="MedyaHaber.tr" tvg-logo="https://i.imgur.com/l1E2Pha.png,Medya Haber
+https://ythls.onrender.com/channel/UC_KlNwS1QQ9QMPRg9dGNHNw.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png,TV 8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 
 
@@ -128,12 +135,25 @@ https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",ERCİYES TV
-https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u
 
 
 
+#EXTINF:-1 tvg-id="Kanal38.tr" tvg-logo="https://i.imgur.com/WvtZ7Xd.png ,Kanal 38 
+http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KralTV.tr" tvg-logo="https://i.imgur.com/GeEDOPN.png,KRAL TV 
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="KanalAvrupa.de" tvg-logo="https://i.imgur.com/dJocxUQ.,Kanal Avrupa
+http://51.15.2.151/hls/kanalavrupa.m3u8
+
+#EXTINF:-1 tvg-id="YOLTV.de" tvg-logo="https://i.imgur.com/rTBX6lS.png ,Yol TV 
+https://stream.yol.tv:9443/medialive/yol.m3u8
+
+#EXTINF:-1 tvg-id="MercanTV.tr" tvg-logo="https://i.imgur.com/3CWV8bS.png,Mercan TV 
+https://waw2.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png",TRT 2
