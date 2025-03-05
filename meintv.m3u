@@ -144,6 +144,34 @@ https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
+https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
+
+
+#EXTINF:-1, tvg-id="kanalavrupa.tr"tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png" ,KANAL AVRUP	
+https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
+https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER
+https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png",YOL TV
+https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cm1kp8f/sat7turk.png",SAT 7 TÜRK
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png",TBMM TV
