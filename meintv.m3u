@@ -75,12 +75,6 @@ https://tgn.bozztv.com/dvrfl05/gin-tv8int/index.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png,TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 
@@ -93,9 +87,6 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
 
 https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=Avu7O3hKslA.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TH HABER 
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
@@ -124,8 +115,7 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER
-https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KAY TV KAYSERİ
@@ -148,8 +138,6 @@ https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
 
 
-#EXTINF:-1, tvg-id="kanalavrupa.tr"tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png" ,KANAL AVRUP	
-https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
