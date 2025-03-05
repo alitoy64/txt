@@ -57,6 +57,10 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
+https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
+#
 https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
 
 
