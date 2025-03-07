@@ -55,12 +55,9 @@ http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
+#EXTINF:1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png",A Haber
+http://stream.tvcdn.net/haber/a-haber.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
-https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
-# https://c.fulltvizle.com/ahaber/index.m3u8
 
 
 
