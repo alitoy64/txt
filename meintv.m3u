@@ -157,6 +157,30 @@ https://new.cache-stream.workers.dev/stream/UCLPc5pYOl2clEkCA82Sfb0Q/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png",TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
+
+#EXTINF:1-,Arabesk TV
+https://yayin.santraltr.com/hls/arabeskyeni.m3u8
+#EXTINF:1-,Arma
+https://yayin.santraltr.com/hls/arma.m3u8
+#EXTINF:1-,aviva
+https://yayin.santraltr.com/hls/vivatv.m3u8
+
+#EXTINF:1-,Dost Müzik TV
+https://yayin.santraltr.com/hls/dost.m3u8
+#EXTINF:1-,EZO TV
+https://yayin.santraltr.com/hls/ezo.m3u8
+#EXTINF:1-,Genç SMS TV
+https://yayin.santraltr.com/hls/genctv.m3u8
+#EXTINF:1-,Sıla TV
+https://yayin.santraltr.com/hls/silatv.m3u8
+#EXTINF:1-,TV SMS
+https://yayin.santraltr.com/hls/tvsms.m3u8
+#EXTINF:1-,Top Pop TV
+https://yayin.santraltr.com/hls/toppop.m3u8
+#EXTINF:1-,Zeyno TV
+https://yayin.santraltr.com/hls/zeynotv.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL - KRAL POP
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
 
