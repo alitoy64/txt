@@ -89,7 +89,7 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 
 
-#EXTINF:-1 KRT TVKRT TV
+#EXTINF:-1, KRT TV
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #
 https://www.youtube-nocookie.com/embed/v5srSbD2WBk
@@ -97,7 +97,7 @@ https://www.youtube-nocookie.com/embed/v5srSbD2WBk
 
 
 
-#EXTINF:-1 Ulusal Kanal
+#EXTINF: -1, Ulusal Kanal
 https://canlitvulusal3.xyz/live/ulusalkanal/index.m3u8
 # ? https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
 
