@@ -86,8 +86,12 @@ https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
 
+
+
+#EXTINF:-1 tvg-name="KRT TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_KRTTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61951f4c866ac31a807822e8" group-title="Haber",KRT TV
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#
 https://www.youtube-nocookie.com/embed/v5srSbD2WBk
 
 
