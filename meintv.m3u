@@ -93,8 +93,11 @@ https://www.youtube-nocookie.com/embed/v5srSbD2WBk
 
 
 
-#EXTINF:-1, Ulusal Kanal
-    
+#EXTINF:-1 tvg-name="Ulusal Kanal" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_UlusalKanal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603c1580866ac31704a99333" group-title="Haber",Ulusal Kanal
+https://canlitvulusal3.xyz/live/ulusalkanal/index.m3u8
+# ? https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
+
+ #   
 https://www.youtube-nocookie.com/embed/Fr0Dku2UZmI
 
 
