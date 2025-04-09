@@ -24,7 +24,10 @@ t/nowtv/playlist.m3u8?st=lKH5smuBn2cfJ01-NZOQdw&e=1737205737
 #https://c.fulltvizle.com/fox/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK 
-http://tgn.bozztv.com/dvrfl05/gin-cnnturk/index.m3u8
+
+https://vavoo.to/play/2056768647/index.m3u8
+
+
 
 #EXTINF:-1 tvg-name="Haberturk TV" tvg-id="HaberturkTV.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" ,HABERTURK
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
