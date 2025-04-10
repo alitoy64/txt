@@ -24,11 +24,13 @@ t/nowtv/playlist.m3u8?st=lKH5smuBn2cfJ01-NZOQdw&e=1737205737
 #https://c.fulltvizle.com/fox/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK 
-
-
 http://trn03.tulix.tv/gt-cnn-turk/tracks-v1a1/mono.m3u8
 
+#https://yayin2.canlitv.fun/livetv/cnnturk.stream/playlist.m3u8
 
+#https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+
+#http://media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u
 
 
 
