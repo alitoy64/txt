@@ -163,10 +163,8 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png",EKO TÜRK
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER
-https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
-
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png",YOL TV
 https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
