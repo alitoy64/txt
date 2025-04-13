@@ -104,7 +104,8 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 https://trn03.tulix.tv/gt-krttv/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
+https://rpn3.bozztv.com/dvrfl05/gin-ulusalkanal/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
