@@ -102,7 +102,8 @@ https://tele1-live.ercdn.net/tele1/tele1.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT 
-https://trn03.tulix.tv/gt-krttv/playlist.m3u8
+https://trn03.tulix.tv/gt-krt-tv/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
