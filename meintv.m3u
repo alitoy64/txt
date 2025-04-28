@@ -177,7 +177,8 @@ https://tv5-live.ercdn.net/tv5/tv5.m3u8
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cDxKJy1/k7avr1.png",KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KAY TV KAYSERİ
