@@ -28,7 +28,11 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK 
-https://b.fulltvizle.com/cnn/playlist.m3u8
+
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+
+
+#https://b.fulltvizle.com/cnn/playlist.m3u8
 
 #http://116.202.238.88/CNNTURK_TR/index.m3u8
 
