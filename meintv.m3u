@@ -153,12 +153,6 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ulusal-kanal.png"                                        ,ULUSAL KANAL
-https://internettv.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
-https://canlitvulusal.xyz/live/ulusalkanal/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png",TV 5
 https://tv5-live.ercdn.net/tv5/tv5.m3u8
@@ -181,28 +175,7 @@ https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.
 
 
 
-
-#EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""                                        ,24 	
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1702937932/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""                                        ,24 HABER HD+ SD 	
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3828793616/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""                                        ,24 KITCHEN 	
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3295699287/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""                                        ,24 KITCHEN 	
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3329504843/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""                                        ,24 KITCHEN HD 	
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/4285350247/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""                                        ,24 RAW 	
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/536029186/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""                                        ,24 TV 	
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3822901239/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""                                        ,360 	
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/865410951/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""                                        ,360 	
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1651455199/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""                                        ,360 PLUS 	
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1893598000/index.m3u8
-#EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""                                        ,360 RAW 	
+	
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1702645191/index.m3u8
 #EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""                                        ,4K TR: 24 HD 	
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1998168122/index.m3u8
@@ -743,6 +716,8 @@ https://cachehsi2b.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 
 #EXTINF:-1 channel-id="ARD.de"                         tvg-id="ARD.de"                   tvg-chno="0001" tvg-logo="https://download.avm.de/tv/logos/das_erste.png"                                           group-title="🇩🇪 | DEUTSCH CH" , ARD
 https://mcdn.daserste.de/daserste/de/master.m3u8
+
+
 #EXTINF:-1 channel-id="ZDF.de"                         tvg-id="zdf.de"                   tvg-chno="0002" tvg-logo="https://download.avm.de/tv/logos/zdf.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , ZDF
 #https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 https://cachehsi1a.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
@@ -750,6 +725,7 @@ https://cachehsi1a.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
 
 #EXTINF:-1 channel-id="WDR.de"                         tvg-id="WDR.de"                   tvg-chno="0003" tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , WDR
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+
 #EXTINF:-1 channel-id="MDR.de"                         tvg-id="mdr.de"                   tvg-chno="0004" tvg-logo="https://download.avm.de/tv/logos/mdr.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , MDR
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 channel-id="NDR.de"                         tvg-id="ndr.de"                   tvg-chno="0005" tvg-logo="https://download.avm.de/tv/logos/ndr_hd.png"                                              group-title="🇩🇪 | DEUTSCH CH" , NDR
