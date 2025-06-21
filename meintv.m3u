@@ -604,8 +604,7 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="zdf.de"                 tvg-logo="https://download.avm.de/tv/logos/zdf.png"                                                ,ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="WDR.de"                 tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                ,WDR
-https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+
 #EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RTL
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 
@@ -645,7 +644,13 @@ https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kika.de"                tvg-logo="https://download.avm.de/tv/logos/kika.png"                                               ,KIKA
 https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
 
-
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"tvg-id""                      tvg-logo=""                                        ,WDR 	
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/752701845/index.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"tvg-id""                      tvg-logo=""                                        ,WDR 	
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1373972750/index.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"tvg-id""                      tvg-logo=""                                        ,WDR HD 	
+https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2171614967/index.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"tvg-id""                      tvg-logo=""                                        ,WDR HD+ 	
 
 #EXTINF:-1 channel-id="Tele5.de"                       tvg-id="Tele5.de"                 tvg-chno="0035" tvg-logo="https://download.avm.de/tv/logos/tele5.png"                                               group-title="🇩🇪 | DEUTSCH CH" , TELE 5
 https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
