@@ -26,9 +26,8 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
 #https://nowtv.blutv.com/blutv_nowtv/live.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""  CNN TURK HD 	
+#EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""                                        ,4K TR: CNN TURK HD 	
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/2056768647/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK 
@@ -113,8 +112,6 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 http://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=v5srSbD2WBk.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | TURKEY CH"  tvg-id""                      tvg-logo=""  ULUSAL KANAL 	
-https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/3416095377/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
@@ -155,7 +152,8 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
-
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/ulusal-kanal.png"                                        ,ULUSAL KANAL
+https://internettv.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
 https://canlitvulusal.xyz/live/ulusalkanal/index.m3u8
@@ -643,12 +641,6 @@ https://58de7a369a9c4.streamlock.net/esm/tvmr_720p/playlist.m3u8
 
 #EXTINF:-1 channel-id="Kabeleinsdoku.de"               tvg-id="Kabeleinsdoku.de"         tvg-chno="0050" tvg-logo="https://download.avm.de/tv/logos/kabel1.png"                                              group-title="🇩🇪 | DEUTSCH CH" , KABELeins DOKU
 https://strm.hdtvizlecanli.com/live/kabel1doku.m3u8
-#EXTINF:-1 channel-id="dmax.de"                        tvg-id="dmax.de"                  tvg-chno="0051" tvg-logo="https://download.avm.de/tv/logos/dmax.png"                                                group-title="🇩🇪 | DEUTSCH CH" , DMAX
-https://strm.hdtvizlecanli.com/live/dmax.m3u8
-#EXTINF:-1 channel-id="TLC.de"                         tvg-id="TLC.de"                   tvg-chno="0052" tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , TLC
-#https://s6.hopslan.com/tlc/index.m3u8
-#http://stream.suboroiptv.tv/tlc/playlist.m3u8
-https://strm.hdtvizlecanli.com/live/tlc.m3u8
 
 
 
