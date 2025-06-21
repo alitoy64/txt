@@ -383,14 +383,61 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
 
 
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ARD.de"                 tvg-logo="https://download.avm.de/tv/logos/das_erste.png"                                          ,ARD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ARD.de"                 tvg-logo="https://download.avm.de/tv/logos/das_erste.png"                                          ,ARD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="zdf.de"                 tvg-logo="https://download.avm.de/tv/logos/zdf.png"                                                ,ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="WDR.de"                 tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                ,WDR
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RTL
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+#EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RTL
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
+#EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RTL
+https://cachehsi1a.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
+#EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RTL
+http://185.189.225.150:85/RTL/index.m3u8
+#EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RTL
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
 
+https://viamotionhsi.netplus.ch/live/eds/startv/browser-dash/startv.mpd
+#EXTINF:-1 channel-id="RTL2.de"                        tvg-id="RTL2.de"                  tvg-chno="0022" tvg-logo="https://download.avm.de/tv/logos/rtl2.png"                                                group-title="🇩🇪 | DEUTSCH CH" , RTL II
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
+https://strm.hdtvizlecanli.com/live/rtl2.m3u8
 
+#EXTINF:-1 channel-id="RTLplus.de"                     tvg-id="RTLplus.de"               tvg-chno="0023" tvg-logo="https://download.avm.de/tv/logos/rtlplus.png"                                             group-title="🇩🇪 | DEUTSCH CH" , RTL+
+h    8
+#EXTINF:-1 channel-id="RTLup.de"                       tvg-id="RTLup.de"                 tvg-chno="0024" tvg-logo="https://download.avm.de/tv/logos/rtlup.png"                                               group-title="🇩🇪 | DEUTSCH CH" , RTL UP
+h    8
+#EXTINF:-1 channel-id="RTLNitro.de"                    tvg-id="RTLNitro.de"              tvg-chno="0025" tvg-logo="https://download.avm.de/tv/logos/rtlnitro.png"                                            group-title="🇩🇪 | DEUTSCH CH" , RTL NITRO
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
+#https://strm.hdtvizlecanli.com/live/nitro.m3u8
 
+#EXTINF:-1 channel-id="SuperRTL.de"                    tvg-id="SuperRTL.de"              tvg-chno="0026" tvg-logo="https://download.avm.de/tv/logos/superrtl.png"                                            group-title="🇩🇪 | DEUTSCH CH" , SUPER RTL
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+#EXTINF:-1 channel-id="Vox.de"                         tvg-id="Vox.de"                   tvg-chno="0027" tvg-logo="https://download.avm.de/tv/logos/vox.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , VOX
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+#https://strm.hdtvizlecanli.com/live/vox.m3u8
+#EXTINF:-1 channel-id="VOXup.de"                       tvg-id="VOXup.de"                 tvg-chno="0028" tvg-logo="https://download.avm.de/tv/logos/voxup.png"                                               group-title="🇩🇪 | DEUTSCH CH" , VOX UP
 
+#EXTINF:-1 channel-id="ANIXE.de"                       tvg-id="ANIXE.de"                 tvg-chno="0029" tvg-logo="https://download.avm.de/tv/logos/anixe_hd.png"                                            group-title="🇩🇪 | DEUTSCH CH" , ANIXE TV
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 channel-id="ANIXE.de"                       tvg-id="ANIXE.de"                 tvg-chno="0029" tvg-logo="https://download.avm.de/tv/logos/anixe_hd.png"                                            group-title="🇩🇪 | DEUTSCH CH" , ANIXE SERIE
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="russiatoday.de"         tvg-logo=""                                                                                        ,RT DE
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 channel-id="Kabeleins.de"                   tvg-id="Kabeleins.de"             tvg-chno="0030" tvg-logo="https://download.avm.de/tv/logos/kabel1.png"                                              group-title="🇩🇪 | DEUTSCH CH" , KABEL eins
+#https://cachehsi1b.netplus.ch/live/eds/kabel1/browser-dash-VMX/kabel1.mpd
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
 
+#EXTINF:-1 channel-id="Sat1.de"                        tvg-id="Sat1.de"                  tvg-chno="0031" tvg-logo="https://download.avm.de/tv/logos/sat1.png"                                                group-title="🇩🇪 | DEUTSCH CH" , SAT 1
+#https://cachehsi1b.netplus.ch/live/eds/sat1/browser-dash-VMX/sat1.mpd
+https://strm.hdtvizlecanli.com/live/sat1.m3u8
+
+#EXTINF:-1 channel-id="Sat1Gold.de"                    tvg-id="Sat1Gold.de"              tvg-chno="0032" tvg-logo="https://download.avm.de/tv/logos/sat1gold.png"                                            group-title="🇩🇪 | DEUTSCH CH" , SAT 1 GOLD
+#https://cachehsi1b.netplus.ch/live/eds/sat1gold/browser-dash-VMX/sat1gold.mpd
+https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kika.de"                tvg-logo="https://download.avm.de/tv/logos/kika.png"                                               ,KIKA
 https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
@@ -401,19 +448,9 @@ https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
 #https://strm.hdtvizlecanli.com/live/superrtl.m3u8
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 
-
-
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="bild.de"                tvg-logo=""                                                                                        ,BILD 
 https://stream.best-of-bild.personalstream.tv/v1/manifest/bed31ae6b23b93b0843b9825ea57f506cf4da916/best-of-bild-prod/2e945f88-b702-4632-a324-b8149683f3db/2.m3u8
 
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ARD.de"                 tvg-logo="https://download.avm.de/tv/logos/das_erste.png"                                          ,ARD
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ARD.de"                 tvg-logo="https://download.avm.de/tv/logos/das_erste.png"                                          ,ARD
-https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="zdf.de"                 tvg-logo="https://download.avm.de/tv/logos/zdf.png"                                                ,ZDF
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="WDR.de"                 tvg-logo="https://download.avm.de/tv/logos/wdr.png"                                                ,WDR
-https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="mdr.de"                 tvg-logo="https://download.avm.de/tv/logos/mdr.png"                                                ,MDR
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ndr.de"                 tvg-logo="https://download.avm.de/tv/logos/ndr_hd.png"                                             ,NDR
@@ -536,60 +573,6 @@ https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v540.m3u8
 
 #EXTINF:-1 channel-id="ORF1.de"                        tvg-id="orf2.at"                  tvg-chno="0020" tvg-logo="https://2ix2.com/wp-content/uploads/2020/07/29.png"                                       group-title="🇩🇪 | DEUTSCH CH" , ORF 2
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
-#EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RTL
-https://ma.anixa.tv/clips/stream/rtl/index.m3u8
-#EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RTL
-https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
-#EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RTL
-https://cachehsi1a.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
-#EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RTL
-http://185.189.225.150:85/RTL/index.m3u8
-#EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RTL
-https://strm.hdtvizlecanli.com/live/rtl.m3u8
-
-
-
-
-
-
-
-
-https://viamotionhsi.netplus.ch/live/eds/startv/browser-dash/startv.mpd
-#EXTINF:-1 channel-id="RTL2.de"                        tvg-id="RTL2.de"                  tvg-chno="0022" tvg-logo="https://download.avm.de/tv/logos/rtl2.png"                                                group-title="🇩🇪 | DEUTSCH CH" , RTL II
-https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
-https://strm.hdtvizlecanli.com/live/rtl2.m3u8
-
-#EXTINF:-1 channel-id="RTLplus.de"                     tvg-id="RTLplus.de"               tvg-chno="0023" tvg-logo="https://download.avm.de/tv/logos/rtlplus.png"                                             group-title="🇩🇪 | DEUTSCH CH" , RTL+
-h    8
-#EXTINF:-1 channel-id="RTLup.de"                       tvg-id="RTLup.de"                 tvg-chno="0024" tvg-logo="https://download.avm.de/tv/logos/rtlup.png"                                               group-title="🇩🇪 | DEUTSCH CH" , RTL UP
-h    8
-#EXTINF:-1 channel-id="RTLNitro.de"                    tvg-id="RTLNitro.de"              tvg-chno="0025" tvg-logo="https://download.avm.de/tv/logos/rtlnitro.png"                                            group-title="🇩🇪 | DEUTSCH CH" , RTL NITRO
-https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
-#https://strm.hdtvizlecanli.com/live/nitro.m3u8
-
-#EXTINF:-1 channel-id="SuperRTL.de"                    tvg-id="SuperRTL.de"              tvg-chno="0026" tvg-logo="https://download.avm.de/tv/logos/superrtl.png"                                            group-title="🇩🇪 | DEUTSCH CH" , SUPER RTL
-https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
-#EXTINF:-1 channel-id="Vox.de"                         tvg-id="Vox.de"                   tvg-chno="0027" tvg-logo="https://download.avm.de/tv/logos/vox.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , VOX
-https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
-#https://strm.hdtvizlecanli.com/live/vox.m3u8
-#EXTINF:-1 channel-id="VOXup.de"                       tvg-id="VOXup.de"                 tvg-chno="0028" tvg-logo="https://download.avm.de/tv/logos/voxup.png"                                               group-title="🇩🇪 | DEUTSCH CH" , VOX UP
-
-#EXTINF:-1 channel-id="ANIXE.de"                       tvg-id="ANIXE.de"                 tvg-chno="0029" tvg-logo="https://download.avm.de/tv/logos/anixe_hd.png"                                            group-title="🇩🇪 | DEUTSCH CH" , ANIXE TV
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 channel-id="ANIXE.de"                       tvg-id="ANIXE.de"                 tvg-chno="0029" tvg-logo="https://download.avm.de/tv/logos/anixe_hd.png"                                            group-title="🇩🇪 | DEUTSCH CH" , ANIXE SERIE
-https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
-
-#EXTINF:-1 channel-id="Kabeleins.de"                   tvg-id="Kabeleins.de"             tvg-chno="0030" tvg-logo="https://download.avm.de/tv/logos/kabel1.png"                                              group-title="🇩🇪 | DEUTSCH CH" , KABEL eins
-#https://cachehsi1b.netplus.ch/live/eds/kabel1/browser-dash-VMX/kabel1.mpd
-https://strm.hdtvizlecanli.com/live/kabel1.m3u8
-
-#EXTINF:-1 channel-id="Sat1.de"                        tvg-id="Sat1.de"                  tvg-chno="0031" tvg-logo="https://download.avm.de/tv/logos/sat1.png"                                                group-title="🇩🇪 | DEUTSCH CH" , SAT 1
-#https://cachehsi1b.netplus.ch/live/eds/sat1/browser-dash-VMX/sat1.mpd
-https://strm.hdtvizlecanli.com/live/sat1.m3u8
-
-#EXTINF:-1 channel-id="Sat1Gold.de"                    tvg-id="Sat1Gold.de"              tvg-chno="0032" tvg-logo="https://download.avm.de/tv/logos/sat1gold.png"                                            group-title="🇩🇪 | DEUTSCH CH" , SAT 1 GOLD
-#https://cachehsi1b.netplus.ch/live/eds/sat1gold/browser-dash-VMX/sat1gold.mpd
-https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 
 #EXTINF:-1 channel-id="bibeltv.de"                     tvg-id="bibeltv.de"               tvg-chno="0033" tvg-logo=""                                                                                         group-title="🇩🇪 | DEUTSCH CH" , BIBEL TV
 https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
