@@ -805,16 +805,6 @@ https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 channel-id="wetter.de"                      tvg-id="wetter.de"                tvg-chno="0047" tvg-logo="https://wetter.tv/images/wetter-tv-logo.svg"                                              group-title="🇩🇪 | DEUTSCH CH" , WETTER
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 channel-id=""                               tvg-id=""                         tvg-chno="0021" tvg-logo="https://a.bildstatic.de/img/android-touch-icon-196x196.d39b6cc1.png"                      group-title="🇩🇪 | DEUTSCH CH" , BILD TV
-https://broadcast.bild.personalstream.tv/v1/manifest/e237d596efe8bf8a700f8f91f1de8bbe03e0fe29/bildtv-broadcast-prod/c0f750c9-8819-4507-b9fe-b0d2c7e7d7cf/4.m3u8
-#EXTINF:-1 channel-id="Bundestagtv1.de"                tvg-id="Bundestagtv1.de"          tvg-chno="0048" tvg-logo=""                                                                                         group-title="🇩🇪 | DEUTSCH CH" , Bundestag TV 1
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
-#EXTINF:-1 channel-id="Bundestagtv2.de"                tvg-id="Bundestagtv2.de"          tvg-chno="0049" tvg-logo=""                                                                                         group-title="🇩🇪 | DEUTSCH CH" , Bundestag TV 2
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
-#EXTINF:-1 channel-id="Bundestagtv2.de"                tvg-id="Bundestagtv2.de"          tvg-chno="0049" tvg-logo=""                                                                                         group-title="🇩🇪 | DEUTSCH CH" , Bundestag TV 3
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
-#EXTINF:-1 channel-id="Bundestagtv2.de"                tvg-id="Bundestagtv2.de"          tvg-chno="0049" tvg-logo=""                                                                                         group-title="🇩🇪 | DEUTSCH CH" , Bundestag TV 4
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
 
 
 #EXTINF:-1 channel-id="mittelrheintv.de"                tvg-id="mittelrheintv.de"        tvg-chno="0049" tvg-logo=""                                                                                         group-title="🇩🇪 | DEUTSCH CH" ,TV MITTELRHEIN
