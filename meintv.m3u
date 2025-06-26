@@ -28,6 +28,14 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
 
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cnnturk.tr"             tvg-logo="https://tr.canlitvizle.mobi/kanallar/canli-cnn-turk.png"                                 ,CNN TÜRK HD
+#http://stream.tvcdn.net/haber/cnn-turk.m3u8
+#http://dvrfl05.tulix.tv/gin-cnnturk/index.m3u8
+#https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&TOKEN
+https://tgn.bozztv.com/dvrfl05/gin-cnnturk/index.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK 
