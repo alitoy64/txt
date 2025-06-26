@@ -384,6 +384,20 @@ https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
 #https://strm.hdtvizlecanli.com/live/vox.m3u8
 
+
+
+#EXTINF:-1 channel-id="Pro7.de"                        tvg-id="Pro7.de"                  tvg-chno="0037" tvg-logo="https://download.avm.de/tv/logos/pro7.png"                                                group-title="🇩🇪 | DEUTSCH CH" , PRO 7
+#https://cachehsi1b.netplus.ch/live/eds/pro7/browser-dash-VMX/pro7.mpd
+https://strm.hdtvizlecanli.com/live/pro7.m3u8
+#http://85.187.13.40:18000/ProSieben
+
+
+#EXTINF:-1 channel-id="ProSiebenMaxx.de"               tvg-id="ProSiebenMaxx.de"         tvg-chno="0038" tvg-logo="https://download.avm.de/tv/logos/pro7maxx.png"                                            group-title="🇩🇪 | DEUTSCH CH" , PRO 7 MAXX
+#https://cachehsi1b.netplus.ch/live/eds/prosiebenmaxx/browser-dash-VMX/prosiebenmaxx.mpd
+https://strm.hdtvizlecanli.com/live/pro7max.m3u8
+
+
+
 #EXTINF:-1 channel-id="Kabeleins.de"                   tvg-id="Kabeleins.de"             tvg-chno="0030" tvg-logo="https://download.avm.de/tv/logos/kabel1.png"                                              group-title="🇩🇪 | DEUTSCH CH" , KABEL eins
 #https://cachehsi1b.netplus.ch/live/eds/kabel1/browser-dash-VMX/kabel1.mpd
 https://strm.hdtvizlecanli.com/live/kabel1.m3u8
@@ -393,14 +407,14 @@ https://strm.hdtvizlecanli.com/live/kabel1.m3u8
 https://strm.hdtvizlecanli.com/live/sat1.m3u8
 
 
-#EXTINF:-1 channel-id="Pro7.de"                        tvg-id="Pro7.de"                  tvg-chno="0037" tvg-logo="https://download.avm.de/tv/logos/pro7.png"                                                group-title="🇩🇪 | DEUTSCH CH" , PRO 7
-#https://cachehsi1b.netplus.ch/live/eds/pro7/browser-dash-VMX/pro7.mpd
-https://strm.hdtvizlecanli.com/live/pro7.m3u8
-#http://85.187.13.40:18000/ProSieben
-
 #EXTINF:-1 channel-id="NTV.de"                         tvg-id="NTV.de"                   tvg-chno="0045" tvg-logo="https://www.n-tv.de/resources/21505688/adaptive/images/logo.svg"                          group-title="🇩🇪 | DEUTSCH CH" , NTV
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
 
+
+#EXTINF:-1 channel-id="phoenix.de"                     tvg-id="phoenix.de"               tvg-chno="0041" tvg-logo="https://download.avm.de/tv/logos/phoenix.png"                                             group-title="🇩🇪 | DEUTSCH CH" , Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 channel-id="tagesschau24.de"                tvg-id="tagesschau24.de"          tvg-chno="0042" tvg-logo="https://download.avm.de/tv/logos/tagesschau24.png"                                        group-title="🇩🇪 | DEUTSCH CH" , tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-360p-1328.m3u8
 
 #EXTINF:-1 channel-id="ARTE.de"                        tvg-id="ARTE.de"                  tvg-chno="0018" tvg-logo="https://download.avm.de/tv/logos/arte.png"                                                group-title="🇩🇪 | DEUTSCH CH" , arte
 https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v540.m3u8
@@ -438,10 +452,6 @@ https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
 
 
 
-#EXTINF:-1 channel-id="phoenix.de"                     tvg-id="phoenix.de"               tvg-chno="0041" tvg-logo="https://download.avm.de/tv/logos/phoenix.png"                                             group-title="🇩🇪 | DEUTSCH CH" , Phoenix
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 channel-id="tagesschau24.de"                tvg-id="tagesschau24.de"          tvg-chno="0042" tvg-logo="https://download.avm.de/tv/logos/tagesschau24.png"                                        group-title="🇩🇪 | DEUTSCH CH" , tagesschau24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-360p-1328.m3u8
 #EXTINF:-1 channel-id="DW.de"                          tvg-id="DW.de"                    tvg-chno="0043" tvg-logo="https://download.avm.de/tv/logos/deutsche_welle.png"                                      group-title="🇩🇪 | DEUTSCH CH" , DW
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/streamPlaylist.m3u8
 #EXTINF:-1 channel-id="DW.de"                          tvg-id="DW.de"                    tvg-chno="0043" tvg-logo="https://download.avm.de/tv/logos/deutsche_welle.png"                                      group-title="🇩🇪 | DEUTSCH CH" , DW
@@ -599,10 +609,6 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 channel-id="ORF1.de"                        tvg-id="orf2.at"                  tvg-chno="0020" tvg-logo="https://2ix2.com/wp-content/uploads/2020/07/29.png"                                       group-title="🇩🇪 | DEUTSCH CH" , ORF 2
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 
-
-#EXTINF:-1 channel-id="ProSiebenMaxx.de"               tvg-id="ProSiebenMaxx.de"         tvg-chno="0038" tvg-logo="https://download.avm.de/tv/logos/pro7maxx.png"                                            group-title="🇩🇪 | DEUTSCH CH" , PRO 7 MAXX
-#https://cachehsi1b.netplus.ch/live/eds/prosiebenmaxx/browser-dash-VMX/prosiebenmaxx.mpd
-https://strm.hdtvizlecanli.com/live/pro7max.m3u8
 
 
 
