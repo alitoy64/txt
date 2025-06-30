@@ -83,6 +83,8 @@ http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png",A PARA
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 
 
 
@@ -132,8 +134,6 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulu
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KwXzY6B/apara.png",A PARA
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png",BLOOMBERG HT
