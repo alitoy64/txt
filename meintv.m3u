@@ -157,9 +157,11 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png",TV 5
-https://tv5-live.ercdn.net/tv5/tv5.m3u8
+https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SAMANYOLU TV" tvg-logo=",SAMANYOLU TV
