@@ -199,6 +199,8 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 
 
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SAMANYOLU TV" tvg-logo=",SAMANYOLU TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
@@ -210,7 +212,13 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KAY TV KAYSERİ
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
 
-
+#EXTINF:-1, ShowMax
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/ShowMax.m3u8
+#EXTINF:-1, Sozcu_Tv
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
+#EXTINF:-1, TRT_Haber
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/TRT_Haber.m3u8
+#EXTINF:-1, Tele_1
 
 
 
