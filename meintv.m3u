@@ -17,8 +17,6 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=zlWx0zqbxLUTqXAjXF60Hw&e=1752705154
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
@@ -40,15 +38,6 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK 
 https://b.fulltvizle.com/cnn/playlist.m3u8
 
-#http://116.202.238.88/CNNTURK_TR/index.m3u8
-
-#http://trn03.tulix.tv/gt-cnn-turk/tracks-v1a1/mono.m3u8
-
-#https://yayin2.canlitv.fun/livetv/cnnturk.stream/playlist.m3u8
-
-#https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-
-#http://media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u
 
 
 
@@ -98,14 +87,11 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png",TV8 INT 
-https://tgn.bozztv.com/dvrfl05/gin-tv8int/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png,TV 8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
 http://185.234.111.229:8000/play/a00y
@@ -633,28 +619,6 @@ https://mcdn.one.ard.de/ardone/hls/master.m3u8
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 channel-id="HR.de"                          tvg-id="HR.de"                    tvg-chno="0011" tvg-logo="https://download.avm.de/tv/logos/hr_hd.png"                                               group-title="🇩🇪 | DEUTSCH CH" , HR
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-#EXTINF:-1 channel-id="SR.de"                          tvg-id="sr.de"                    tvg-chno="0012" tvg-logo="https://download.avm.de/tv/logos/sr.png"                                                  group-title="🇩🇪 | DEUTSCH CH" , SR
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/master.m3u8
-#EXTINF:-1 channel-id="ARD-Alpha.de"                   tvg-id="ARD-alpha.de"             tvg-chno="0013" tvg-logo="https://download.avm.de/tv/logos/ard_alpha.png"                                           group-title="🇩🇪 | DEUTSCH CH" , ARD-Alpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 channel-id="RadioBremen.de"                 tvg-id="RadioBremen.de"           tvg-chno="0014" tvg-logo="https://download.avm.de/tv/logos/radio_bremen.png"                                        group-title="🇩🇪 | DEUTSCH CH" , Radio Bremen
-https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-#EXTINF:-1 channel-id="3sat.de"                        tvg-id="3sat.de"                  tvg-chno="0015" tvg-logo="https://download.avm.de/tv/logos/3sat.png"                                                group-title="🇩🇪 | DEUTSCH CH" , 3sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 channel-id="zdfinfo.de"                     tvg-id="zdfinfo.de"               tvg-chno="0016" tvg-logo="https://download.avm.de/tv/logos/zdf_info.png"                                            group-title="🇩🇪 | DEUTSCH CH" , ZDF info
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 channel-id="zdfinfo.de"                     tvg-id="zdfinfo.de"               tvg-chno="0016" tvg-logo="https://download.avm.de/tv/logos/zdf_info.png"                                            group-title="🇩🇪 | DEUTSCH CH" , ZDF info
-https://cachehsi1a.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
-#EXTINF:-1 channel-id="zdfneo.de"                      tvg-id="zdfneo.de"                tvg-chno="0017" tvg-logo="https://download.avm.de/tv/logos/zdf_neo.png"                                             group-title="🇩🇪 | DEUTSCH CH" , ZDF neo
-https://cachehsi1a.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
-#EXTINF:-1 channel-id="zdfneo.de"                      tvg-id="zdfneo.de"                tvg-chno="0017" tvg-logo="https://download.avm.de/tv/logos/zdf_neo.png"                                             group-title="🇩🇪 | DEUTSCH CH" , ZDF neo
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-
-#EXTINF:-1 channel-id="ZDF.de"                         tvg-id="zdf.de"                   tvg-chno="0002" tvg-logo="https://download.avm.de/tv/logos/zdf.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , ZDF
-#EXTINF:-1 channel-id="ORF1.de"                        tvg-id="orf1.at"                  tvg-chno="0020" tvg-logo="https://2ix2.com/wp-content/uploads/2020/07/29.png"                                       group-title="🇩🇪 | DEUTSCH CH" , ORF 1
-
-#EXTINF:-1 channel-id="ORF1.de"                        tvg-id="orf2.at"                  tvg-chno="0020" tvg-logo="https://2ix2.com/wp-content/uploads/2020/07/29.png"                                       group-title="🇩🇪 | DEUTSCH CH" , ORF 2
-https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 
 
 
