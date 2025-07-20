@@ -4,9 +4,17 @@
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 
+http://89.187.191.41/TRT-1-HD-TR/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 https://izle.canlitvapp.com/aytv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV 
+https://live20.bozztv.com/gin-36bay4/gt-atv-tv3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
