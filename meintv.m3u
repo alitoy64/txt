@@ -119,21 +119,12 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 http://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=v5srSbD2WBk.m3u8
 
-#EXTINF:-1, Krt_Tv
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
-
-
-#EXTINF:-1, CNBC_E
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
-
-#EXTINF:-1, Bloomberg_Ht
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bloomberg_Ht.m3u8
 
 
 
 
-#EXTINF:-1, Eko_Turk
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Eko_Turk.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
@@ -170,17 +161,10 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png",TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 
-#EXTINF:-1,Yol_Tv
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yol_Tv.m3u8
 
 
 
 
-#EXTINF:-1, Bein_Spor_Haber
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-
-#EXTINF:-1, Ht_Spor
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ht_Spor.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV 
@@ -676,6 +660,7 @@ https://mcdn.one.ard.de/ardone/hls/master.m3u8
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 channel-id="HR.de"                          tvg-id="HR.de"                    tvg-chno="0011" tvg-logo="https://download.avm.de/tv/logos/hr_hd.png"                                               group-title="🇩🇪 | DEUTSCH CH" , HR
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
