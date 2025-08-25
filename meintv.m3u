@@ -724,7 +724,7 @@ https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 
 
 #EXTINF:-1,24 tv
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
 
 
 #EXTINF:-1,tv net
@@ -751,13 +751,13 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
 
 
-#EXTINF:-1, TRT HABER
+#EXTINF:-1,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1, BENGÜ TÜRK
+#EXTINF:-1,BENGÜ TÜRK
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 
-#EXTINF:-1 a haber
+#EXTINF:-1,a haber
 https://b.fulltvizle.com/ahaber/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV 
@@ -833,18 +833,18 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1,kanal 7 avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
-#EXTINF:-1, TRT TÜRK
+#EXTINF:-1,TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 
-#EXTINF:-1 gzt tv
+#EXTINF:-1,gzt tv
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
-#EXTINF:-1, tyt türk
+#EXTINF:-1,tyt türk
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM TV
+#EXTINF:-1,tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 
 
@@ -1327,6 +1327,7 @@ https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
 
 #EXTINF:-1, ege havaları
 https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
+
 
 
 
