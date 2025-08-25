@@ -42,7 +42,7 @@ http://176.65.146.123:6002/play/a00z/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK 
-https://b.fulltvizle.com/cnn/playlist.m3u8
+http://116.202.238.88/CNNTURK_TR/tracks-v1a1/index.m3u8
 
 
 
@@ -660,6 +660,7 @@ https://mcdn.one.ard.de/ardone/hls/master.m3u8
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 channel-id="HR.de"                          tvg-id="HR.de"                    tvg-chno="0011" tvg-logo="https://download.avm.de/tv/logos/hr_hd.png"                                               group-title="🇩🇪 | DEUTSCH CH" , HR
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
