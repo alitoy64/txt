@@ -519,11 +519,8 @@ https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u
 #EXTINF:-1 channel-id="wetter.de"                      tvg-id="wetter.de"                tvg-chno="0047" tvg-logo="https://wetter.tv/images/wetter-tv-logo.svg"                                              group-title="🇩🇪 | DEUTSCH CH" , WETTER
 https://streaming.meteonews.net/hls/stream.m3u8
 
+                               
 
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="mdr.de"                 tvg-logo="https://download.avm.de/tv/logos/mdr.png"                                                ,MDR
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ndr.de"                 tvg-logo="https://download.avm.de/tv/logos/ndr_hd.png"                                             ,NDR
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="rbb.de"                 tvg-logo="https://download.avm.de/tv/logos/rbb.png"                                                ,RBB
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8
 
@@ -1226,6 +1223,7 @@ https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
 
 #EXTINF:-1, ege havaları
 https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
+
 
 
 
