@@ -563,10 +563,6 @@ https://daserste-live.ard-mcdn.de/daserste/replay/dash/de/manifest.mpd
 
 
 
-#EXTINF:-1 channel-id="MDR.de"                         tvg-id="mdr.de"                   tvg-chno="0004" tvg-logo="https://download.avm.de/tv/logos/mdr.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , MDR
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-#EXTINF:-1 channel-id="NDR.de"                         tvg-id="ndr.de"                   tvg-chno="0005" tvg-logo="https://download.avm.de/tv/logos/ndr_hd.png"                                              group-title="🇩🇪 | DEUTSCH CH" , NDR
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 channel-id="RBB.de"                         tvg-id="rbb.de"                   tvg-chno="0006" tvg-logo="https://download.avm.de/tv/logos/rbb.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RBB
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8
 #EXTINF:-1 channel-id="RBBBerlin.de"                   tvg-id="rbb.de"                   tvg-chno="0007" tvg-logo="https://download.avm.de/tv/logos/rbb.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RBB BERLIN
@@ -1230,6 +1226,7 @@ https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
 
 #EXTINF:-1, ege havaları
 https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
+
 
 
 
