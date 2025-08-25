@@ -1133,7 +1133,7 @@ https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8
 #EXTINF:-1, hunat tv
 https://waw2.artiyerelmedya.net/hunattv/bant1/chunks.m3u8
 
-#EXTINF:-1 kardelen tv
+#EXTINF:-1, kardelen tv
 https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 
 #EXTINF:-1, kay tv
@@ -1330,6 +1330,7 @@ https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
 
 #EXTINF:-1, ege havaları
 https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
+
 
 
 
