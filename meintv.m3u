@@ -717,20 +717,20 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1, n tv
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 
-#EXTINF:-1 tv 100
+#EXTINF:-1,tv 100
 https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 
 
 
 
-#EXTINF:-1, 24 tv
+#EXTINF:-1,24 tv
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 
 
-#EXTINF:-1, tv net
+#EXTINF:-1,tv net
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
-#EXTINF:-1, ülke tv
+#EXTINF:-1,ülke tv
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 
@@ -745,7 +745,7 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
 
 
-#EXTINF:-1, flash haber
+#EXTINF:-1,flash haber
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
 
@@ -799,17 +799,17 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1, medya haber 
 https://iko-streamline-live1.akamaized.net/MedyaHaber/master.m3u8
 
-#EXTINF:-1, tv 5
+#EXTINF:-1,tv 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 
 
 
-#EXTINF:-1, TRT 2
+#EXTINF:-1,TRT 2
 https://tv-trt2medya.trt.com.tr/master.m3u8
 
 
 
-#EXTINF:-1, TRT tabii tv
+#EXTINF:-1,TRT tabii tv
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 
@@ -827,13 +827,13 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:-1, TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 kanal 7
+#EXTINF:-1, kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
-kanal 7 avrupa
+#EXTINF:-1,kanal 7 avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
-#EXTINF:-1 TRT TÜRK
+#EXTINF:-1, TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 
@@ -853,16 +853,16 @@ https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 
-#EXTINF:-1, TLC TÜRK
+#EXTINF:-1,TLC TÜRK
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 
-#EXTINF:-1, TRT BELGESEL
+#EXTINF:-1,TRT BELGESEL
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1, a2
+#EXTINF:-1,a2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_360p.m3u8
 
-#EXTINF:-1, teve 2
+#EXTINF:-1,teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
 
@@ -874,10 +874,10 @@ https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 
 
 
-#EXTINF:-1, evren tv
+#EXTINF:-1,evren tv
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 
-#EXTINF:-1, tivi6
+#EXTINF:-1,tivi6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 #EXTINF:-1, tivi türk
@@ -886,13 +886,13 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1, kanal avrupa
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 
-#EXTINF:-1, TRT Nnostalji tv
+#EXTINF:-1,TRT Nnostalji tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
-#EXTINF:-1, bloomberght tv
+#EXTINF:-1,bloomberght tv
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 
-#EXTINF:-1, tv4
+#EXTINF:-1,tv4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png",CNBC-E 1
@@ -906,17 +906,17 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
 
 
-#EXTINF:-1, MECLiS TV
+#EXTINF:-1,MECLiS TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
      
-#EXTINF:-1, trt world
+#EXTINF:-1,trt world
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1, trt arabic
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1, dha
+#EXTINF:-1,dha
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png",TBMM TV
@@ -934,7 +934,7 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 
 
 
-#EXTINF:-1, iha
+#EXTINF:-1,iha
 https://live01.iha.tv/webabone/live/chunks.m3u8
 
 #EXTINF:-1, al jazeera
@@ -944,13 +944,13 @@ https://live-hls-apps-aja-fa.getaj.net/AJA/05.m3u8
 
 
       
-#EXTINF:-1, trt müzik
+#EXTINF:-1,trt müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1, kral pop
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
 
-#EXTINF:-1 ons tv
+#EXTINF:-1,ons tv
 https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,power tv
@@ -962,17 +962,17 @@ https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m
 #EXTINF:-1, number one
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
 
-#EXTINF:-1, ezgi tv
+#EXTINF:-1,ezgi tv
 https://live.euromediacenter.com/ezgitv/index.m3u8
 
-#EXTINF:-1, lebih tv
+#EXTINF:-1,lebih tv
 https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
 
 
 #EXTINF:-1, baraza relax
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
-#EXTINF:-1, chill tv
+#EXTINF:-1,chill tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8
 
 #EXTINF:-,1 sdm sinema
@@ -981,22 +981,22 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, movies premier
 https://tv1.arectv30.sbs/live/bspremier1.m3u8
 
-#EXTINF:-1, movies türk
+#EXTINF:-1,movies türk
 https://tv1.arectv30.sbs/live/bsturk.m3u8
 
-#EXTINF:-1 movie stars
+#EXTINF:-1, movie stars
 https://tv1.arectv30.sbs/live/bsstars.m3u8
 
-#EXTINF:-1, smart türk
+#EXTINF:-1,smart türk
 https://tv1.arectv30.sbs/live/mvturk.m3u8
 
-#EXTINF:-1, manas tv
+#EXTINF:-1,manas tv
 http://212.42.111.152:8080/hls/manas.m3u8
 
-#EXTINF:-1 bs Action
+#EXTINF:-1, bs Action
 https://tv.arectv34.sbs/live/bsaction1.m3u8
 
-#EXTINF:-1, türk sinema
+#EXTINF:-1,türk sinema
 https://tv.arectv34.sbs/live/sinema2.m3u8
 
 
@@ -1004,31 +1004,28 @@ https://tv.arectv34.sbs/live/sinema2.m3u8
 #EXTINF:-1,türk sinema 1
 https://tv.arectv34.sbs/live/sinemayerli2.m3u8
 
-#EXTINF:-1, sinema tv
+#EXTINF:-1,sinema tv
 https://tv.arectv34.sbs/live/sinema1002.m3u8
 
-#EXTINF:-1, tictok tv
+#EXTINF:-1,tictok tv
 https://30a-tv.com/feeds/720p/63.m3u8
-
-     
-
-     
-#EXTINF:-1, a spor
+   
+#EXTINF:-1,a spor
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 
-#EXTINF:-1, fb tv
+#EXTINF:-1,fb tv
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
-#EXTINF:-1 sports tv
+#EXTINF:-1,sports tv
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
-#EXTINF:-1, s Sport
+#EXTINF:-1,s Sport
 https://217.30.11.74/e/3030.m3u8
 
-#EXTINF:-1, s sport 2
+#EXTINF:-1,s sport 2
 https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8
 
-#EXTINF:-1, trt spor
+#EXTINF:-1,trt spor
 http://162.212.179.33:80/dvrfl05/gin-trtspor/playlist.m3u8
 
 #EXTINF:-1, trt spor yıldız
@@ -1330,6 +1327,7 @@ https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
 
 #EXTINF:-1, ege havaları
 https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
+
 
 
 
