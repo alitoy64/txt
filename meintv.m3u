@@ -102,8 +102,13 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" referer="https://turkcanli.tv",SÖZCÜ TV 1
+https://helga.iptv2022.com/szc_tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV 2
+http://176.65.146.123:6004/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV3
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 
 
@@ -1319,6 +1324,7 @@ https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
 
 #EXTINF:-1 ege havaları
 https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
+
 
 
 
