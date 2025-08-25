@@ -100,13 +100,9 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
-https://b.fulltvizle.com/sozcu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV 
 https://izle.canlitvapp.com/sozcu/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png",TELE 1
@@ -663,6 +659,7 @@ https://mcdn.one.ard.de/ardone/hls/master.m3u8
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 channel-id="HR.de"                          tvg-id="HR.de"                    tvg-chno="0011" tvg-logo="https://download.avm.de/tv/logos/hr_hd.png"                                               group-title="🇩🇪 | DEUTSCH CH" , HR
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
