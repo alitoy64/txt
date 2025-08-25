@@ -148,6 +148,9 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
 
 
+#EXTINF:-1 MEDYA HABER
+https://iko-streamline-live1.akamaized.net/MedyaHaber/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
@@ -660,6 +663,7 @@ https://mcdn.one.ard.de/ardone/hls/master.m3u8
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 channel-id="HR.de"                          tvg-id="HR.de"                    tvg-chno="0011" tvg-logo="https://download.avm.de/tv/logos/hr_hd.png"                                               group-title="🇩🇪 | DEUTSCH CH" , HR
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
