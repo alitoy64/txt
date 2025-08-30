@@ -569,7 +569,7 @@ https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 
 
-#EXTINF:-1, medya haber 
+#EXTINF:-1,MEDYA HABER HDP 
 https://iko-streamline-live1.akamaized.net/MedyaHaber/master.m3u8
 
 #EXTINF:-1,tv 5
@@ -582,7 +582,7 @@ https://tv-trt2medya.trt.com.tr/master.m3u8
 
 
 
-#EXTINF:-1,TRT tabii tv
+#EXTINF:-1,TRT TABii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 
@@ -613,11 +613,11 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,gzt tv
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
-#EXTINF:-1,tyt türk
+#EXTINF:-1,TYT TÜRK
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 
 
-#EXTINF:-1,tvg-logo="https://i.ibb.co/Fq0ZvYG/meltemtvt.png",MELTEM TV
+#EXTINF:-1,MELTEM 
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 
 
@@ -659,13 +659,13 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1, kanal avrupa
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 
-#EXTINF:-1,TRT Nnostalji tv
+#EXTINF:-1,TRT Nostalji Tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
-#EXTINF:-1,bloomberght tv
+#EXTINF:-1,Bloomberght Tv
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 
-#EXTINF:-1,tv4
+#EXTINF:-1,TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png",CNBC-E 1
@@ -674,7 +674,7 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png",CNBC-E
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
 
-#EXTINF:-1,dmax türk
+#EXTINF:-1,DMAX TÜRK
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
 
@@ -862,7 +862,6 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 #EXTINF:-1, KURAN TV 1
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 
-     
 
 #EXTINF:-1, TARIM TV       
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
@@ -1112,123 +1111,128 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
 
-#EXTINF:-1 channel-id="RTL.de"                         tvg-id="RTL.de"                   tvg-chno="0021" tvg-logo="https://download.avm.de/tv/logos/rtl.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RTL
+#EXTINF:-1,RTL                                                                        
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 
 
 
 
-#EXTINF:-1 channel-id="Pro7.de"                        tvg-id="Pro7.de"                  tvg-chno="0037" tvg-logo="https://download.avm.de/tv/logos/pro7.png"                                                group-title="🇩🇪 | DEUTSCH CH" , PRO 7
+#EXTINF:-1,Pro7
 #https://cachehsi1b.netplus.ch/live/eds/pro7/browser-dash-VMX/pro7.mpd
 https://strm.hdtvizlecanli.com/live/pro7.m3u8
 #http://85.187.13.40:18000/ProSieben
 
 
-#EXTINF:-1 channel-id="ProSiebenMaxx.de"               tvg-id="ProSiebenMaxx.de"         tvg-chno="0038" tvg-logo="https://download.avm.de/tv/logos/pro7maxx.png"                                            group-title="🇩🇪 | DEUTSCH CH" , PRO 7 MAXX
-#https://cachehsi1b.netplus.ch/live/eds/prosiebenmaxx/browser-dash-VMX/prosiebenmaxx.mpd
+#EXTINF:-1,ProSieben  7    
 https://strm.hdtvizlecanli.com/live/pro7max.m3u8
 
 
 
 
-#EXTINF:-1 channel-id="Sat1.de"                        tvg-id="Sat1.de"                  tvg-chno="0031" tvg-logo="https://download.avm.de/tv/logos/sat1.png"                                                group-title="🇩🇪 | DEUTSCH CH" , SAT 1
+#EXTINF:-1,Sat1                 
 #https://cachehsi1b.netplus.ch/live/eds/sat1/browser-dash-VMX/sat1.mpd
 https://strm.hdtvizlecanli.com/live/sat1.m3u8
 
 
 
 
-#EXTINF:-1 channel-id="phoenix.de"                     tvg-id="phoenix.de"               tvg-chno="0041" tvg-logo="https://download.avm.de/tv/logos/phoenix.png"                                             group-title="🇩🇪 | DEUTSCH CH" , Phoenix
+#EXTINF:-1,phoenix                                          
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 channel-id="tagesschau24.de"                tvg-id="tagesschau24.de"          tvg-chno="0042" tvg-logo="https://download.avm.de/tv/logos/tagesschau24.png"                                        group-title="🇩🇪 | DEUTSCH CH" , tagesschau24
+#EXTINF:-1,tagesschau24.de"               
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-360p-1328.m3u8
 
-#EXTINF:-1 channel-id="ARTE.de"                        tvg-id="ARTE.de"                  tvg-chno="0018" tvg-logo="https://download.avm.de/tv/logos/arte.png"                                                group-title="🇩🇪 | DEUTSCH CH" , arte
+#EXTINF:-1,ARTE                                                                    
 https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v540.m3u8
 
 
 
 
-#EXTINF:-1 channel-id="Kabeleinsdoku.de"               tvg-id="Kabeleinsdoku.de"         tvg-chno="0050" tvg-logo="https://download.avm.de/tv/logos/kabel1.png"                                              group-title="🇩🇪 | DEUTSCH CH" , KABELeins DOKU
+#EXTINF:-1,Kabeleinsdoku                                                         
 https://strm.hdtvizlecanli.com/live/kabel1doku.m3u8
 
 
 
-#EXTINF:-1 channel-id="ANIXE.de"                       tvg-id="ANIXE.de"                 tvg-chno="0029" tvg-logo="https://download.avm.de/tv/logos/anixe_hd.png"                                            group-title="🇩🇪 | DEUTSCH CH" , ANIXE TV
+#EXTINF:-1,ANIXE                                         
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 channel-id="ANIXE.de"                       tvg-id="ANIXE.de"                 tvg-chno="0029" tvg-logo="https://download.avm.de/tv/logos/anixe_hd.png"                                            group-title="🇩🇪 | DEUTSCH CH" , ANIXE SERIE
+#EXTINF:-1,ANIXE                                           
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 
 
-#EXTINF:-1 channel-id="Sat1Gold.de"                    tvg-id="Sat1Gold.de"              tvg-chno="0032" tvg-logo="https://download.avm.de/tv/logos/sat1gold.png"                                            group-title="🇩🇪 | DEUTSCH CH" , SAT 1 GOLD
+#EXTINF:-1,Sat1 Gold                                         
 #https://cachehsi1b.netplus.ch/live/eds/sat1gold/browser-dash-VMX/sat1gold.mpd
 https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kika.de"                tvg-logo="https://download.avm.de/tv/logos/kika.png"                                               ,KIKA
+#EXTINF:-1,KIKA                                    
 https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
 
 
+                     
 
-
-#EXTINF:-1 channel-id="WELT.de"                        tvg-id="WELT.de"                  tvg-chno="0044" tvg-logo="https://www.welt.de/favicon-76.png"                                                       group-title="🇩🇪 | DEUTSCH CH" , WELT
+#EXTINF:-1,DIE WELT                                                       
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u
 
 
-#EXTINF:-1 channel-id="wetter.de"                      tvg-id="wetter.de"                tvg-chno="0047" tvg-logo="https://wetter.tv/images/wetter-tv-logo.svg"                                              group-title="🇩🇪 | DEUTSCH CH" , WETTER
+#EXTINF:-1,wetter                                           
 https://streaming.meteonews.net/hls/stream.m3u8
 
                                
 
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="rbb.de"                 tvg-logo="https://download.avm.de/tv/logos/rbb.png"                                                ,RBB
+#EXTINF:-1,RBB                                             
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="HR.de"                  tvg-logo="https://download.avm.de/tv/logos/hr_hd.png"                                              ,HR
+#EXTINF:-1,HR                                            
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 
 
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="RadioBremen.de"         tvg-logo="https://download.avm.de/tv/logos/radio_bremen.png"                                       ,Radio Bremen
+#EXTINF:-1,RADIO BREMEN                                      
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="3sat.de"                tvg-logo="https://download.avm.de/tv/logos/3sat.png"                                               ,3sat
+
+#EXTINF:-1,3sat                                         
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="zdfinfo.de"             tvg-logo="https://download.avm.de/tv/logos/zdf_info.png"                                           ,ZDF info
+
+#EXTINF:-1,ZDF info
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="zdfneo.de"              tvg-logo="https://download.avm.de/tv/logos/zdf_neo.png"                                            ,ZDF neo
+
+#EXTINF:-1,ZDF neo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 
 
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="phoenix.de"             tvg-logo="https://download.avm.de/tv/logos/phoenix.png"                                            ,Phoenix
+#EXTINF:-1,Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 
 
 
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="wetter.de"              tvg-logo=""                                                                                        ,WETTER
+#EXTINF:-1,wetter                                                                                                 
 https://streaming.meteonews.net/hls/stream.m3u8
 
 
 
 
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ATV
-https://strm.hdtvizlecanli.com/live/atv.m3u8
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ARD ONE
+#EXTINF:-1,ONE                                                                                                           
 https://mcdn-one.ard.de/ardone/dash/manifest.mpd
-#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ARD
+
+#EXTINF:-1,ERSTE                                                                                       
 https://daserste-live.ard-mcdn.de/daserste/replay/dash/de/manifest.mpd
 
 
 
-#EXTINF:-1 channel-id="RBB.de"                         tvg-id="rbb.de"                   tvg-chno="0006" tvg-logo="https://download.avm.de/tv/logos/rbb.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RBB
+#EXTINF:-1,RBB                                              
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8
-#EXTINF:-1 channel-id="RBBBerlin.de"                   tvg-id="rbb.de"                   tvg-chno="0007" tvg-logo="https://download.avm.de/tv/logos/rbb.png"                                                 group-title="🇩🇪 | DEUTSCH CH" , RBB BERLIN
+
+#EXTINF:-1,RBBBerlin                                           
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
-#EXTINF:-1 channel-id="SWR.de"                         tvg-id="SWR.de"                   tvg-chno="0008" tvg-logo="https://download.avm.de/tv/logos/swr_hd.png"                                              group-title="🇩🇪 | DEUTSCH CH" , SWR
+
+#EXTINF:-1,SWR                                         
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 
-#EXTINF:-1 channel-id="BR.de"                          tvg-id="BR.de"                    tvg-chno="0010" tvg-logo="https://download.avm.de/tv/logos/br_hd.png"                                               group-title="🇩🇪 | DEUTSCH CH" , BR
+#EXTINF:-1,"BR                                        
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 channel-id="HR.de"                          tvg-id="HR.de"                    tvg-chno="0011" tvg-logo="https://download.avm.de/tv/logos/hr_hd.png"                                               group-title="🇩🇪 | DEUTSCH CH" , HR
+
+#EXTINF:-1,HR                                          
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
