@@ -419,14 +419,17 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.pgn,TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
-#EXTINF:-1 tvg-name="WOMAN TV" tvg-id="WomanTV.tr" tvg-logo="https://i.ibb.co/bHTjDyk/woman-tv.png",WOMAN TV
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+
+
 #EXTINF:-1 tvg-name="TGRT EU" tvg-id="TGRTEU.tr" tvg-logo="https://i.ibb.co/kMM9hwR/tgrt-eu.png",TGRT EU
 https://tgn.bozztv.com/dvrfl05/gin-tgrteu/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Tivi 6" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png",TIVI 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
 #EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png",BIR TV
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="CINE5 TV" tvg-id="" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png",CINE5 TV
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 
@@ -597,7 +600,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 
 
-#EXTINF:-1, TRT AVAZ
+#EXTINF:-1,TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1, kanal 7
@@ -689,8 +692,6 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1, trt arabic
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1,dha
-https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
@@ -707,7 +708,7 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 
 
 
-#EXTINF:-1,iha
+#EXTINF:-1,IHA Haber Ajans
 https://live01.iha.tv/webabone/live/chunks.m3u8
 
 #EXTINF:-1, al jazeera
@@ -748,7 +749,7 @@ https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1,chill tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8
 
-#EXTINF:-,1 sdm sinema
+#EXTINF:-1,sdm sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, movies premier
@@ -1232,6 +1233,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1,HR                                          
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
