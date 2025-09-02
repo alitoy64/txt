@@ -183,72 +183,6 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV 
-https://live20.bozztv.com/gin-36bay4/gt-atv-tv3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW 
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 
-http://89.187.191.41/TRT-1-HD-TR/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" referer="https://turkcanli.tv",TRT 1 
-https://helga.iptv2022.com/sh/trt_1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1 
-https://b.fulltvizle.com/trt1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D 
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR 
-https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR 
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
-http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR 
-http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR 
-http://trn03.tulix.tv/gt-star-tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR 
-https://live20.bozztv.com/trn09/gin-startv/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW 
-https://canlitvulusal.xyz/live/showtv/index.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png",TBMM TV
-https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K6BKFqY/dha.png",DHA  1
-https://603c568fccdf5.streamlock.net/live/dhaweb1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K6BKFqY/dha.png",DHA 2
-https://603c568fccdf5.streamlock.net/live2/dhaweb2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png",AA 
-http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SAMANYOLU TV" tvg-logo=",SAMANYOLU TV
@@ -1233,6 +1167,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1,HR                                          
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
