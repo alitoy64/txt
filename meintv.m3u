@@ -101,7 +101,9 @@ http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER
-https://b.fulltvizle.com/ahaber/playlist.m3u8
+
+http://95.174.71.114:80/TR-A-HABER/index.m3u8
+
 
 
 
@@ -1170,6 +1172,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1,HR                                          
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
