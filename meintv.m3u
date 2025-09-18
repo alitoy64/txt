@@ -13,6 +13,8 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 https://izle.canlitvapp.com/aytv/index.m3u8
 
@@ -54,7 +56,8 @@ https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=uYhB1txWoLBeBZKs033Z3Q&e=17562362
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
-http://176.65.146.123:6002/play/a00z/index.m3u8
+https://izle.canlitvapp.com/cnn/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK 
@@ -1167,6 +1170,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1,HR                                          
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
