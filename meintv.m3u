@@ -113,9 +113,8 @@ http://95.174.71.114:80/TR-A-HABER/index.m3u8
 #EXTINF:-1,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-#EXTINF:-1, ShowMax
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/ShowMax.m3u8
-
+#EXTINF:-1 tvg-name="SHOW MAX" tvg-id="ShowMax.tr" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png",SHOW MAX
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7
@@ -181,8 +180,6 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
 
 
-#EXTINF:-1,MEDYA HABER
-https://iko-streamline-live1.akamaized.net/MedyaHaber/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png",GZT
@@ -264,17 +261,10 @@ https://tv.arectv34.sbs/live/smart1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KAY TV KAYSERİ
-https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
 
-#EXTINF:-1, ShowMax
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/ShowMax.m3u8
 
 #EXTINF:-1, TRT_Haber
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/TRT_Haber.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3CWV8bS.png,Mercan TV 
@@ -283,6 +273,20 @@ https://waw2.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ATV AVRUPA" tvg-id="" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png",ATV AVRUPA
+https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="SHOW TURK" tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/rtCJSqm/show-turk.png",SHOW TURK
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
+
+#EXTINF:-1 tvg-name="EUROSTAR" tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png",EUROSTAR
+https://tgn.bozztv.com/trn03/gt-eurostar/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png" ,KANAL AVRUP	
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
@@ -372,8 +376,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9grLJCS/fone22.png",FASHION ONE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png",POWER TV
@@ -390,20 +392,6 @@ https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png",EURO D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ATV AVRUPA" tvg-id="" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png",ATV AVRUPA
-https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="SHOW TURK" tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/rtCJSqm/show-turk.png",SHOW TURK
-https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
-
-#EXTINF:-1 tvg-name="EUROSTAR" tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png",EUROSTAR
-https://tgn.bozztv.com/trn03/gt-eurostar/index.m3u8
-
-#EXTINF:-1 tvg-name="SHOW MAX" tvg-id="ShowMax.tr" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png",SHOW MAX
-https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 
 #EXTINF:-1 tvg-name="TRT Turk" tvg-id="TRTTurk.tr" tvg-logo="https://i.ibb.co/zN1BK38/trt-turk.png",TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
@@ -561,8 +549,6 @@ https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 
 
-#EXTINF:-1,MEDYA HABER HDP 
-https://iko-streamline-live1.akamaized.net/MedyaHaber/master.m3u8
 
 #EXTINF:-1,tv 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
@@ -671,10 +657,6 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
 
 
-#EXTINF:-1,MECLiS TV
-https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-
-     
 #EXTINF:-1,trt world
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
@@ -749,19 +731,12 @@ https://tv.arectv34.sbs/live/sinema1002.m3u8
 #EXTINF:-1,tictok tv
 https://30a-tv.com/feeds/720p/63.m3u8
    
-#EXTINF:-1,a spor
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 
-#EXTINF:-1,fb tv
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
-#EXTINF:-1,sports tv
-https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
-#EXTINF:-1,s Sport
-https://217.30.11.74/e/3030.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KAY TV KAYSERİ
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
 
-al_lifetv/lifetv/playlist.m3u8
 
 #EXTINF:-1, kanal 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
@@ -1134,6 +1109,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1,HR                                          
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
