@@ -205,58 +205,34 @@ https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protoc
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 
    
-#EXTINF:-1,a spor
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 
-#EXTINF:-1,fb tv
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
 #EXTINF:-1,sports tv
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
-#EXTINF:-1,s Sport
-https://217.30.11.74/e/3030.m3u8
-
-#EXTINF:-1,s sport 2
-https://alpha.cf-worker-f9865672506d71.workers.dev/live/selcukssport2/playlist.m3u8
-
-#EXTINF:-1,trt spor
-http://162.212.179.33:80/dvrfl05/gin-trtspor/playlist.m3u8
-
-#EXTINF:-1, trt spor yıldız
-https://trn03.tulix.tv/gt-trtspor2/playlist.m3u8
-
 #EXTINF:-1, tr spor tv
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
-#EXTINF:-1, tay tv
-https://217.30.11.74/e/201.m3u8
 
 #EXTINF:-1,ht spor
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 
-#EXTINF:-1, sky Sport
-http://185.156.74.112/iptv/3HYPASK67VVUSL/2480/index.m3u8
-
-#EXTINF:-1, V Sport
-http://185.156.74.112/iptv/3HYPASK67VVUSL/19163/index.m3u8
-
-#EXTINF:-1, bein sports 1
+#EXTINF:-1,Bein sports 1
 https://bs.arectv33.sbs/static/bs1.m3u8
 
-#EXTINF:-,1 bein sports 2
+#EXTINF:-1,Bein sports 2
 https://bs.arectv33.sbs/static/bs2.m3u8
 
-#EXTINF:-1, bein sports 3
+#EXTINF:-1,Bein sports 3
 https://bs.arectv33.sbs/static/bs3.m3u8
 
-#EXTINF:-1, bein sports 4
+#EXTINF:-1,Bein sports 4
 https://bs.arectv33.sbs/static/bs4.m3u8
 
-#EXTINF:-1, bein sports  5
+#EXTINF:-1,Bein sports  5
 https://bs.arectv33.sbs/static/bs5.m3u8
 
-#EXTINF:-1, smart 1
+#EXTINF:-1,Smart 1
 https://tv.arectv34.sbs/live/smart1.m3u8
 
 
@@ -373,23 +349,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png",NUMBER ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png",POWER TV
-https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png",POWER LOVE
-http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",ANADOLU NET TV
-https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",TEMPO TV
-https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 
 
 
@@ -1109,6 +1068,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1,HR                                          
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
