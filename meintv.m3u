@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Cnn_Turk.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK 
-http://116.202.238.88/CNNTURK_TR/tracks-v1a1/index.m3u8
+https://izle.canlitvapp.com/cnn/index.m3u8
 
 
 
@@ -1086,6 +1086,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1,HR                                          
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
