@@ -44,16 +44,21 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=ijQKNd9HhSeeBerbDTmgqA&e=1759703139
-
-
-
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=ijQKNd9HhSeeBerbDTmgqA&e=1759703139
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=q4dq5iWnMDG7cuePy97xug&e=1760038212
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=q4dq5iWnMDG7cuePy97xug&e=1760038212
+
+
+
+
+
+
+
 
 
 
@@ -1093,6 +1098,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1,HR                                          
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
