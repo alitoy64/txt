@@ -43,9 +43,6 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 
-#EXTINF:0,TR: FX HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
 
 
 
@@ -55,6 +52,9 @@ https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=QCdE1zqj5-GXnTFYjsr1Sg&e=
 
 
 
+#EXTINF:0,TR: FX HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
 
 
 
@@ -1246,6 +1246,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1,HR                                          
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
