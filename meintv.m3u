@@ -1154,10 +1154,6 @@ https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 
 
-#EXTINF:-1,Pro7
-#https://cachehsi1b.netplus.ch/live/eds/pro7/browser-dash-VMX/pro7.mpd
-https://strm.hdtvizlecanli.com/live/pro7.m3u8
-#http://85.187.13.40:18000/ProSieben
 
 
 #EXTINF:-1,ProSieben  7    
@@ -1377,6 +1373,7 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
 #EXTINF:-1,NDR International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+
 
 
 
