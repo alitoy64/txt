@@ -136,6 +136,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
 #EXTINF:0,TR: TV 8 INT
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861
+
 #EXTINF:0,TR: TV 8.5 HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862
@@ -218,10 +219,31 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
+#EXTINF:0,TR: TGRT EU
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48869
+
+#EXTINF:0,TR: TEVE2 HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48870
+
+#EXTINF:0,TR: Teve 2
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48871
+
+#EXTINF:0,TR: TLC
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
+
+#EXTINF:0,TR: A2 TV HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48873
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png",TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SAMANYOLU TV" tvg-logo=",SAMANYOLU TV
@@ -1237,6 +1259,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1,HR                                          
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
