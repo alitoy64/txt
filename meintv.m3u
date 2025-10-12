@@ -1154,12 +1154,8 @@ https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 
 
-
-
 #EXTINF:-1,ProSieben  7    
 https://strm.hdtvizlecanli.com/live/pro7max.m3u8
-
-
 
 #EXTINF:-1,Sat1                 
 #https://cachehsi1b.netplus.ch/live/eds/sat1/browser-dash-VMX/sat1.mpd
@@ -1167,9 +1163,13 @@ https://strm.hdtvizlecanli.com/live/sat1.m3u8
 
 
 
+  #EXTINF:-1,Welt
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8                   
+
 
 #EXTINF:-1,phoenix                                          
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+
 #EXTINF:-1,tagesschau24.de"               
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-360p-1328.m3u8
 
@@ -1177,6 +1177,12 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v540.m3u8
 
 
+#EXTINF:-1,ERSTE                                                                                       
+https://daserste-live.ard-mcdn.de/daserste/replay/dash/de/manifest.mpd
+
+
+#EXTINF:-1,wetter                                           
+https://streaming.meteonews.net/hls/stream.m3u8
 
 
 #EXTINF:-1,Kabeleinsdoku                                                         
@@ -1184,8 +1190,9 @@ https://strm.hdtvizlecanli.com/live/kabel1doku.m3u8
 
 
 
-#EXTINF:-1,ANIXE                                         
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1,ANIXE  DELUXE                                      
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8 
+
 #EXTINF:-1,ANIXE                                           
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 
@@ -1197,15 +1204,6 @@ https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 #EXTINF:-1,KIKA                                    
 https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
 
-
-                     
-
-#EXTINF:-1,DIE WELT                                                       
-https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u
-
-
-#EXTINF:-1,wetter                                           
-https://streaming.meteonews.net/hls/stream.m3u8
 
                                
 
@@ -1244,9 +1242,6 @@ https://streaming.meteonews.net/hls/stream.m3u8
 
 #EXTINF:-1,ONE                                                                                                           
 https://mcdn-one.ard.de/ardone/dash/manifest.mpd
-
-#EXTINF:-1,ERSTE                                                                                       
-https://daserste-live.ard-mcdn.de/daserste/replay/dash/de/manifest.mpd
 
 
 
@@ -1373,6 +1368,7 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
 #EXTINF:-1,NDR International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+
 
 
 
