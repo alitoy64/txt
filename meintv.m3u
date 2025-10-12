@@ -124,6 +124,31 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 
 
+#EXTINF:0,TR: SHOW Turk HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850
+
+#EXTINF:0,TR: EUROSTAR SD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48853
+
+#EXTINF:0,TR: EURO D HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48856
+
+#EXTINF:-1,kanal 7 avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+
+#EXTINF:-1,TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png" ,KANAL AVRUP	
+https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
+
+
+
+
+
 
 #EXTINF:0,TR: TV 8 HD
 #EXTVLCOPT:network-caching=1000
@@ -136,18 +161,6 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861
 #EXTINF:0,TR: TV 8.5 HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV 8
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV 8,5
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" referer="https://turkcanli.tv",SÖZCÜ TV
@@ -326,24 +339,28 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48851
 #EXTINF:0,TR: STAR TV
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48852
-#EXTINF:0,TR: EUROSTAR SD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48853
+
+
 #EXTINF:0,TR: Kanal D HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854
+
 #EXTINF:0,TR: KANAL D
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48855
+
 #EXTINF:0,TR: EURO D HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48856
+
 #EXTINF:0,TR: EURO D
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48857
+
 #EXTINF:0,TR: NOW TV HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
+
 #EXTINF:0,TR: TV 8 HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
@@ -438,8 +455,6 @@ https://tgn.bozztv.com/trn03/gt-eurostar/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png" ,KANAL AVRUP	
-https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 
 #EXTINF:-1,Yesilcam_Tv
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yesilcam_Tv.m3u8
@@ -1270,6 +1285,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1,HR                                          
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
