@@ -44,14 +44,12 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
 
-#EXTINF:-1,NOW TV
+
+#EXTINF:-1 tvg-id="NOWTV.tr",NOW TV (720p)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-http://stream.tvcdn.net/ulusal/now-tv.m3u8
+#EXTINF:-1 tvg-id="NOWTV.tr",NOW TV
+http://116.202.238.88/FOXTV_TR/index.m3u8
 
 
 
@@ -1259,6 +1257,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1,HR                                          
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
