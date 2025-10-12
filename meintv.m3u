@@ -38,6 +38,8 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
+#EXTINF:-1,NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
 
 
@@ -46,8 +48,7 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
 
-#EXTINF:-1,NOW TV
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
 
 #EXTINF:0,TR: FX HD
 #EXTVLCOPT:network-caching=1000
@@ -1240,6 +1241,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1,HR                                          
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
 
 
 
