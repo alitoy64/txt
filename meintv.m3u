@@ -1270,20 +1270,20 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 
 
-#EXTINF:-1;Das Erste 
+#EXTINF:-1,Das Erste 
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
-#EXTINF:-1;ZDF 
+#EXTINF:-1,ZDF 
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
 #EXTINF:-1,WDR
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 
 
-#EXTINF:-1;3sat
+#EXTINF:-1,3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 
-#EXTINF:-1;ARD Alpha 
+#EXTINF:-1,ARD Alpha 
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
 #EXTINF:-1,ARTE
@@ -1377,6 +1377,7 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
 #EXTINF:-1,NDR International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+
 
 
 
