@@ -263,9 +263,8 @@ https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1, tr spor tv
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
-
-#EXTINF:-1,ht spor
-https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
+#EXTINF:-1,Ht_Spor
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Ht_Spor.m3u8
 
 #EXTINF:-1,Bein sports 1
 https://bs.arectv33.sbs/static/bs1.m3u8
@@ -1379,6 +1378,7 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
 #EXTINF:-1,NDR International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+
 
 
 
