@@ -70,6 +70,12 @@ https://izle.canlitvapp.com/cnn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TÜRK 
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 
+
+#EXTINF:-1,Haber_Turk
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Haber_Turk.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL
 
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Haber_Global_TV.m3u8
@@ -1373,6 +1379,7 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
 #EXTINF:-1,NDR International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+
 
 
 
