@@ -54,7 +54,8 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 
 
 
-
+#EXTINF:-1, cnn türk
+http://116.202.238.88/CNNTURK_TR/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
@@ -1383,6 +1384,7 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
 #EXTINF:-1,NDR International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+
 
 
 
