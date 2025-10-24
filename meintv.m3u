@@ -300,8 +300,6 @@ https://bs.arectv33.sbs/static/bs4.m3u8
 #EXTINF:-1,Bein sports  5
 https://bs.arectv33.sbs/static/bs5.m3u8
 
-
-
 #EXTINF:-1,Smart 1
 https://tv.arectv34.sbs/live/smart1.m3u8
 
@@ -311,7 +309,106 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/A_Spor.m3u8
 #EXTINF:-1,Bein_Spor_Haber
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
 
-
+#EXTINF:-1,BeIN SPORT 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49218
+#EXTINF:-1,bEIN SPORT 1 HD 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49219
+#EXTINF:-1,TRT SPOR Yildiz
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49220
+#EXTINF:-1,TRT-3 SPOR
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49221
+#EXTINF:-1,SPORTS TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49222
+#EXTINF:-1,S SPORT HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49223
+#EXTINF:-1,S SPORT SD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49224
+#EXTINF:-1,S Sport 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49225
+#EXTINF:-1,TiViBU SPOR 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49226
+#EXTINF:-1,TiViBU SPOR 2*
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49227
+#EXTINF:-1,TiViBU SPOR 2 UHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49228
+#EXTINF:-1,TiViBU SPOR 3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49229
+#EXTINF:-1,TIVIBU SPOR 4 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49230
+#EXTINF:-1,SPOR SMART UHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49231
+#EXTINF:-1,SPOR SMART 2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49232
+#EXTINF:-1,Exxen Sport 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49233
+#EXTINF:-1,Exxen Sport 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49234
+#EXTINF:-1,Exxen Sport 3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49235
+#EXTINF:-1,Exxen Sport 4
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49236
+#EXTINF:-1,Exxen Sport 5
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49237
+#EXTINF:-1,Exxen Sport 6
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49238
+#EXTINF:-1,Exxen Sport 7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49239
+#EXTINF:-1,S SPORT PLUS+
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49240
+#EXTINF:-1,S SPORT PLUS+1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49241
+#EXTINF:-1,SPORT PLUS+2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49242
+#EXTINF:-1,SPORT PLUS+3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49243
+#EXTINF:-1,S SPORT PLUS+4
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49244
+#EXTINF:-1,S SPORT PLUS+5
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49245
+#EXTINF:-1,bein connect 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49246
+#EXTINF:-1,bein connect 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49247
+#EXTINF:-1,bein connect 3
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49248
+#EXTINF:-1,bein connect 4
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49249
+#EXTINF:-1, bein connect 5
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49250
+#EXTINF:-1, bein connect 6
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49251
+#EXTINF:-1,GS TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49252
+#EXTINF:-1,FB TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49253
+#EXTINF:-1,BOX WWE SMACKDOWN
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49254
+#EXTINF:-1,BOX KiCKBOKS
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49255
+#EXTINF:-1, beIN SPORTS HABER
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48894
+#EXTINF:-1,TRT SPOR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48895
+#EXTINF:-1,TRT SPOR
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48896
+#EXTINF:-1,TIVIBU SPOR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48897
+#EXTINF:-1,EUROSPORT 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48898
+#EXTINF:-1,EUROSPORT 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48899
+#EXTINF:-1,FIGHTBOX
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48900
+#EXTINF:-1,NBA
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48901
+#EXTINF:-1,SPOR SMART
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48902
+#EXTINF:-1,Spor Smart 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48903
+#EXTINF:-1,A SPOR
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48904
+#EXTINF:-1,T.A.Y TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48905
 
 
 #EXTINF:0,TR: TRT1 HD
@@ -1402,6 +1499,7 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
 #EXTINF:-1,NDR International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+
 
 
 
