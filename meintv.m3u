@@ -273,7 +273,8 @@ https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protoc
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yol_Tv.m3u8
 
 
- 
+ #EXTINF:-1,CEM TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49177
 
 
 #EXTINF:-1,sports tv
@@ -1499,6 +1500,7 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
 #EXTINF:-1,NDR International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+
 
 
 
