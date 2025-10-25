@@ -1,7 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
+
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT HD
 #EXTVLCOPT:network-caching=1000
@@ -1473,6 +1475,7 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
 #EXTINF:-1,NDR International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+
 
 
 
