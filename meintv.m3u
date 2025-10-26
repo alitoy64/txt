@@ -150,17 +150,6 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
 
 
-#EXTINF:0,TR: SHOW Turk HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850
-
-#EXTINF:0,TR: EUROSTAR SD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48853
-
-#EXTINF:0,TR: EURO D HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48856
 
 #EXTINF:-1,kanal 7 avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
@@ -243,9 +232,6 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
-#EXTINF:0,TR: TGRT EU
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48869
 
 #EXTINF:0,TR: TEVE2 HD
 #EXTVLCOPT:network-caching=1000
@@ -386,13 +372,6 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49254
 
 
 
-#EXTINF:0,TR: FX HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
-#EXTINF:0,TR: 360 TV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
-
 
 
 
@@ -516,129 +495,6 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 
 
 
-
-
-
-#EXTINF:-1, TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-
-
-#EXTINF:-1, ATV 
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-
-
-
-#EXTINF:-1, kanal d
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-
-#EXTINF:-1, show tv
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-
-#EXTINF:-1,star tv
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-
-
-#EXTINF:-1, NOW TV
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-
-
-
-#EXTINF:-1, cnn türk
-http://116.202.238.88/CNNTURK_TR/tracks-v1a1/index.m3u8
-
-
-
-#EXTINF:-1, haber global
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-
-#EXTINF:-1, HABER TÜRK
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-
-#EXTINF:-1, n tv
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-
-#EXTINF:-1,tv 100
-https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
-
-
-
-
-#EXTINF:-1,24 tv
-https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
-
-
-#EXTINF:-1,tv net
-https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
-
-#EXTINF:-1,ülke tv
-https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-
-
-
-#EXTINF:-1, akit tv
-https://akittv-live.ercdn.net/akittv/akittv.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-
-
-
-#EXTINF:-1,flash haber
-https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
-
-
-
-
-#EXTINF:-1,TRT HABER
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1,BENGÜ TÜRK
-https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-
-#EXTINF:-1,a haber
-https://b.fulltvizle.com/ahaber/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV 
-https://helga.iptv2022.com/sh/ekol_tv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png",BLOOMBERG HT 
-https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
-
-
-#EXTINF:-1, tele 1
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
-
-
-#EXTINF:-1, halk tv
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-
-#EXTINF:-1, szc tv
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
-
-#EXTINF:-1, lider haber
-http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-
-#EXTINF:-1, türk haber
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png",BLOOMBERG HT
-https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
-
-#EXTINF:-1, finaz türk
-https://yayin30.haber100.com/live/finansturk/playlist.m3u8
-
-
-
-#EXTINF:-1,tv 5
-https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 
 
 
@@ -898,74 +754,10 @@ https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:-1, haber 61 tv
 https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
 
-#EXTINF:-1,history tv
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6856/index.m3u8
 
 
 
 
-
-#EXTINF:-1,24_Tv
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/24_Tv.m3u8
-#EXTINF:-1,A_haber
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/A_haber.m3u8
-#EXTINF:-1,Akit_Tv
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Akit_Tv.m3u8
-#EXTINF:-1,A_Spor
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/A_Spor.m3u8
-
-#EXTINF:-1,Bein_Spor_Haber
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1,Benguturk_Tv
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Benguturk_Tv.m3u8
-#EXTINF:-1,Bloomberg_Ht
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bloomberg_Ht.m3u8
-#EXTINF:-1,CNBC_E
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/CNBC_E.m3u8
-#EXTINF:-1,Cnn_Turk
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Cnn_Turk.m3u8
-#EXTINF:-1,Ekol_Tv
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Ekol_Tv.m3u8
-#EXTINF:-1,Eko_Turk
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Eko_Turk.m3u8
-#EXTINF:-1,Flash_Haber
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Flash_Haber.m3u8
-#EXTINF:-1,Haber_Global_TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Haber_Global_TV.m3u8
-#EXTINF:-1,Haber_Turk
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Haber_Turk.m3u8
-#EXTINF:-1,Halk_Tv
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Halk_Tv.m3u8
-#EXTINF:-1,Ht_Spor
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Ht_Spor.m3u8
-#EXTINF:-1,Kemal_Sunal_Tv
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8
-#EXTINF:-1,Krt_Tv
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Krt_Tv.m3u8
-#EXTINF:-1,NTV
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/NTV.m3u8
-#EXTINF:-1,ShowMax
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/ShowMax.m3u8
-#EXTINF:-1,Sozcu_Tv
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Sozcu_Tv.m3u8
-#EXTINF:-1,Tele_1
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Tele_1.m3u8
-#EXTINF:-1,Tgrt_Belgesel
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Tgrt_Belgesel.m3u8
-#EXTINF:-1,TRT_Haber
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/TRT_Haber.m3u8
-#EXTINF:-1,TV_100
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/TV_100.m3u8
-#EXTINF:-1,Tv_Net
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Tv_Net.m3u8
-#EXTINF:-1,Ulke_Tv
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Ulke_Tv.m3u8
-#EXTINF:-1,Ulusal_Kanal
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Ulusal_Kanal.m3u8
-#EXTINF:-1,Yesilcam_Tv
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yesilcam_Tv.m3u8
-#EXTINF:-1,Yol_Tv
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yol_Tv.m3u8
 
 
 
@@ -1307,6 +1099,7 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 
 #EXTINF:-1,NDR International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+
 
 
 
