@@ -872,21 +872,30 @@ https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
 
 
 
-#EXTINF:-1,ARD                
+
+#EXTINF:-1 tvg-id="" tvg-name=" DAS ERSTE" tvg-logo=",ARD         
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
-#EXTINF:-1,ZDF     
+#EXTINF:-1 tvg-id="" tvg-name=" DAS ERSTE" tvg-logo=",DAS ERSTE 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36654
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DF" tvg-logo=",ZDF 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31260
+
+#EXTINF:-1 tvg-id="" tvg-name="DF" tvg-logo=",ZDF     
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
-#EXTINF:-1,WDR
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WDR HD" tvg-logo="WDR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31313
 
-#EXTINF:-1,RTL                                                                        
+#EXTINF:-1 tvg-id="" tvg-name="RTL FHD" tvg-logo=",RTL                                                                     
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="RTL II FHD" tvg-logo=", RTL II 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31268
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="VOXup HD" tvg-logo=",VOX up 
@@ -899,6 +908,11 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31278
 
 #EXTINF:-1 tvg-id="" tvg-name="RTL FHD" tvg-logo=",RTL 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31267
+
+#EXTINF:-1 tvg-id="" tvg-name="RTL II FHD" tvg-logo=", RTL II 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31268
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RTL Living HD" tvg-logo=",RTL Living 
@@ -981,72 +995,64 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31277
 
 
 
-#EXTINF:-1,wetter                                           
-https://streaming.meteonews.net/hls/stream.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo=",Boomerang HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31410
-
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo=",Cartoon Network HD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo=",Cartoon Network 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31411
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD" tvg-logo=",Disney Channel FHD
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD" tvg-logo=",Disney Channel 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31412
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD" tvg-logo=",Disney XD HD
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD" tvg-logo=",Disney XD 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31413
 
-#EXTINF:-1 tvg-id="" tvg-name="Junior HD" tvg-logo=",Junior HD
+#EXTINF:-1 tvg-id="" tvg-name="Junior HD" tvg-logo=",Junior 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31414
 
-#EXTINF:-1 tvg-id="" tvg-name="KIKA HD" tvg-logo=",KIKA HD
+#EXTINF:-1 tvg-id="" tvg-name="KIKA HD" tvg-logo=",KIKA 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31415
 
-#EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-logo=",Nick HD
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD" tvg-logo=",Nick 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31416
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon  HD" tvg-logo=",Nickelodeon  HD
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon  HD" tvg-logo=",Nickelodeon  
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31417
 
-#EXTINF:-1 tvg-id="" tvg-name="Super RTL FHD" tvg-logo=",Super RTL FHD
+#EXTINF:-1 tvg-id="" tvg-name="Super RTL FHD" tvg-logo=",Super RTL 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31418
 
-#EXTINF:-1 tvg-id="" tvg-name="Toggo Plus HD" tvg-logo=",Toggo Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="Toggo Plus HD" tvg-logo=",Toggo Plus 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31419
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MDR HD" tvg-logo=", MDR HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31311
 
-#EXTINF:-1 tvg-id="" tvg-name="Welt der Wunder HD" tvg-logo=",Welt der Wunder HD
+#EXTINF:-1 tvg-id="" tvg-name="Welt der Wunder HD" tvg-logo=",Welt der Wunder 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31301
 
-#EXTINF:-1 tvg-id="" tvg-name="Welt HD" tvg-logo=",Welt HD
+#EXTINF:-1 tvg-id="" tvg-name="Welt HD" tvg-logo=",Welt 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31300
 
-#EXTINF:-1 tvg-id="" tvg-name="Spiegel Geschichte HD" tvg-logo=",Spiegel Geschichte HD
+#EXTINF:-1 tvg-id="" tvg-name="Spiegel Geschichte HD" tvg-logo=",Spiegel Geschichte 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31299
 
-#EXTINF:-1 tvg-id="" tvg-name="DOXX HD" tvg-logo=",DOXX HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31298
 
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix HD" tvg-logo=",Phoenix HD
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix HD" tvg-logo=",Phoenix 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31297
 
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD" tvg-logo=",Nat Geo Wild FHD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD" tvg-logo=",Nat Geo Wild 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31296
 
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo FHD" tvg-logo=",Nat Geo FHD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo FHD" tvg-logo=",Nat Geo 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31295
 
-#EXTINF:-1 tvg-id="" tvg-name="History FHD" tvg-logo=",History FHD
+#EXTINF:-1 tvg-id="" tvg-name="History FHD" tvg-logo=",History 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31294
 
-
+#EXTINF:-1 tvg-id="" tvg-name="MDR HD" tvg-logo=", MDR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31311
 
 #EXTINF:-1 tvg-id="" tvg-name="SR HD" tvg-logo=",SR HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31310
@@ -1060,7 +1066,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31308
 #EXTINF:-1 tvg-id="" tvg-name="ARTE HD" tvg-logo=",ARTE HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31307
 
-#EXTINF:-1 tvg-id="" tvg-name="Spiegel TV Wissen HD" tvg-logo=",Spiegel TV Wissen HD
+#EXTINF:-1 tvg-id="" tvg-name="Spiegel TV Wissen HD" tvg-logo=",Spiegel TV Wissen 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31306
 
 #EXTINF:-1 tvg-id="" tvg-name="Anixe Serie HD" tvg-logo=",Anixe Serie 
@@ -1069,18 +1075,20 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31284
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD" tvg-logo=", Discovery Channel 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31292
 
-#EXTINF:-1 tvg-id="" tvg-name="Universal TV FHD" tvg-logo=",Universal TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV FHD" tvg-logo=",Universal TV 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31291
 
-#EXTINF:-1 tvg-id="" tvg-name="DMAX FHD" tvg-logo=",DMAX FHD
+#EXTINF:-1 tvg-id="" tvg-name="DMAX FHD" tvg-logo=",DMAX 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31293
 
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo=",TLC HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31287
 
-#EXTINF:-1 tvg-id="" tvg-name="ONE HD" tvg-logo=", ONE HD
+#EXTINF:-1 tvg-id="" tvg-name="ONE HD" tvg-logo=", ONE 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31286
 
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo=",Boomerang 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31410
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo=",HGTV
@@ -1088,6 +1096,11 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31322
 
 #EXTINF:-1 tvg-id="" tvg-name="Pearl TV HD" tvg-logo=",Pearl TV HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31321
+
+
+#EXTINF:-1,wetter                                           
+https://streaming.meteonews.net/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Heimatkanal HD" tvg-logo=",Heimatkanal HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31320
@@ -1104,6 +1117,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
