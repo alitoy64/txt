@@ -887,7 +887,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31260
 #EXTINF:-1 tvg-id="" tvg-name="DF" tvg-logo=",ZDF     
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="WDR HD" tvg-logo="WDR HD
+#EXTINF:-1 tvg-id="" tvg-name="WDR HD" tvg-logo=",WDR HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31313
 
 #EXTINF:-1 tvg-id="" tvg-name="RTL FHD" tvg-logo=",RTL                                                                     
@@ -1117,6 +1117,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
