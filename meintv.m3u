@@ -876,9 +876,8 @@ https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" DAS ERSTE" tvg-logo=",ARD         
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" DAS ERSTE" tvg-logo=",DAS ERSTE 
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/36654
-
+#EXTINF:-1 tvg-id="" tvg-name="Das Erste" tvg-logo=", Das Erste 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31259
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DF" tvg-logo=",ZDF 
@@ -1119,6 +1118,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
