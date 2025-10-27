@@ -932,10 +932,6 @@ https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 #https://cachehsi1b.netplus.ch/live/eds/sat1gold/browser-dash-VMX/sat1gold.mpd
 https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 
-#EXTINF:-1,KIKA                                    
-https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
-
-
                                
 
 #EXTINF:-1,RBB                                             
@@ -1009,12 +1005,18 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1,ARTE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOXup HD" tvg-logo=",VOX up 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31279
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX FHD" tvg-logo=",VOX 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31278
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tele 5 FHD" tvg-logo=",Tele 5 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31277
 
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL FHD" tvg-logo="" group-title=", RTL 
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL FHD" tvg-logo=",RTL 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31267
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sat.1 Gold FHD" tvg-logo="" group-title=",Sat.1 Gold FHD
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat.1 Gold FHD" tvg-logo=",Sat.1 Gold FHD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31275
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sat.1 FHD" tvg-logo="" group-title=",Sat.1 
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat.1 FHD" tvg-logo=",,Sat.1 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31274
 #EXTINF:-1 tvg-id="" tvg-name="DE: RTL Living HD" tvg-logo=",RTL Living 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31273
@@ -1026,7 +1028,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31271
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31270
 #EXTINF:-1 tvg-id="" tvg-name="DE: RTL Nitro FHD" tvg-logo=",RTL Nitro FHD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31269
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTLII FHD" tvg-logo="" group-title=",DE: RTL II 
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTLII FHD" tvg-logo=", RTL II 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31268
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sat 1 Emotions HD" tvg-logo=",Sat 1 Emotions 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31276
@@ -1044,84 +1046,22 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31262
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31261
 
 
+#EXTINF:-1 tvg-id="" tvg-name="DE: AXN HD" tvg-logo=",AXN HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31285
 
 
-#EXTINF:-1,Euronews Deutsch 
-https://www.youtube.com/euronewsde/live
+#EXTINF:-1 tvg-id="" tvg-name="DE: n-tv FHD" tvg-logo=",n-tv 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31302
 
-#EXTINF:-1,KiKa 
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tageschau 24 HD" tvg-logo=",Tageschau 24 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31305
 
-#EXTINF:-1,ONE 
-https://mcdn-one.ard.de/ardone/hls/master.m3u8
-
-#EXTINF:-1,Phoenix
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
-
-#EXTINF:-1,Tagesschau24 
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-
-#EXTINF:-1,Welt
-https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
-
-#EXTINF:-1,ZDFinfo-
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
-
-#EXTINF:-1,ZDFneo
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-
-#EXTINF:-1,BR Nord
-https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-
-#EXTINF:-1,BR Süd
-https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
-
-#EXTINF:-1,HR
-https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
-
-#EXTINF:-1,MDR Sachsen 
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-
-#EXTINF:-1,MDR Sachsen-Anhalt
-https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
-
-#EXTINF:-1,MDR Thüringen  
-https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
-
-#EXTINF:-1,NDR Hamburg 
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-
-#EXTINF:-1,NDR Mecklenburg-Vorpommern
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-
-#EXTINF:-1,NDR Niedersachsen
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-
-#EXTINF:-1,NDR Schleswig-Holstein
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-
-#EXTINF:-1,Radio Bremen
-https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-
-#EXTINF:-1,RBB Berlin
-https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
-
-#EXTINF:-1,RBB Brandenburg
-https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
-
-#EXTINF:-1,SR 
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-
-#EXTINF:-1,SWR Baden-Württemberg
-https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-
-#EXTINF:-1,SWR Rheinland-Pfalz
-https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: N24 Doku HD" tvg-logo=", N24 Doku 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31303
 
 
-
-#EXTINF:-1,NDR International
-https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: EURONEWS GERMAN HD" tvg-logo=",EURONEWS GERMAN 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31318
 
 
 
@@ -1153,38 +1093,19 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31419
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DE: n-tv FHD" tvg-logo=",n-tv FHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31302
-
-#EXTINF:-1 tvg-id="" tvg-name="DE: Tageschau 24 HD" tvg-logo=",Tageschau 24 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31305
-
-#EXTINF:-1 tvg-id="" tvg-name="DE: N24 Doku HD" tvg-logo=", N24 Doku HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31303
-
-
-#EXTINF:-1 tvg-id="" tvg-name="DE: EURONEWS GERMAN HD" tvg-logo=",EURONEWS GERMAN HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31318
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DE: SWR HD" tvg-logo=",SWR 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31314
-#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD" tvg-logo="" group-title=",WDR 
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD" tvg-logo=",,WDR 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31313
-#EXTINF:-1 tvg-id="" tvg-name="DE: NDR HD" tvg-logo="" group-title=",NDR 
+#EXTINF:-1 tvg-id="" tvg-name="DE: NDR HD" tvg-logo=",,NDR 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31312
 
 #EXTINF:-1 tvg-id="" tvg-name="DE: 3sat HD" tvg-logo=", 3sat 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31283
 #EXTINF:-1 tvg-id="" tvg-name="DE: SIXX FHD" tvg-logo=",SIXX 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31282
-
-#EXTINF:-1 tvg-id="" tvg-name="DE: VOXup HD" tvg-logo=",VOX up 
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31279
-#EXTINF:-1 tvg-id="" tvg-name="DE: VOX FHD" tvg-logo=",VOX 
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31278
-#EXTINF:-1 tvg-id="" tvg-name="DE: Tele 5 FHD" tvg-logo=",Tele 5 
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31277
 
 
 
@@ -1232,8 +1153,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31291
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31287
 #EXTINF:-1 tvg-id="" tvg-name="DE: ONE HD" tvg-logo=", ONE HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31286
-#EXTINF:-1 tvg-id="" tvg-name="DE: AXN HD" tvg-logo=",AXN HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31285
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DE: HGTV" tvg-logo=",HGTV
@@ -1249,14 +1169,13 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31293
 #EXTINF:-1,DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1,DELUXE
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 
 #EXTINF:-1,DELUXE MUSIC RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
