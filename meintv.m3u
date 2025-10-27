@@ -971,8 +971,6 @@ https://streaming.meteonews.net/hls/stream.m3u8
 
 
 
-#EXTINF:-1,ONE                                                                                                           
-https://mcdn-one.ard.de/ardone/dash/manifest.mpd
 
 
 
@@ -1011,17 +1009,42 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1,ARTE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
-#EXTINF:-1,DELUXE MUSIC
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1,DELUXE
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL FHD" tvg-logo="" group-title=", RTL 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31267
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat.1 Gold FHD" tvg-logo="" group-title=",Sat.1 Gold FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31275
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat.1 FHD" tvg-logo="" group-title=",Sat.1 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31274
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Living HD" tvg-logo=",RTL Living 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31273
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Plus HD" tvg-logo=",RTL Plus 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31272
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Crime FHD" tvg-logo=",RTL Crime 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31271
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Passion FHD" tvg-logo=",RTL Passion 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31270
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Nitro FHD" tvg-logo=",RTL Nitro FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31269
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTLII FHD" tvg-logo="" group-title=",DE: RTL II 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31268
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat 1 Emotions HD" tvg-logo=",Sat 1 Emotions 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31276
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro 7 Fun FHD" tvg-logo=",Pro 7 Fun 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31266
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro7 MAXX FHD" tvg-logo=",Pro7 MAXX 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31265
+#EXTINF:-1 tvg-id="" tvg-name="DE: ProSieben FHD" tvg-logo=",ProSieben 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31264
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Eins Doku HD" tvg-logo=",Kabel Eins Doku 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31263
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel 1 Classic FHD" tvg-logo="Kabel 1 Classic 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31262
+#EXTINF:-1 tvg-id="" tvg-name="DE: kabel eins HD" tvg-logo="" group-title=",DE: kabel eins 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31261
 
-#EXTINF:-1,DELUXE MUSIC RAP
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
-#EXTINF:-1,SCHLAGER DELUXE
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 #EXTINF:-1,Euronews Deutsch 
 https://www.youtube.com/euronewsde/live
@@ -1130,14 +1153,110 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31419
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="DE: n-tv FHD" tvg-logo=",n-tv FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31302
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tageschau 24 HD" tvg-logo=",Tageschau 24 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31305
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: N24 Doku HD" tvg-logo=", N24 Doku HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31303
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: EURONEWS GERMAN HD" tvg-logo=",EURONEWS GERMAN HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31318
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: SWR HD" tvg-logo=",SWR 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31314
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD" tvg-logo="" group-title=",WDR 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31313
+#EXTINF:-1 tvg-id="" tvg-name="DE: NDR HD" tvg-logo="" group-title=",NDR 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31312
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: 3sat HD" tvg-logo=", 3sat 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31283
+#EXTINF:-1 tvg-id="" tvg-name="DE: SIXX FHD" tvg-logo=",SIXX 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31282
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOXup HD" tvg-logo=",VOX up 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31279
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX FHD" tvg-logo=",VOX 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31278
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tele 5 FHD" tvg-logo=",Tele 5 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31277
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="DE: MDR HD" tvg-logo=", MDR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31311
+#EXTINF:-1 tvg-id="" tvg-name="DE: Welt der Wunder HD" tvg-logo=",Welt der Wunder HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31301
+#EXTINF:-1 tvg-id="" tvg-name="DE: Welt HD" tvg-logo=",Welt HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31300
+#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel Geschichte HD" tvg-logo=",Spiegel Geschichte HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31299
+#EXTINF:-1 tvg-id="" tvg-name="DE: DOXX HD" tvg-logo=",DOXX HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31298
+#EXTINF:-1 tvg-id="" tvg-name="DE: Phoenix HD" tvg-logo=",Phoenix HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31297
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nat Geo Wild FHD" tvg-logo=",Nat Geo Wild FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31296
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nat Geo FHD" tvg-logo=",Nat Geo FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31295
+#EXTINF:-1 tvg-id="" tvg-name="DE: History FHD" tvg-logo=",History FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31294
+#EXTINF:-1 tvg-id="" tvg-name="DE: CNBC HD" tvg-logo=",CNBC HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31319
 
 
+#EXTINF:-1 tvg-id="" tvg-name="DE: SR HD" tvg-logo=",SR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31310
+#EXTINF:-1 tvg-id="" tvg-name="DE: HR HD" tvg-logo=",HR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31309
+#EXTINF:-1 tvg-id="" tvg-name="DE: BR HD" tvg-logo=", BR HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31308
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARTE HD" tvg-logo=",ARTE HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31307
+#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel TV Wissen HD" tvg-logo=",Spiegel TV Wissen HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31306
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: Anixe Serie HD" tvg-logo=",Anixe Serie 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31284
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery Channel FHD" tvg-logo=", Discovery Channel 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31292
+#EXTINF:-1 tvg-id="" tvg-name="DE: Universal TV FHD" tvg-logo=",Universal TV FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31291
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: TLC HD" tvg-logo=",TLC HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31287
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONE HD" tvg-logo=", ONE HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31286
+#EXTINF:-1 tvg-id="" tvg-name="DE: AXN HD" tvg-logo=",AXN HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31285
 
 
+#EXTINF:-1 tvg-id="" tvg-name="DE: HGTV" tvg-logo=",HGTV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31322
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pearl TV HD" tvg-logo=",Pearl TV HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31321
+#EXTINF:-1 tvg-id="" tvg-name="DE: Heimatkanal HD" tvg-logo=",Heimatkanal HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31320
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX FHD" tvg-logo=",DMAX FHD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31293
 
+
+#EXTINF:-1,DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1,DELUXE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:-1,DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1,SCHLAGER DELUXE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 
 
 
