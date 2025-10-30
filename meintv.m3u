@@ -210,9 +210,6 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Eko_Turk.m3u8
 
 
-#EXTINF:-1 tvg-logo=" https://i.ibb.co/wrMn5rgQ/mktv.png",MK TV
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
@@ -232,6 +229,35 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://i.ibb.co/wrMn5rgQ/mktv.png",MK TV
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: iLKE TV" tvg-logo=",iLKE TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49183
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: YILDIZ TV" tvg-logo=",YILDIZ TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49184
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Line TV" tvg-logo=",Line TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49213
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT2 HD" tvg-logo=",TRT2 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: DEHA TV" tvg-logo=", DEHA TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49179
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ" tvg-logo=",MAVI KARADENIZ
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49180
+#EXTINF:-1 tvg-id="" tvg-name="TR: SEMERKAND TV" tvg-logo=",SEMERKAND TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49181
+#EXTINF:-1 tvg-id="" tvg-name="TR: LALEGUL TV" tvg-logo=",LALEGUL TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49182
+
+
+
 
 
 #EXTINF:0,TR: TEVE2 HD
@@ -263,9 +289,9 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49291
 #EXTINF:-1,Yol_Tv
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yol_Tv.m3u8
 
-
- #EXTINF:-1,CEM TV
+#EXTINF:-1 tvg-id="" tvg-name="TR: CEM TV" tvg-logo=",CEM TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49177
+
 
 
 #EXTINF:-1,sports tv
@@ -1122,6 +1148,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
