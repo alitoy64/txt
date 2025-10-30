@@ -230,6 +230,13 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGnRLnLM/yenicag.png",YENİ ÇAĞ TV
+https://live.euromediacenter.com/yenicagtv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhcxMxJ9/telenews.png",TELE NEWS
+https://cdn-telenews.yayin.com.tr/telenews/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/wrMn5rgQ/mktv.png",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
@@ -246,6 +253,19 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49213
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT2 HD" tvg-logo=",TRT2 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9Pmc2qN/thhaber.jpg",TÜRK HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQdBjZfW/finansturk.png",FİNANS TÜRK
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2vyJRC5/noktatv.jpg",NOKTA TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Nokta_Tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: DEHA TV" tvg-logo=", DEHA TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49179
@@ -1041,6 +1061,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
