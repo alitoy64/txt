@@ -118,7 +118,7 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png",NTV
+#EXTINF:-1,NTV TÜRK
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 
 
@@ -130,7 +130,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 http://95.174.71.114:80/TR-A-HABER/index.m3u8
 
 
-#EXTINF:0,TR: BLOOMBERGHT HD
+#EXTINF:-1,BLOOMBERGHT TÜRK
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
 
@@ -138,15 +138,15 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
 #EXTINF:-1,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-#EXTINF:0,TR: SHOW MAX HD
+#EXTINF:-1,TR: SHOW MAX HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48867
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png",KANAL 7
+#EXTINF:-1,KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
-#EXTINF:0,TR: FX HD
+#EXTINF:1,TR: FX HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
 
@@ -249,10 +249,13 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: DEHA TV" tvg-logo=", DEHA TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49179
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ" tvg-logo=",MAVI KARADENIZ
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49180
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: SEMERKAND TV" tvg-logo=",SEMERKAND TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49181
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: LALEGUL TV" tvg-logo=",LALEGUL TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49182
 
@@ -263,10 +266,6 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49182
 #EXTINF:0,TR: TEVE2 HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48870
-
-#EXTINF:0,TR: Teve 2
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48871
 
 #EXTINF:0,TR: TLC
 #EXTVLCOPT:network-caching=1000
@@ -293,9 +292,6 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yol_Tv.m3u8
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49177
 
 
-
-#EXTINF:-1,sports tv
-https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 #EXTINF:-1, tr spor tv
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
@@ -344,18 +340,12 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49223
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49225
 #EXTINF:-1,TiViBU SPOR 2 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49226
-#EXTINF:-1,TiViBU SPOR 2*
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49227
-#EXTINF:-1,TiViBU SPOR 2 UHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49228
 #EXTINF:-1,TiViBU SPOR 3
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49229
 #EXTINF:-1,TIVIBU SPOR 4 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49230
 #EXTINF:-1,SPOR SMART UHD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49231
-#EXTINF:-1,SPOR SMART 2 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49232
 
 
 #EXTINF:-1,S SPORT PLUS+
@@ -476,77 +466,12 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png",DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png",POWER TÜRK
-http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png",POWER TÜRK TAPTAZE
-http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png",POWER TÜRK SLOW
-http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png",POWER TÜRK AKUSTİK
-http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png",TATLISES
-https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png",MİLYON TV
-https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png",NUMBER ONE TÜRK
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg",NUMBER ONE TÜRK ASK
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg",NUMBER ONE TÜRK DAMAR
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg",NUMBER ONE TÜRK DANCE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-name="Tivi 6" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png",TIVI 6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png",BIR TV
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CINE5 TV" tvg-id="" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png",CINE5 TV
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1,TRT 2
-https://tv-trt2medya.trt.com.tr/master.m3u8
-
-
-
-#EXTINF:-1,TRT TABii TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-
-
-#EXTINF:-1, BEYAZ TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-
-#EXTINF:-1, TV 8
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-
-
-#EXTINF:-1 TV 8,5
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-
-
-#EXTINF:-1,TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u
 
 #EXTINF:-1, kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
@@ -574,19 +499,6 @@ https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 
-#EXTINF:-1,TLC TÜRK
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-
-#EXTINF:-1,TRT BELGESEL
-https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1,a2
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_360p.m3u8
-
-#EXTINF:-1,teve 2
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-
-
 #EXTINF:-1, cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
@@ -598,29 +510,10 @@ https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 #EXTINF:-1,evren tv
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 
-#EXTINF:-1,tivi6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 #EXTINF:-1, tivi türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
-#EXTINF:-1, kanal avrupa
-https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
-
-#EXTINF:-1,TRT Nostalji Tv
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-
-#EXTINF:-1,Bloomberght Tv
-https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
-
-#EXTINF:-1,TV 4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png",CNBC-E 1
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png",CNBC-E
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
 
 #EXTINF:-1,DMAX TÜRK
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
@@ -1148,6 +1041,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
