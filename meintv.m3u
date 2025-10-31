@@ -196,11 +196,16 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49195
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
@@ -225,16 +230,13 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
-https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGnRLnLM/yenicag.png",YENİ ÇAĞ TV
 https://live.euromediacenter.com/yenicagtv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1,NEO TV
+https://edge1.socialsmart.tv/neohaber/bant1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhcxMxJ9/telenews.png",TELE NEWS
 https://cdn-telenews.yayin.com.tr/telenews/index.m3u8
@@ -263,15 +265,15 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Eko_Turk.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: DEHA TV" tvg-logo=", DEHA TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49179
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png",TV 5
+https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 
-#EXTINF:-1,NEO TV
-https://edge1.socialsmart.tv/neohaber/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAMANYOLU TV" tvg-logo=",SAMANYOLU TV
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ" tvg-logo=",MAVI KARADENIZ
@@ -299,11 +301,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48873
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png",TV 5
-https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SAMANYOLU TV" tvg-logo=",SAMANYOLU TV
-https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT TABii TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49291
@@ -500,18 +498,6 @@ https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="CINE5 TV" tvg-id="" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png",CINE5 TV
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u
 
-#EXTINF:-1, kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-
-#EXTINF:-1,kanal 7 avrupa
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
-
-#EXTINF:-1,TRT TÜRK
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-
-
-#EXTINF:-1,gzt tv
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 #EXTINF:-1,TYT TÜRK
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
@@ -1068,6 +1054,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
