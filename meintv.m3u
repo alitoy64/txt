@@ -21,8 +21,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV Avrupa
-http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D 
@@ -307,6 +306,8 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48873
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT TABii TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49291
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV Avrupa
+http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
 
 #EXTINF:-1,Yol_Tv
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yol_Tv.m3u8
@@ -330,8 +331,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/A_Spor.m3u8
 #EXTINF:-1,Bein_Spor_Haber
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
 
-#EXTINF:-1,BeIN SPORT 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49218
+
 #EXTINF:-1,bEIN SPORT 1 HD 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49219
 #EXTINF:-1,TRT SPOR Yildiz
@@ -1039,6 +1039,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
