@@ -322,23 +322,7 @@ http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 #EXTINF:-1,Ht_Spor
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Ht_Spor.m3u8
 
-#EXTINF:-1,Bein sports 1
-https://bs.arectv33.sbs/static/bs1.m3u8
 
-#EXTINF:-1,Bein sports 2
-https://bs.arectv33.sbs/static/bs2.m3u8
-
-#EXTINF:-1,Bein sports 3
-https://bs.arectv33.sbs/static/bs3.m3u8
-
-#EXTINF:-1,Bein sports 4
-https://bs.arectv33.sbs/static/bs4.m3u8
-
-#EXTINF:-1,Bein sports  5
-https://bs.arectv33.sbs/static/bs5.m3u8
-
-#EXTINF:-1,Smart 1
-https://tv.arectv34.sbs/live/smart1.m3u8
 
 #EXTINF:-1,A_Spor
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/A_Spor.m3u8
@@ -1055,6 +1039,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
