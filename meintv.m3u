@@ -34,17 +34,19 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48857
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR 
-http://trn03.tulix.tv/gt-star-tv/tracks-v1a1/mono.m3u8
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48851
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 
 
-#EXTINF:0,TR: SHOW HD
+#EXTINF:-1,SHOW HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48848
 
-#EXTINF:0,TR: SHOW Turk HD
+#EXTINF:-1,SHOW Turk HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850
 
@@ -138,7 +140,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
 #EXTINF:-1,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-#EXTINF:-1,TR: SHOW MAX HD
+#EXTINF:-1,SHOW MAX HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48867
 
@@ -146,7 +148,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48867
 #EXTINF:-1,KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
-#EXTINF:1,TR: FX HD
+#EXTINF:-1,FX HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
 
@@ -161,15 +163,15 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png" ,KANAL AVRUP	
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 
-#EXTINF:0,TR: TV 8 HD
+#EXTINF:-1,TV 8 HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
 
-#EXTINF:0,TR: TV 8 INT
+#EXTINF:-1,TV 8 INT
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861
 
-#EXTINF:0,TR: TV 8.5 HD
+#EXTINF:-1,TV 8.5 HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862
 
@@ -289,15 +291,15 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49182
 
 
 
-#EXTINF:0,TR: TEVE2 HD
+#EXTINF:-1,TEVE2 HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48870
 
-#EXTINF:0,TR: TLC
+#EXTINF:-1,TLC
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
 
-#EXTINF:0,TR: A2 TV HD
+#EXTINF:-1, A2 TV HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48873
 
@@ -377,8 +379,6 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48898
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48899
 #EXTINF:-1,FIGHTBOX
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48900
-#EXTINF:-1,NBA
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48901
 #EXTINF:-1,SPOR SMART
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48902
 #EXTINF:-1,Spor Smart 2
@@ -1053,6 +1053,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
