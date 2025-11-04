@@ -453,6 +453,34 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png",TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1,atv avrupa
+https://uzunmuhalefet.unaux.com/trkvz.php?kanal=vavtv&.m3u8
+
+#EXTINF:-1,atv avrupa
+https://uzunmuhalefet.unaux.com/trkvz.php?kanal=atvavrupa&.m3u8
+
+#EXTINF:-1,atv
+https://uzunmuhalefet.unaux.com/trkvz.php?kanal=atv&.m3u8
+
+#EXTINF:-1,a haber
+https://uzunmuhalefet.unaux.com/trkvz.php?kanal=ahaber&.m3u8
+
+#EXTINF:-1,a para
+https://uzunmuhalefet.unaux.com/trkvz.php?kanal=apara&.m3u8
+
+#EXTINF:-1,a spor
+https://uzunmuhalefet.unaux.com/trkvz.php?kanal=aspor&.m3u8
+
+#EXTINF:-1,a news
+
+https://uzunmuhalefet.unaux.com/trkvz.php?kanal=anews&.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -1053,6 +1081,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
