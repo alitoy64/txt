@@ -18,9 +18,6 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
-
 
 
 
@@ -61,13 +58,11 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW 
-http://116.202.238.88/FOXTV_TR/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
@@ -85,14 +80,11 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48933
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TÜRK 
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Haber_Turk.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL
 
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Haber_Global_TV.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49265
@@ -102,11 +94,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49265
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100 
-https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
-https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
 
 
 #EXTINF:1 tvg-id="24TV.tr" tvg-logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png",24 TV
@@ -191,6 +179,10 @@ https://video.twimg.com/amplify_video/1988933245791096832/pl/-LYtCesCNPKsSJDS.m3
 
 #EXTINF:-1, tele 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1" tvg-logo=", TELE 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49264
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
@@ -1093,6 +1085,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
