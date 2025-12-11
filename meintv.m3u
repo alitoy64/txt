@@ -128,21 +128,11 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png" ,KANAL AVRUP	
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 
-#EXTINF:-1,TV 8 HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 
-#EXTINF:-1,TV 8 INT
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861
-
-#EXTINF:-1,TV 8.5 HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" referer="https://turkcanli.tv",SÖZCÜ TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49173
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 
 
 
@@ -173,16 +163,15 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: iLKE TV" tvg-logo=",iLKE TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49183
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLhpBRK8/ilke.png",İLKE
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1" tvg-logo=", TELE 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49264
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png",TELE 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
 
 
 
@@ -216,11 +205,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Nok
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Line TV" tvg-logo=",Line TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49213
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT2 HD" tvg-logo=",TRT2 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQdBjZfW/finansturk.png",FİNANS TÜRK
@@ -242,30 +227,12 @@ https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ" tvg-logo=",MAVI KARADENIZ
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49180
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMERKAND TV" tvg-logo=",SEMERKAND TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49181
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: LALEGUL TV" tvg-logo=",LALEGUL TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49182
 
 
 
 
 
-#EXTINF:-1,TEVE2 HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48870
 
-#EXTINF:-1,TLC
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
-
-#EXTINF:-1, A2 TV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48873
 
 
 
@@ -1041,6 +1008,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
