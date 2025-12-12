@@ -302,10 +302,10 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48879
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48880
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULKE TV" tvg-logo="ULKE TV
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULKE TV" tvg-logo=",ULKE TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48885
 
-#EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="SZC TV
+#EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo=",SZC TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49173
 
 
@@ -1434,6 +1434,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
