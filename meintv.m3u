@@ -461,7 +461,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49291
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1" tvg-logo=",TELE 1
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49264
 
-#EXTINF:-1 tvg-id="" tvg-name="TRT HABER HD" tvg-logo="TRT HABER HD
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER HD" tvg-logo=",TRT HABER HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48925
 
 
@@ -502,9 +502,9 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48869
 #EXTINF:-1 tvg-id="" tvg-name="TEVE2 HD" tvg-logo=",TEVE2 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48870
 
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo=",TR: TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo=",TLC
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
-#EXTINF:-1 tvg-id="" tvg-name="A2 TV HD" tvg-logo="A2 TV HD
+#EXTINF:-1 tvg-id="" tvg-name="A2 TV HD" tvg-logo=",A2 TV HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48873
 
 #EXTINF:-1 tvg-id="" tvg-name=" FX HD" tvg-logo=",FX HD
@@ -534,7 +534,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49188
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49179
 #EXTINF:-1 tvg-id="" tvg-name="MAVI KARADENIZ" tvg-logo=",MAVI KARADENIZ
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49180
-#EXTINF:-1 tvg-id="" tvg-name="SEMERKAND TV" tvg-logo="SEMERKAND TV
+#EXTINF:-1 tvg-id="" tvg-name="SEMERKAND TV" tvg-logo=",SEMERKAND TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49181
 #EXTINF:-1 tvg-id="" tvg-name="LALEGUL TV" tvg-logo=",LALEGUL TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49182
@@ -542,7 +542,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49182
 #EXTINF:-1 tvg-id="" tvg-name="YILDIZ TV" tvg-logo=",YILDIZ TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49184
 
-#EXTINF:-1 tvg-id="" tvg-name="TTV 4" tvg-logo=",TV 4
+#EXTINF:-1 tvg-id="" tvg-name="TV 4" tvg-logo=",TV 4
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48881
 #EXTINF:-1 tvg-id="" tvg-name="KANAL V" tvg-logo=",KANAL V
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48882
@@ -1236,6 +1236,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
