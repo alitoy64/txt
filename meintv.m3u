@@ -42,13 +42,8 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
 
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="CNN TURK HD" tvg-logo=",CNN TURK HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49261
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
@@ -290,21 +285,21 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49175
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49176
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: 24 TV HD" tvg-logo=",24 TV HD
+#EXTINF:-1 tvg-id="" tvg-name="24 TV HD" tvg-logo=",24 TV HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48928
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER" tvg-logo=",TGRT HABER
+#EXTINF:-1 tvg-id="" tvg-name="TGRT HABER" tvg-logo=",TGRT HABER
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48938
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD" tvg-logo=",A HABER HD
+#EXTINF:-1 tvg-id="" tvg-name="A HABER HD" tvg-logo=",A HABER HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48929
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRT" tvg-logo=",KRT
+#EXTINF:-1 tvg-id="" tvg-name="KRT" tvg-logo=",KRT
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48879
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV" tvg-logo=",BEYAZ TV
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV" tvg-logo=",BEYAZ TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48880
 
 
@@ -315,23 +310,24 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48885
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49173
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV" tvg-logo=",HALK TV
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo=",HALK TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48888
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULUSAL TV" tvg-logo=",ULUSAL TV
+#EXTINF:-1 tvg-id="" tvg-name="ULUSAL TV" tvg-logo=",ULUSAL TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48884
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL B" tvg-logo=",KANAL B
+#EXTINF:-1 tvg-id="" tvg-name="KANAL B" tvg-logo=",KANAL B
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48889
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: FLASH TV" tvg-logo=",FLASH TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48890
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: HALK EURO" tvg-logo=",HALK EURO
+#EXTINF:-1 tvg-id="" tvg-name="HALK EURO" tvg-logo=",HALK EURO
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48887
 
 #EXTINF:-1 tvg-id="" tvg-name="NTV HD" tvg-logo=",NTV HD
@@ -343,12 +339,14 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49187
 
 #EXTINF:-1 tvg-id="" tvg-name="EKOTURK TV" tvg-logo="",EKOTURK TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49189
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 5" tvg-logo=",TR: TV 5
+
+#EXTINF:-1 tvg-id="" tvg-name="TV 5" tvg-logo=",TR: TV 5
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49193
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRT TV HD" tvg-logo=",KRT TV HD
+#EXTINF:-1 tvg-id="" tvg-name=KRT TV HD" tvg-logo=",KRT TV HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49195
-#EXTINF:-1 tvg-id="" tvg-name="TR: iLKE TV" tvg-logo=",iLKE TV
+
+#EXTINF:-1 tvg-id="" tvg-name="iLKE TV" tvg-logo=",iLKE TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49183
 
 
@@ -364,112 +362,103 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49183
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: bEIN SPORT 1 HD (TR)" tvg-logo=",bEIN SPORT 1 HD 
+#EXTINF:-1 tvg-id="" tvg-name="bEIN SPORT 1 HD (TR)" tvg-logo=",bEIN SPORT 1 HD 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49219
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS HABER" tvg-logo=",beIN SPORTS HABER
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HABER" tvg-logo=",beIN SPORTS HABER
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48894
 
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR Yildiz" tvg-logo=",TRT SPOR Yildiz
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49220
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT-3 SPOR" tvg-logo=",TRT-3 SPOR
+#EXTINF:-1 tvg-id="" tvg-name="TRT-3 SPOR" tvg-logo=",TRT-3 SPOR
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49221
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTS TV" tvg-logo=",SPORTS TV
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS TV" tvg-logo=",SPORTS TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49222
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT HD" tvg-logo=",S SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT HD" tvg-logo=",S SPORT HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49223
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT SD" tvg-logo=",S SPORT SD
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT SD" tvg-logo=",S SPORT SD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49224
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport 2 HD" tvg-logo=",S Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="S Sport 2 HD" tvg-logo=",S Sport 2 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49225
-#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBU SPOR 2 HD" tvg-logo=",TiViBU SPOR 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="TiViBU SPOR 2 HD" tvg-logo=",TiViBU SPOR 2 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49226
-#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBU SPOR 2*" tvg-logo=",TiViBU SPOR 2*
+#EXTINF:-1 tvg-id="" tvg-name="TiViBU SPOR 2*" tvg-logo=",TiViBU SPOR 2*
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49227
-#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBU SPOR 2 UHD" tvg-logo=",TiViBU SPOR 2 UHD
+#EXTINF:-1 tvg-id="" tvg-name="TiViBU SPOR 2 UHD" tvg-logo=",TiViBU SPOR 2 UHD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49228
-#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBU SPOR 3" tvg-logo="TiViBU SPOR 3
+#EXTINF:-1 tvg-id="" tvg-name="TiViBU SPOR 3" tvg-logo="TiViBU SPOR 3
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49229
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 4 HD" tvg-logo=",TIVIBU SPOR 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 4 HD" tvg-logo=",TIVIBU SPOR 4 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49230
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART UHD" tvg-logo=",SPOR SMART UHD
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART UHD" tvg-logo=",SPOR SMART UHD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49231
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 2 HD" tvg-logo=",SPOR SMART 2 HD
+#EXTINF:-1 tvg-id="" tvg-name=" SPOR SMART 2 HD" tvg-logo=",SPOR SMART 2 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49232
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT PLUS+" tvg-logo=",SPORT PLUS+
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS+" tvg-logo=",SPORT PLUS+
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49240
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT PLUS+1" tvg-logo=",S SPORT PLUS+1
+#EXTINF:-1 tvg-id="" tvg-name=" S SPORT PLUS+1" tvg-logo=",S SPORT PLUS+1
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49241
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT PLUS+2" tvg-logo="S SPORT PLUS+2
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS+2" tvg-logo="S SPORT PLUS+2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49242
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT PLUS+3" tvg-logo=",S SPORT PLUS+3
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS+3" tvg-logo=",S SPORT PLUS+3
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49243
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT PLUS+4" tvg-logo=",S SPORT PLUS+4
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS+4" tvg-logo=",S SPORT PLUS+4
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49244
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT PLUS+5" tvg-logo=",S SPORT PLUS+5
+#EXTINF:-1 tvg-id="" tvg-name=" S SPORT PLUS+5" tvg-logo=",S SPORT PLUS+5
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV" tvg-logo=",FB TV
+#EXTINF:-1 tvg-id="" tvg-name="FB TV" tvg-logo=",FB TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49253
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD" tvg-logo=",TRT SPOR HD
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo=",TRT SPOR HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48895
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR" tvg-logo="" group-title="TR: SPOR",TR: TRT SPOR
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" tvg-logo=",TRT SPOR
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48896
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR HD" tvg-logo=",TIVIBU SPOR HD
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR HD" tvg-logo=",TIVIBU SPOR HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48897
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1" tvg-logo=",EUROSPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo=",EUROSPORT 1
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48898
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2" tvg-logo=",EUROSPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo=",EUROSPORT 2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48899
-#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHTBOX" tvg-logo=",FIGHTBOX
+#EXTINF:-1 tvg-id="" tvg-name="FIGHTBOX" tvg-logo=",FIGHTBOX
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48900
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART" tvg-logo=",SPOR SMART
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART" tvg-logo=",SPOR SMART
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48902
-#EXTINF:-1 tvg-id="" tvg-name="TR: Spor Smart 2" tvg-logo=",Spor Smart 2
+#EXTINF:-1 tvg-id="" tvg-name="Spor Smart 2" tvg-logo=",Spor Smart 2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48903
-#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR" tvg-logo=",A SPOR
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo=",A SPOR
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48904
-#EXTINF:-1 tvg-id="" tvg-name="TR: T.A.Y TV" tvg-logo=",T.A.Y TV
+#EXTINF:-1 tvg-id="" tvg-name="T.A.Y TV" tvg-logo=",T.A.Y TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48905
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX WWE SMACKDOWN" tvg-logo=",BOX WWE SMACKDOWN
+#EXTINF:-1 tvg-id="" tvg-name="BOX WWE SMACKDOWN" tvg-logo=",BOX WWE SMACKDOWN
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49254
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX KiCKBOKS" tvg-logo=",BOX KiCKBOKS
+#EXTINF:-1 tvg-id="" tvg-name="BOX KiCKBOKS" tvg-logo=",BOX KiCKBOKS
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49255
 
 
+#EXTINF:-1,Ht_Spor
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Ht_Spor.m3u8
 
+#EXTINF:-1,A_Spor
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/A_Spor.m3u8
 
+#EXTINF:-1,Bein_Spor_Haber
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 HD" tvg-logo=",TV 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 HD" tvg-logo=",TV 8 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 SD" tvg-logo=",TV 8 SD
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 SD" tvg-logo=",TV 8 SD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48860
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 INT" tvg-logo=",TV 8 INT
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 INT" tvg-logo=",TV 8 INT
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 HD" tvg-logo=",TV 8.5 HD
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo=",TV 8.5 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TABII TV" tvg-logo=",TABII TV
+#EXTINF:-1 tvg-id="" tvg-name="TABII TV" tvg-logo=",TABII TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49291
 
 
@@ -482,108 +471,94 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49263
 #EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1" tvg-logo=",TELE 1
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49264
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER HD" tvg-logo="TRT HABER HD
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER HD" tvg-logo="TRT HABER HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48925
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER" tvg-logo=",TRT HABER
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48926
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER" tvg-logo=",A HABER
+
+#EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo=",A HABER
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48930
-#EXTINF:-1 tvg-id="" tvg-name="TR: A News HD" tvg-logo=",A News HD
+#EXTINF:-1 tvg-id="" tvg-name="A News HD" tvg-logo=",A News HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48931
-#EXTINF:-1 tvg-id="" tvg-name="TR: A PARA HD" tvg-logo=",A PARA HD
+#EXTINF:-1 tvg-id="" tvg-name=" A PARA HD" tvg-logo=",A PARA HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48932
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Habertürk" tvg-logo=",Habertürk
+#EXTINF:-1 tvg-id="" tvg-name="Habertürk" tvg-logo=",Habertürk
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48934
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HD" tvg-logo=",NTV HD
+#EXTINF:-1 tvg-id="" tvg-name="NTV HD" tvg-logo=",NTV HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48935
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV" tvg-logo=" ,NTV
+#EXTINF:-1 tvg-id="" tvg-name=" NTV" tvg-logo=" ,NTV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48936
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: A Para" tvg-logo=",A Para
+#EXTINF:-1 tvg-id="" tvg-name="A Para" tvg-logo=",A Para
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48939
 
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48840
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT2 HD" tvg-logo=",TRT2 HD
+#EXTINF:-1 tvg-id="" tvg-name="TRT2 HD" tvg-logo=",TRT2 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK HD" tvg-logo=",TRT TURK HD
+#EXTINF:-1 tvg-id="" tvg-name="TRT TURK HD" tvg-logo=",TRT TURK HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48842
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK" tvg-logo=" ,TRT TURK
+#EXTINF:-1 tvg-id="" tvg-name="TRT TURK" tvg-logo=" ,TRT TURK
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48843
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 HD" tvg-logo=",KANAL 7 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48863
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 5" tvg-logo=",TV8 5
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48864
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7" tvg-logo=",KANAL 7
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48865
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 AVRUPA" tvg-logo=",KANAL 7 AVRUPA
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48866
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW MAX HD" tvg-logo=",SHOW MAX HD
+#EXTINF:-1 tvg-id="" tvg-name="SHOW MAX HD" tvg-logo=",SHOW MAX HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48867
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW MAX" tvg-logo=",SHOW MAX
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48868
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU" tvg-logo=",TGRT EU
+
+#EXTINF:-1 tvg-id="" tvg-name="TGRT EU" tvg-logo=",TGRT EU
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48869
-#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE2 HD" tvg-logo=",TEVE2 HD
+#EXTINF:-1 tvg-id="" tvg-name="TEVE2 HD" tvg-logo=",TEVE2 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48870
-#EXTINF:-1 tvg-id="" tvg-name="TR: Teve 2" tvg-logo=",Teve 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48871
-#EXTINF:-1 tvg-id="" tvg-name="TR: TLC" tvg-logo=",TR: TLC
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo=",TR: TLC
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
 #EXTINF:-1 tvg-id="" tvg-name="TR: A2 TV HD" tvg-logo="A2 TV HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48873
-#EXTINF:-1 tvg-id="" tvg-name="TR: A2" tvg-logo=",A2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48874
-#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD" tvg-logo=",FX HD
+
+#EXTINF:-1 tvg-id="" tvg-name=" FX HD" tvg-logo=",FX HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
-#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV HD" tvg-logo=",360 TV HD
+#EXTINF:-1 tvg-id="" tvg-name="360 TV HD" tvg-logo=",360 TV HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERGHT HD" tvg-logo=",BLOOMBERGHT HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ HD" tvg-logo=",TRT AVAZ HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TRT AVAZ HD" tvg-logo=",TRT AVAZ HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48878
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Anadolu TV" tvg-logo=",Anadolu TV
+#EXTINF:-1 tvg-id="" tvg-name="Anadolu TV" tvg-logo=",Anadolu TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48891
-#EXTINF:-1 tvg-id="" tvg-name="TR: ANADOLU TV HD" tvg-logo=",ANADOLU TV HD
+#EXTINF:-1 tvg-id="" tvg-name=" ANADOLU TV HD" tvg-logo=",ANADOLU TV HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48892
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Line TV" tvg-logo=",Line TV
+#EXTINF:-1 tvg-id="" tvg-name="Line TV" tvg-logo=",Line TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49213
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: CEM TV" tvg-logo=",CEM TV
+#EXTINF:-1 tvg-id="" tvg-name="CEM TV" tvg-logo=",CEM TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49177
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: AKSU TV" tvg-logo=",AKSU TV
+#EXTINF:-1 tvg-id="" tvg-name="AKSU TV" tvg-logo=",AKSU TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49188
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: DEHA TV" tvg-logo=",DEHA TV
+#EXTINF:-1 tvg-id="" tvg-name="DEHA TV" tvg-logo=",DEHA TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49179
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ" tvg-logo=",MAVI KARADENIZ
+#EXTINF:-1 tvg-id="" tvg-name="MAVI KARADENIZ" tvg-logo=",MAVI KARADENIZ
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49180
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMERKAND TV" tvg-logo="SEMERKAND TV
+#EXTINF:-1 tvg-id="" tvg-name="SEMERKAND TV" tvg-logo="SEMERKAND TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49181
-#EXTINF:-1 tvg-id="" tvg-name="TR: LALEGUL TV" tvg-logo=",LALEGUL TV
+#EXTINF:-1 tvg-id="" tvg-name="LALEGUL TV" tvg-logo=",LALEGUL TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49182
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: YILDIZ TV" tvg-logo=",YILDIZ TV
+#EXTINF:-1 tvg-id="" tvg-name="YILDIZ TV" tvg-logo=",YILDIZ TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49184
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 4" tvg-logo=",TV 4
+#EXTINF:-1 tvg-id="" tvg-name="TTV 4" tvg-logo=",TV 4
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48881
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL V" tvg-logo=",KANAL V
+#EXTINF:-1 tvg-id="" tvg-name="KANAL V" tvg-logo=",KANAL V
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48882
-#EXTINF:-1 tvg-id="" tvg-name="TR: PARK TV" tvg-logo=",PARK TV
+#EXTINF:-1 tvg-id="" tvg-name="PARK TV" tvg-logo=",PARK TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48883
 
 
@@ -591,54 +566,36 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48883
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Family HD" tvg-logo=",beIN Movies Family HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Family HD" tvg-logo=",beIN Movies Family HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49266
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action HD" tvg-logo=",beIN Movies Action HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Action HD" tvg-logo=",beIN Movies Action HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49267
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Stars HD" tvg-logo=",beIN Movies Stars HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Stars HD" tvg-logo=",beIN Movies Stars HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49268
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premier HD" tvg-logo="" group-title="TR: SINEMA",TR: ,beIN Movies Premier HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Premier HD" tvg-logo=",beIN Movies Premier HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49269
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action 2" tvg-logo="" group-title="TR: SINEMA",TR: beIN Movies Action 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Action 2" tvg-logo=",beIN Movies Action 2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49270
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: beIN Series 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 HD" tvg-logo=",beIN Series 1 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49271
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: beIN Series 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 3 HD" tvg-logo=",beIN Series 3 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49272
-#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart Classic HD" tvg-logo=",MovieSmart Classic HD
+#EXTINF:-1 tvg-id="" tvg-name="MovieSmart Classic HD" tvg-logo=",MovieSmart Classic HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49273
-#EXTINF:-1 tvg-id="" tvg-name="TR: Dizi Smart Premium HD" tvg-logo=",Dizi Smart Premium HD
+#EXTINF:-1 tvg-id="" tvg-name="Dizi Smart Premium HD" tvg-logo=",Dizi Smart Premium HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49274
-#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart Turk HD" tvg-logo=",MovieSmart Turk HD
+#EXTINF:-1 tvg-id="" tvg-name="MovieSmart Turk HD" tvg-logo=",MovieSmart Turk HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49275
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV KOMEDI" tvg-logo=",SINEMA TV KOMEDI
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV KOMEDI" tvg-logo=",SINEMA TV KOMEDI
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49276
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES PREMIERE 2" tvg-logo=",BEIN MOVIES PREMIERE 2
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES PREMIERE 2" tvg-logo=",BEIN MOVIES PREMIERE 2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49286
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Turk" tvg-logo=",beIN Movies Turk
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Turk" tvg-logo=",beIN Movies Turk
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49287
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 2 HD" tvg-logo=",beIN Series 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 HD" tvg-logo=",beIN Series 2 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49288
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQdBjZfW/finansturk.png",FİNANS TÜRK
@@ -649,9 +606,6 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Eko_Turk.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: DEHA TV" tvg-logo=", DEHA TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49179
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png",TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
@@ -659,164 +613,21 @@ https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SAMANYOLU TV" tvg-logo=",SAMANYOLU TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV Avrupa
-http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
-
 #EXTINF:-1,Yol_Tv
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yol_Tv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: CEM TV" tvg-logo=",CEM TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49177
-
-
-
-#EXTINF:-1, tr spor tv
-http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
-
-#EXTINF:-1,Ht_Spor
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Ht_Spor.m3u8
-
-
-
-#EXTINF:-1,A_Spor
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/A_Spor.m3u8
-
-#EXTINF:-1,Bein_Spor_Haber
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
-
-
-#EXTINF:-1,bEIN SPORT 1 HD 
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49219
-#EXTINF:-1,TRT SPOR Yildiz
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49220
-#EXTINF:-1,TRT-3 SPOR
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49221
-#EXTINF:-1,SPORTS TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49222
-#EXTINF:-1,S SPORT HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49223
-
-#EXTINF:-1,S Sport 2 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49225
-#EXTINF:-1,TiViBU SPOR 2 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49226
-#EXTINF:-1,TiViBU SPOR 3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49229
-#EXTINF:-1,TIVIBU SPOR 4 HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49230
-#EXTINF:-1,SPOR SMART UHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49231
-
-
-#EXTINF:-1,S SPORT PLUS+
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49240
-
-
-
-#EXTINF:-1,FB TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49253
-
-#EXTINF:-1, beIN SPORTS HABER
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48894
-#EXTINF:-1,TRT SPOR HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48895
-#EXTINF:-1,TRT SPOR
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48896
-#EXTINF:-1,TIVIBU SPOR HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48897
-#EXTINF:-1,EUROSPORT 1
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48898
-#EXTINF:-1,EUROSPORT 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48899
-#EXTINF:-1,FIGHTBOX
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48900
-#EXTINF:-1,SPOR SMART
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48902
-#EXTINF:-1,Spor Smart 2
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48903
-#EXTINF:-1,A SPOR
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48904
-#EXTINF:-1,T.A.Y TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48905
-
-#EXTINF:-1,BOX WWE SMACKDOWN
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49254
-
-
-
-
-
-#EXTINF:-1,Sports TV 
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-
-
-#EXTINF:-1,TR Spor TV
-http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3CWV8bS.png,Mercan TV 
 https://waw2.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cm1kp8f/sat7turk.png",SAT 7 TÜRK
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-id="TRTAvaz.tr",TRT Avaz 
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png",TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:1-,Arabesk TV
 https://yayin.santraltr.com/hls/arabeskyeni.m3u8
@@ -824,9 +635,6 @@ https://yayin.santraltr.com/hls/arabeskyeni.m3u8
 https://yayin.santraltr.com/hls/arma.m3u8
 #EXTINF:1-,aviva
 https://yayin.santraltr.com/hls/vivatv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: YILDIZ TV" tvg-logo=",YILDIZ TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49184
 
 #EXTINF:1-,Dost Müzik TV
 https://yayin.santraltr.com/hls/dost.m3u8
@@ -1440,6 +1248,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
