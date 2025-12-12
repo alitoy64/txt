@@ -340,7 +340,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49187
 #EXTINF:-1 tvg-id="" tvg-name="EKOTURK TV" tvg-logo="",EKOTURK TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49189
 
-#EXTINF:-1 tvg-id="" tvg-name="TV 5" tvg-logo=",TR: TV 5
+#EXTINF:-1 tvg-id="" tvg-name="TV 5" tvg-logo=",TV 5
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49193
 
 #EXTINF:-1 tvg-id="" tvg-name=KRT TV HD" tvg-logo=",KRT TV HD
@@ -358,10 +358,13 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48894
 
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR Yildiz" tvg-logo=",TRT SPOR Yildiz
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49220
+
 #EXTINF:-1 tvg-id="" tvg-name="TRT-3 SPOR" tvg-logo=",TRT-3 SPOR
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49221
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS TV" tvg-logo=",SPORTS TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49222
+
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT HD" tvg-logo=",S SPORT HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49223
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT SD" tvg-logo=",S SPORT SD
@@ -372,10 +375,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49225
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49226
 #EXTINF:-1 tvg-id="" tvg-name="TiViBU SPOR 2*" tvg-logo=",TiViBU SPOR 2*
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49227
-#EXTINF:-1 tvg-id="" tvg-name="TiViBU SPOR 2 UHD" tvg-logo=",TiViBU SPOR 2 UHD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49228
-#EXTINF:-1 tvg-id="" tvg-name="TiViBU SPOR 3" tvg-logo="TiViBU SPOR 3
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49229
+
 #EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 4 HD" tvg-logo=",TIVIBU SPOR 4 HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49230
 #EXTINF:-1 tvg-id="" tvg-name="SPOR SMART UHD" tvg-logo=",SPOR SMART UHD
@@ -387,6 +387,8 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49232
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49240
 #EXTINF:-1 tvg-id="" tvg-name=" S SPORT PLUS+1" tvg-logo=",S SPORT PLUS+1
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49241
+
+
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS+2" tvg-logo="S SPORT PLUS+2
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49242
 #EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS+3" tvg-logo=",S SPORT PLUS+3
@@ -1227,6 +1229,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
