@@ -302,7 +302,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48929
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100" tvg-logo=",KRT
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRT" tvg-logo=",KRT
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48879
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV" tvg-logo=",BEYAZ TV
@@ -1441,6 +1441,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
