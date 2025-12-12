@@ -453,9 +453,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49291
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD HD" tvg-logo=",TRT WORLD HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49263
-#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1" tvg-logo=",TELE 1
+#EXTINF:-1 tvg-id="" tvg-name="TELE 1" tvg-logo=",TELE 1
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49264
 
 #EXTINF:-1 tvg-id="" tvg-name="TRT HABER HD" tvg-logo="TRT HABER HD
@@ -1233,6 +1231,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
