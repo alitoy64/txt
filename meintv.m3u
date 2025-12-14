@@ -685,34 +685,6 @@ https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Euro D" tvg-logo="",Euro D
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/eurod.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Show Türk" tvg-logo="",Show Türk
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/showturk.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Euro Star" tvg-logo=",Euro Star
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/mobiltv-net/eurostar.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tv.vin/imagest/trns-png-w200xh200-atv-avrupa.png",ATV Avrupa
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/atv-avrupa.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1,TV 360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
@@ -1254,6 +1226,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
