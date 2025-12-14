@@ -29,6 +29,9 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D HD" tvg-logo=",Kanal D HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D 
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 
@@ -36,8 +39,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23
 #EXTINF:-1 tvg-id="" tvg-name="EURO D HD" tvg-logo=",EURO D HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48856
 
-#EXTINF:-1 tvg-id="" tvg-name="EURO D" tvg-logo=",EURO D
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48857
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
@@ -50,6 +52,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/est
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+
+#EXTINF:-1 tvg-id="" tvg-name="SHOW Turk HD" tvg-logo=",SHOW Turk 
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id=",NOW
@@ -1249,6 +1254,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
