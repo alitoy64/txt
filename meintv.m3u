@@ -45,6 +45,8 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48856
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV HD" tvg-logo="" group-title=",STAR TV HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48851
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png",EURO STAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
@@ -1032,6 +1034,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
