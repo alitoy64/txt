@@ -53,8 +53,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/est
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHOW HD" tvg-logo="" group-title=",SHOW HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48848
 
 #EXTINF:-1 tvg-id="" tvg-name="SHOW Turk HD" tvg-logo=",SHOW Turk 
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850
@@ -1032,6 +1032,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1,SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
 
 
 
