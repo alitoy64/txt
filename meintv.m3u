@@ -162,8 +162,14 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png" ,KANAL AVRUP	
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 HD" tvg-logo=",TV 8 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
+
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 INT" tvg-logo=",TV 8 INT
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo=",TV 8.5 HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49173
