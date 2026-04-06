@@ -94,7 +94,7 @@ https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 
 
 
-#EXTINF:-1 tvg-id="tvg-logo=",HABER GLOBAL HD
+#EXTINF:-1tvg-name="HABER GLOBAL" tvg-id="HaberGlobal.tr" tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49265
 
 
