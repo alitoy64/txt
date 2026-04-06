@@ -94,10 +94,9 @@ https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL HD" tvg-logo="" group-title="TR: HABER",HABER GLOBAL HD
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49265
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL
-https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
