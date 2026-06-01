@@ -13,13 +13,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/725
-#EXTINF:-1 tvg-name="ATV Avrupa
-http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D HD" tvg-logo=",Kanal D 
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
@@ -30,10 +23,8 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR TV HD" tvg-logo="" group-title=",STAR 
-http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
-
-
+#EXTINF:-1,STAR 
+http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
 https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8
@@ -52,8 +43,17 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/726
 
 
-#EXTINF:-1 tvg-id=",SHOW TV
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+
+
+#EXTINF:-1ATV AVRUPA
+http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
+#EXTINF:-1,EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1,EUROSTAR
+http://tv.smartglwiz.workers.dev/?ID=EuroStar_HD.m3u8
+
+#EXTINF:-1,SHOWTURK
+https://cdn.tecostream.xyz/showturk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id=",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
