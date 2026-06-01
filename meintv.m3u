@@ -17,8 +17,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/725
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV avrupa
-https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8
+
 
 
 
@@ -33,7 +32,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23
 
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR TV HD" tvg-logo="" group-title=",STAR 
-http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
 
 
@@ -47,7 +46,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/est
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
-http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/729
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&app=startv_web&ce=3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW TV
