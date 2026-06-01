@@ -586,9 +586,6 @@ https://30a-tv.com/feeds/720p/63.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",KAY TV KAYSERİ
-https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
-
 
 #EXTINF:-1, kanal 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
@@ -597,71 +594,7 @@ https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 
 
-#EXTINF:-1, ordu bel tv
-https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
 
-#EXTINF:-1, bartın tv
-http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
-
-#EXTINF:-1, çiftçi tv
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-
-#EXTINF:-1, deniz postası
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-
-#EXTINF:-1, slow karadeniz tv
-https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
-
-#EXTINF:-1, TV A
-https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
-
-#EXTINF:-1, tv mor
-https://live.euromediacenter.com/tvmor/index.m3u8
-
-#EXTINF:-1, balkan tv
-https://live.euromediacenter.com/balkanturktv/index.m3u8
-
-#EXTINF:-1, sun rtv
-https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
-
-#EXTINF:-1, ton tv
-https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-
-#EXTINF:-1, tokat tv
-https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
-
-#EXTINF:-1, trakya türk tv
-https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
-
-#EXTINF:-1, tempo tv
-https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
-
-#EXTINF:-1, Kanal FIRAT
-https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
-
-#EXTINF:-1, tv1 kayseri
-https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
-
-#EXTINF:-1, Tv 25
-https://cdn-tv25.yayin.com.tr/tv25/tv25/playlist.m3u8
-
-#EXTINF:-1, tv 41
-https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
-
-#EXTINF:-1, tv 264 sakarya
-http://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
-
-#EXTINF:-1, kanal s
-https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
-
-#EXTINF:-1, kanal v
-https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
-
-#EXTINF:-1, kanal z
-https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
-
-#EXTINF:-1, haber 61 tv
-https://cdn-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
 
 
 
