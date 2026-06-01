@@ -39,18 +39,6 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/726
 
 
-
-
-#EXTINF:-1ATV AVRUPA
-http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
-#EXTINF:-1,EURO D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1,EUROSTAR
-http://tv.smartglwiz.workers.dev/?ID=EuroStar_HD.m3u8
-
-#EXTINF:-1,SHOWTURK
-https://cdn.tecostream.xyz/showturk.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id=",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
