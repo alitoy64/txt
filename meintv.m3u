@@ -333,10 +333,10 @@ http://65.108.239.207/t3/index.m3u8
 
 
 
-#EXTINF:-1 group-title="SPOR KANALI" tvg-id="" tvg-logo="http://epg.it999.ru/img/3885.png", Eurosport 1
+#EXTINF:-1, Eurosport 1
 http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/19181.ts
 
-#EXTINF:-1 group-title="SPOR KANALI" tvg-id="" tvg-logo="http://epg.it999.ru/img/3886.png", Eurosport 2 
+#EXTINF:-1,Eurosport 2 
 http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/19182.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png", GS TV HD
@@ -369,17 +369,6 @@ http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/16955.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png", Sports TV HD
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQdBjZfW/finansturk.png",FİNANS TÜRK
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
