@@ -293,7 +293,7 @@ https://yastikkavgasi.lol/static/ss11.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" ,S SPORT FHD 1
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png"S SPORT HD 1
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png",S SPORT HD 1
 http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/115206.ts
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png",S SPORT UHD 2
