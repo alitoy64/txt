@@ -12,15 +12,20 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/725
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV avrupa
 https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D HD" tvg-logo=",Kanal D HD
-
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D HD" tvg-logo=",Kanal D 
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png",KANAL D 
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 
@@ -41,8 +46,16 @@ https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/729
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW TV
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/726
+
 
 #EXTINF:-1 tvg-id="" tvg-name="SHOW HD" tvg-logo="" group-title=",SHOW TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
@@ -270,8 +283,17 @@ https://yastikkavgasi.lol/static/bs4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iRKfaee.png",BeIN Sports UHD 5
 https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.imgur.com/iRKfaee.png",BeIN Sports FHD 5
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD
 https://yastikkavgasi.lol/static/bs5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 3 HD"Bein Sport 3 HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/585
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 2 
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/584
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 HD
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/583
+
+
 
 
 
