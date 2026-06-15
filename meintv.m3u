@@ -19,8 +19,7 @@ http://95.174.71.114:80/TR-TRT1/index.m3u8
 https://api.hitnova.net/s/TRT1/mono.m3u8
 #EXTINF:-1,TRT 1
 http://46.32.176.50/trt1/playlist.m3u8
-#EXTINF:-1,TRT 1
-http://tv.smartglwiz.workers.dev/?ID=TRT1_HD.m3u8
+
 
 
 
