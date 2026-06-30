@@ -518,51 +518,207 @@ https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" DAS ERSTE" tvg-logo=",ARD         
+#EXTINF:-1,ARD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="DF" tvg-logo=",ZDF     
+#EXTINF:-1,ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1,WDR
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1,MDR
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1,NDR
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1,NDR INT
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1,RBB
+https://rbb-live.ard-mcdn.de/rbb/berlin/hls/de/master.m3u8
+#EXTINF:-1,SWR
+https://mcdn.swr.de/swr/swrbwd/master.m3u8
+#EXTINF:-1,BR
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1,HR
+https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
+#EXTINF:-1,SR
+https://sr-live.ard-mcdn.de/sr/live/hls/de/master.m3u8
+#EXTINF:-1,Radio Bremen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1,3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1,arte
+https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v540.m3u8
+#EXTINF:-1,ARD-Alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1,ONE
+https://mcdn-one.ard.de/ardone/hls/master-stereo.m3u8
+#EXTINF:-1,ZDF info
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1,ZDF neo
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="WDR " tvg-logo=",WDR HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/31313
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RTL " tvg-logo=",RTL                                                                     
+#EXTINF:-1,RTL
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 
 
+#EXTINF:-1,ProSieben HD
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 
-#EXTINF:-1,wetter                                           
+
+#EXTINF:-1,SAT.1 HD
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+
+#EXTINF:-1 ,SAT.1 GOLD
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+
+
+#EXTINF:-1,sixx HD
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+
+#EXTINF:-1,Kabel eins HD
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,KIKA HD
+https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
+#EXTINF:-1,KIKA HD
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+
+#EXTINF:-1,Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1,tagesschau24
+https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
+#EXTINF:-1,WELT
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+
+#EXTINF:-1,BILD 
+https://bild.personalstream.tv/v1/master.m3u8
+
+#EXTINF:-1,RT DE
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1,RT DE
+https://proxmox.loobloo.tv/memfs/0a077571-a209-44d0-aab8-0d2fd23ff694.m3u8
+#EXTINF:-1,DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 ,EURONEWS
+https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
+
+
+#EXTINF:-1,RED BULL TV
+https://freqsyndlin.redbull.com/582/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1,WINTERSPORT ON
+https://play.redbull.com/playlists/wintersport_de/hls6-video/1920x1080.m3u8
+#EXTINF:-1,BERG WELTEN
+https://play.redbull.com/playlists/nature/hls6-video/1920x1080.m3u8
+#EXTINF:-1,SPORT ON
+https://play.redbull.com/playlists/sports_de/hls6-video/960x540.m3u8
+#EXTINF:-1,WETTER PANAROMA
+https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8
+#EXTINF:-1,TERRA WILD
+https://fast.servustv.com/v1/autentic_terramaterwild_1/ohlscdn_us/V00000003/0/HLS/playlist.m3u8
+#EXTINF:-1,SCOOORE
+https://fast.servustv.com/scooore_cdn/servuson_abr_49133a15727bf628a5ac62da7d618163/scooore/scooore_360p_1_0_Mbit/chunks.m3u8
+#EXTINF:-1,MOTOR VISION
+https://fast.servustv.com/mvg/mv_de/mv_de_720p_high.m3u8
+#EXTINF:-1,MOTOR VISION CLASSIC
+https://fast.servustv.com/mvg/mv_cl/mv_cl_1080.m3u8
+#EXTINF:-1,WISSEN ON
+https://play.redbull.com/playlists/science/hls6-audio/ger.m3u8
+#EXTINF:-1,MORE THAN SPORT
+https://fast.servustv.com/mvg/mts/mts_1080.m3u8
+#EXTINF:-1,WETTER
 https://streaming.meteonews.net/hls/stream.m3u8
 
+#EXTINF:-1,Sport 1
+https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
+
+#EXTINF:-1,ANIXE TV
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1,ANIXE SERIE
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 
 
 
 #EXTINF:-1,DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-
-
+#EXTINF:-1,DELUXE MUSIC DANCE BY KONTOR
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1,DELUXE MUSIC RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
-#EXTINF:-1,SCHLAGER DELUXE
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
+
+#EXTINF:-1,Zee One
+https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
+#EXTINF:-1,Rakuten - Top Movies
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:-1,Rakuten - Action Movies
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+#EXTINF:-1,Rakuten - Comedy Movies
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+#EXTINF:-1,Rakuten - Crime Series
+https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
+#EXTINF:-1,Rakuten - Drama Movies
+https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
+#EXTINF:-1,Rakuten - Family Movies
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+#EXTINF:-1,Rakuten - German Cinema
+https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8
+#EXTINF:-1,Rakuten - Romance Movies
+https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
+#EXTINF:-1,Rakuten - Romance Movies 
+https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
+#EXTINF:-1,Rakuten - Thrillers
+https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8
+#EXTINF:-1,Rakuten - Thrillers
+https://73e5474be2ae422487b18295a9782482.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8
+
+#EXTINF:-1,Rakuten - FilmGold
+https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Rakuten - Krimi
+https://4dad3dcf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0FSRFBsdXNLcmltaV9ITFM/playlist.m3u8
+
+#EXTINF:-1,Rakuten - Top Serien
+https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8
+#EXTINF:-1,Rakuten - Serie Crime
+https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
 
 
 
+#EXTINF:-1,Vevo Pop 
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Vevo Schlager Pop
+https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
 
-
-
-
-
-
+#EXTINF:-1,XITE
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,PlutoTv - 21 Jump Street
+https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8
+#EXTINF:-1,PlutoTv - 90210
+https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
+#EXTINF:-1 ,PlutoTv - Alle hassen Chris
+https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
+#EXTINF:-1,PlutoTv - Andromeda
+https://jmp2.uk/plu-663a163f8ea5560008a3f234.m3u8
+#EXTINF:-1,PlutoTv - Anger Management
+https://jmp2.uk/plu-655ca57e4261ca00080b3a04.m3u8
+#EXTINF:-1,PlutoTv - Assassination Classroom
+https://jmp2.uk/plu-65a7d99f4a10d800086083a9.m3u8
+#EXTINF:-1,PlutoTv - Auction Hunters
+https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
+#EXTINF:-1,PlutoTv - Auf Achse
+https://jmp2.uk/plu-61fbf91afb1b10000880dd08.m3u8
+#EXTINF:-1,PlutoTv - Auto Motor Sport
+https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
+#EXTINF:-1,PlutoTv - Avatar
+https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8
+#EXTINF:-1,PlutoTv - Awkward
+https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
+#EXTINF:-1,PlutoTv - Ax Men Die Holzfäller
+https://jmp2.uk/plu-6914913274601d957ae35565.m3u8
+#EXTINF:-1,PlutoTv - Axel!
+https://jmp2.uk/plu-667d63d236a2f90008f72269.m3u8
 
 
 
