@@ -493,20 +493,11 @@ https://tv.arectv34.sbs/live/bsaction1.m3u8
 #EXTINF:-1,türk sinema
 https://tv.arectv34.sbs/live/sinema2.m3u8
 
-
-
 #EXTINF:-1,türk sinema 1
 https://tv.arectv34.sbs/live/sinemayerli2.m3u8
 
 #EXTINF:-1,sinema tv
 https://tv.arectv34.sbs/live/sinema1002.m3u8
-
-#EXTINF:-1,tictok tv
-https://30a-tv.com/feeds/720p/63.m3u8
-   
-
-
-
 
 #EXTINF:-1, kanal 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
@@ -606,13 +597,9 @@ https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 
 
 #EXTINF:-1,RED BULL TV
-https://freqsyndlin.redbull.com/582/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1,WINTERSPORT ON
-https://play.redbull.com/playlists/wintersport_de/hls6-video/1920x1080.m3u8
-#EXTINF:-1,BERG WELTEN
-https://play.redbull.com/playlists/nature/hls6-video/1920x1080.m3u8
-#EXTINF:-1,SPORT ON
-https://play.redbull.com/playlists/sports_de/hls6-video/960x540.m3u8
+
+
+
 #EXTINF:-1,WETTER PANAROMA
 https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8
 #EXTINF:-1,TERRA WILD
@@ -623,8 +610,7 @@ https://fast.servustv.com/scooore_cdn/servuson_abr_49133a15727bf628a5ac62da7d618
 https://fast.servustv.com/mvg/mv_de/mv_de_720p_high.m3u8
 #EXTINF:-1,MOTOR VISION CLASSIC
 https://fast.servustv.com/mvg/mv_cl/mv_cl_1080.m3u8
-#EXTINF:-1,WISSEN ON
-https://play.redbull.com/playlists/science/hls6-audio/ger.m3u8
+
 #EXTINF:-1,MORE THAN SPORT
 https://fast.servustv.com/mvg/mts/mts_1080.m3u8
 #EXTINF:-1,WETTER
@@ -633,19 +619,7 @@ https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1,Sport 1
 https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
 
-#EXTINF:-1,ANIXE TV
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1,ANIXE SERIE
-https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 
-
-
-#EXTINF:-1,DELUXE MUSIC
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1,DELUXE MUSIC DANCE BY KONTOR
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1,DELUXE MUSIC RAP
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
 
 
@@ -686,10 +660,6 @@ https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1,Vevo Pop 
-https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1,Vevo Schlager Pop
-https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,XITE
 https://xite-rakuten.amagi.tv/playlist.m3u8
@@ -722,6 +692,16 @@ https://jmp2.uk/plu-667d63d236a2f90008f72269.m3u8
 
 
 
+#EXTINF:-1,DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1,DELUXE MUSIC DANCE BY KONTOR
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1,DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1,Vevo Pop 
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Vevo Schlager Pop
+https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
 
 
 
