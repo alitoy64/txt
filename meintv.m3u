@@ -79,7 +79,7 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png",TV NET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png",ÜLKE
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
