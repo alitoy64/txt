@@ -21,8 +21,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 
 
 #EXTINF:-1,KANAL D HD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=213&extension=ts
-
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=225&extension=ts
 
 
 
@@ -517,7 +516,7 @@ http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=233&extens
 #EXTINF:-1,SHOW TV HD
 http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=223&extension=ts
 
-#EXTINF:-1,KANAL D HD
+#EXTINF:-1,KANAL EURO  D HD
 http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=213&extension=ts
 #EXTINF:-1,KANAL D HD
 http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=230&extension=ts
