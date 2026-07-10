@@ -5,20 +5,23 @@ https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8
 http://46.32.176.50/trt1/playlist.m3u8
 #EXTINF:-1,TRT1
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1,TRT1
-https://tv-trt1.medya.trt.com.tr/master.m3u8       
+ 
+#EXTINF:-1,TRT 1 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=215&extension=ts  
 
 #EXTINF:-1,ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 
-#EXTINF:-1,ATV
-http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/725
+#EXTINF:-1,ATV HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=231&extension=ts
+
 
 #EXTINF:-1,Kanal D 
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 
-#EXTINF:-1,KANAL D 
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
+
+#EXTINF:-1,KANAL D HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=213&extension=ts
 
 
 
@@ -31,10 +34,8 @@ https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3
 
 #EXTINF:-1,STAR
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&app=startv_web&ce=3
-
-#EXTINF:- tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png",SHOW TV
-https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
-
+#EXTINF:-1,STAR TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=232&extension=ts
 #EXTINF:-1,SHOW TV
 http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/726
 
@@ -45,6 +46,22 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id=",NOW
 https://dogus.tecostream.xyz/now.m3u8
+
+#EXTINF:-1,FOX/NOW TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=234&extension=ts
+
+#EXTINF:-1,SHOW TURK
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=209141&extension=ts
+#EXTINF:-1,ATV AVRUPA
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=240&extension=ts
+#EXTINF:-1,EURO STAR
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=241&extension=ts
+#EXTINF:-1,EURO D
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=213&extension=ts
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN TURK HD" tvg-logo=",CNN TURK HD
@@ -80,11 +97,6 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 http://umperisn.mywire.org/index.php?id=594246&token=DeaTHLesS
 #EXTINF:-1,HABER GLOBAL
 http://umperisn.mywire.org/index.php?id=594247&token=DeaTHLesS
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
-https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 
 
 #EXTINF:-1,TV 100
@@ -238,6 +250,65 @@ https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playli
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2vyJRC5/noktatv.jpg",NOKTA TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Nokta_Tv.m3u8
+
+
+#EXTINF:-1,beIN Sport 1
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=286&extension=ts
+
+#EXTINF:-1,Sport 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=262&extension=ts
+#EXTINF:-1,beIN Sport 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=289&extension=ts
+
+#EXTINF:-1,beIN Sport 3
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=263&extension=ts
+#EXTINF:-1,beIN Sport 3
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=290&extension=ts
+
+
+#EXTINF:-1,beIN Sport 4
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=264&extension=ts
+#EXTINF:-1,beIN Sport 4
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=291&extension=ts
+
+
+
+
+#EXTINF:-1,beIN Sport 1 MaX
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=265&extension=ts
+#EXTINF:-1,beIN Sport 1 MaX
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=292&extension=ts
+
+#EXTINF:-1,beIN Sport 2 MaX
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=266&extension=ts
+#EXTINF:-1,beIN Sport 2 MaX
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=293&extension=ts
+
+
+#EXTINF:-1,beIN Sport Haber
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=267&extension=ts
+#EXTINF:-1,beIN Sport Haber
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=285&extension=ts
+
+#EXTINF:-1,Tivibusport 1
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=268&extension=ts
+#EXTINF:-1,Tivibusport 1
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=298&extension=ts
+
+#EXTINF:-1,Tivibusport 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=269&extension=ts
+#EXTINF:-1,Tivibusport 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=299&extension=ts
+
+#EXTINF:-1,Tivibusport 3
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=270&extension=ts
+#EXTINF:-1,Tivibusport 3
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=300&extension=ts
+
+
+
+
+
 
 
 
@@ -408,6 +479,311 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQdBjZfW/finansturk.png",FİNANS TÜRK
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,TRT 1 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=215&extension=ts
+#EXTINF:-1,TRT 1 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=229&extension=ts
+#EXTINF:-1,TRT 1 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=460529&extension=ts
+#EXTINF:-1,TRT 1 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=242&extension=ts
+#EXTINF:-1,TRT 1 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=331&extension=ts
+#EXTINF:-1,TRT 1 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=351&extension=ts
+
+
+#EXTINF:-1,ATV HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=231&extension=ts
+#EXTINF:-1,ATV HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=217&extension=ts
+
+#EXTINF:-1,STAR TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=232&extension=ts
+#EXTINF:-1,STAR TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=224&extension=ts
+
+#EXTINF:-1,SHOW TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=233&extension=ts
+#EXTINF:-1,SHOW TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=223&extension=ts
+
+#EXTINF:-1,KANAL D HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=213&extension=ts
+#EXTINF:-1,KANAL D HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=230&extension=ts
+#EXTINF:-1,KANAL D HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=225&extension=ts
+
+#EXTINF:-1,FOX/NOW TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=234&extension=ts
+#EXTINF:-1, FOX/NOW TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=218&extension=ts
+
+#EXTINF:-1,TV 8 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=251&extension=ts
+#EXTINF:-1,TV 8 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=221&extension=ts
+
+
+
+#EXTINF:-1,TV 8.5 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=212&extension=ts
+#EXTINF:-1,TV 8.5 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=222&extension=ts
+
+
+
+#EXTINF:-1,BEYAZ TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=237&extension=ts
+#EXTINF:-1,BEYAZ TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=219&extension=ts
+
+#EXTINF:-1,TEVE 2 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=257&extension=ts
+#EXTINF:-1,TEVE 2 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=226&extension=ts
+
+#EXTINF:-1,A2 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=227&extension=ts
+#EXTINF:-1,A2 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=216&extension=ts
+
+
+#EXTINF:-1,KANAL 7 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=238&extension=ts
+#EXTINF:-1,KANAL 7 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=220&extension=ts
+#EXTINF:-1,KANAL 7 AVRUPA
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=70887&extension=ts
+
+#EXTINF:-1,360 TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=254&extension=ts
+#EXTINF:-1,TV 4 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=258&extension=ts
+#EXTINF:-1,TGRT EU
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=110477&extension=ts
+#EXTINF:-1,TIVI 6 HD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=404647&extension=ts
+#EXTINF:-1,TABII TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=404644&extension=ts
+
+#EXTINF:-1,TRT 4K 
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=245&extension=ts
+
+#EXTINF:-1,4K
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=244&extension=ts
+#EXTINF:-1,K
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=245&extension=ts
+
+#EXTINF:-1,TRT 2 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=215&extension=ts
+#EXTINF:-1,TRT 2 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=257&extension=ts
+
+#EXTINF:-1,TRT TURK HD+
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=110478&extension=ts
+#EXTINF:-1,TRT AVAZ HD+
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=110475&extension=ts
+
+#EXTINF:-1,SHOW MAX
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=239&extension=ts
+#EXTINF:-1,SHOW TURK
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=209141&extension=ts
+#EXTINF:-1,ATV AVRUPA
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=240&extension=ts
+#EXTINF:-1,EURO STAR
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=241&extension=ts
+#EXTINF:-1,EURO D
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=213&extension=ts
+#EXTINF:-1,TYT TURK
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=637916&extension=ts
+
+
+#EXTINF:-1,TV NET
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=256&extension=ts
+
+
+
+#EXTINF:-1,Ssport
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=271&extension=ts
+#EXTINF:-1,Ssport
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=294&extension=ts
+#EXTINF:-1,Ssport
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=305&extension=ts
+
+#EXTINF:-1,Ssport 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=295&extension=ts
+
+#EXTINF:-1,Smart sport
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=297&extension=ts
+#EXTINF:-1,Smart sport
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=301&extension=ts
+#EXTINF:-1,Smart sport 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=272&extension=ts
+#EXTINF:-1,Smart sport 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=302&extension=ts
+
+#EXTINF:-1,ESPN
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=274&extension=ts
+#EXTINF:-1,Eurosport 1
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=275&extension=ts
+
+#EXTINF:-1,Eurosport 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=276&extension=ts
+
+
+#EXTINF:-1,Sport tV
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=278&extension=ts
+#EXTINF:-1,FB TV
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=259&extension=ts
+
+
+
+
+#EXTINF:-1,TJK Tv
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=279&extension=ts
+
+#EXTINF:-1,Aspor
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=280&extension=ts
+
+#EXTINF:-1,Aspor
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=284&extension=ts
+
+#EXTINF:-1,TRT SPOR
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=281&extension=ts
+
+#EXTINF:-1,TRT spor 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=282&extension=ts
+
+
+
+#EXTINF:-1, beIN Series 1
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=306&extension=ts
+#EXTINF:-1,beIN Series 1
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=309&extension=ts
+#EXTINF:-1,beIN Series 4
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=308&extension=ts
+
+#EXTINF:-1,beIN box Office
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=313&extension=ts
+
+#EXTINF:-1,beIN box Office 1
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=314&extension=ts
+#EXTINF:-1,beIN box Office 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=315&extension=ts
+
+
+#EXTINF:-1,beIN movies Premiere
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=312&extension=ts
+#EXTINF:-1, beIN movies Premiere
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=317&extension=ts
+#EXTINF:-1,beIN movies Turk
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=316&extension=ts
+
+
+
+
+
+#EXTINF:-1,filmAX Macera
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=382&extension=ts
+#EXTINF:-1,filmAX korku
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=383&extension=ts
+#EXTINF:-1,filmAX Aksiyon
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=385&extension=ts
+#EXTINF:-1,filmAX Yerli
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=385&extension=ts
+#EXTINF:-1,filmAX Komedi
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=388&extension=ts
+#EXTINF:-1,filmAX GOLD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=389&extension=ts
+#EXTINF:-1,RedBOX
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=386&extension=ts
+#EXTINF:-1,RedBOX 1
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=390&extension=ts
+#EXTINF:-1,RedBOX MIX
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=395&extension=ts
+#EXTINF:-1,RedBOX VIZYON
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=396&extension=ts
+#EXTINF:-1,RedBOX AKSIYON
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=392&extension=ts
+#EXTINF:-1,RedBOX BILIMKURGU
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=393&extension=ts
+#EXTINF:-1,RedBOX TURK
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=391&extension=ts
+#EXTINF:-1,RedBOX TURK 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=399&extension=ts
+#EXTINF:-1,RedBOX KORKU
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=394&extension=ts
+#EXTINF:-1,RedBOX DRAMA
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=398&extension=ts
+
+
+#EXTINF:-1,BYZBOX Yerli
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=318&extension=ts
+
+
+
+#EXTINF:-1,movieSmart
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=349&extension=ts
+#EXTINF:-1,movieSmart Classic
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=350&extension=ts
+
+#EXTINF:-1,CineStar 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=356&extension=ts
+#EXTINF:-1,Sinema Aksiyon
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=335&extension=ts
+#EXTINF:-1,Sinema Aksiyon
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=360&extension=ts
+#EXTINF:-1,Sinema tv
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=358&extension=ts
+#EXTINF:-1 ,Sinema tv2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=359&extension=ts
+#EXTINF:-1,Sinema Aile
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=362&extension=ts
+#EXTINF:-1,Sinema Aile2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=363&extension=ts
+#EXTINF:-1,Sinema komedi
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=364&extension=ts
+#EXTINF:-1,Sinema komedi2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=365&extension=ts
+#EXTINF:-1,Sinema yerli
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=366&extension=ts
+#EXTINF:-1,Sinema yerli2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=367&extension=ts
+#EXTINF:-1,Sinema 1001
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=368&extension=ts
+#EXTINF:-1,Sinema 1002
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=369&extension=ts
+
+#EXTINF:-1,cocuksmart
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=370&extension=ts
+
+
+
+#EXTINF:-1,Dizi Smart
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=332&extension=ts
+#EXTINF:-1,Dizi Smart max
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=352&extension=ts
+#EXTINF:-1,FX
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=354&extension=ts
+
+#EXTINF:-1,Sinema Aksiyon
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=335&extension=ts
+
+
+
+
+
 
 
 #EXTINF:-1, Eko_Turk
