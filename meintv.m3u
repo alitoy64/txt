@@ -309,26 +309,60 @@ http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=270&extens
 http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=300&extension=ts
 
 
+#EXTINF:-1,Ssport
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=271&extension=ts
+#EXTINF:-1,Ssport
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=294&extension=ts
+#EXTINF:-1,Ssport
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=305&extension=ts
+
+#EXTINF:-1,Ssport 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=295&extension=ts
+
+#EXTINF:-1,Smart sport
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=297&extension=ts
+#EXTINF:-1,Smart sport
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=301&extension=ts
+#EXTINF:-1,Smart sport 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=272&extension=ts
+#EXTINF:-1,Smart sport 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=302&extension=ts
+
+#EXTINF:-1,ESPN
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=274&extension=ts
+#EXTINF:-1,Eurosport 1
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=275&extension=ts
+
+#EXTINF:-1,Eurosport 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=276&extension=ts
 
 
+#EXTINF:-1,Sport tV
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=278&extension=ts
+#EXTINF:-1,FB TV
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=259&extension=ts
+#EXTINF:-1,TJK Tv
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=279&extension=ts
 
+#EXTINF:-1,Aspor
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=280&extension=ts
 
+#EXTINF:-1,Aspor
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=284&extension=ts
 
+#EXTINF:-1,TRT SPOR
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=281&extension=ts
+
+#EXTINF:-1,TRT spor 2
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=282&extension=ts
 
 #EXTINF:-1, BeINSport Haber UHD
 http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48894.ts
-
-
-
 #EXTINF:-1,BeIN Sports FHD 1
 https://tavukfelsefesi.lol/static/bs1.m3u8
 
 #EXTINF:-1 ,BeIN Sports HD 1
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08",BeIN Sports FHD 2
 http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/111900.ts
@@ -386,9 +420,6 @@ https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7vcjas3k9dur&app=d
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQdBjZfW/finansturk.png",FİNANS TÜRK
-https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 
 
 
@@ -523,58 +554,10 @@ http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=637916&ext
 #EXTINF:-1,TV NET
 http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=256&extension=ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQdBjZfW/finansturk.png",FİNANS TÜRK
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 
 
-#EXTINF:-1,Ssport
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=271&extension=ts
-#EXTINF:-1,Ssport
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=294&extension=ts
-#EXTINF:-1,Ssport
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=305&extension=ts
-
-#EXTINF:-1,Ssport 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=295&extension=ts
-
-#EXTINF:-1,Smart sport
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=297&extension=ts
-#EXTINF:-1,Smart sport
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=301&extension=ts
-#EXTINF:-1,Smart sport 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=272&extension=ts
-#EXTINF:-1,Smart sport 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=302&extension=ts
-
-#EXTINF:-1,ESPN
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=274&extension=ts
-#EXTINF:-1,Eurosport 1
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=275&extension=ts
-
-#EXTINF:-1,Eurosport 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=276&extension=ts
-
-
-#EXTINF:-1,Sport tV
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=278&extension=ts
-#EXTINF:-1,FB TV
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=259&extension=ts
-
-
-
-
-#EXTINF:-1,TJK Tv
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=279&extension=ts
-
-#EXTINF:-1,Aspor
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=280&extension=ts
-
-#EXTINF:-1,Aspor
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=284&extension=ts
-
-#EXTINF:-1,TRT SPOR
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=281&extension=ts
-
-#EXTINF:-1,TRT spor 2
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=282&extension=ts
 
 
 
