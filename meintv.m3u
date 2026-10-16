@@ -31,15 +31,8 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id=",NOW
- "https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8",
-    "https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8",
-    "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8",
-    "https://sozcutv.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8",
-    "https://sozcutv.blutv.com/blutv_szctv_dvr/live.m3u8",
-    "https://mn-nl.mncdn.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8",
-    "https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8",
-    "https://tv.ensonhaber.com/sozcu/sozcu_720p.m3u8",
-    "https://tv.ensonhaber.com/sozcu/sozcu.m3u8"
+
+    https://tv.ensonhaber.com/sozcu/sozcu.m3u8
 
 
 
@@ -48,14 +41,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN TURK HD" tvg-logo=",CNN TURK HD
-"https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8",
-    "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8",
-    "https://dogus.daioncdn.net/cnnturk/cnnturk_1080p.m3u8",
-    "https://dogus.daioncdn.net/cnnturk/cnnturk_720p.m3u8",
-    "https://dogus.daioncdn.net/cnnturk/cnnturk.m3u8?ce=3",
-    "https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8",
-    "https://cnnturk.blutv.com/blutv_cnnturk2/live_720p2000000kbps/index.m3u8",
-    "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8"
+http://46.32.176.50/cnnturk/playlist.m3u8
 
 
 
