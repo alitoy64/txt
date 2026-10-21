@@ -536,7 +536,7 @@ https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:-1,WDR
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1,RAKUTEN TV
 https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
 
 #EXTINF:-1,RAKUTEN TV-Comedy DE
@@ -553,10 +553,10 @@ https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1,TRAVELXP DE
 https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,-KIKA DE
+#EXTINF:-1,KIKA DE
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 
-#EXTINF:-1D
+#EXTINF:-1,RAKUTEN TV
 
 https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
 
@@ -568,7 +568,7 @@ https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1,DE-Deluxe Music DE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1,RED BULL TV
+
 
 
 
