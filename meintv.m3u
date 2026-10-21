@@ -487,7 +487,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb9HrsDc/Ahaber-Logo.png" group-title="Haber",TR-A HABER TR
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 
-#EXTINF:,TR-TVNET TR
+#EXTINF:-1,TR-TVNET TR
 https://tvnet-live.lg.mncdn.com/tvnet-live/tvnet/chunklist_w1327906541.m3u8
 
 #EXTINF:-1,TR-Haber Global TR
@@ -544,7 +544,7 @@ https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 #EXTINF:-1,TR-Baku TV TR
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 
-,BENGÜ TÜRK TR
+#EXTINF:-1,BENGÜ TÜRK TR
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 
 #EXTINF:-1,TR-FİNANS TÜRK TR
@@ -553,7 +553,7 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1,TR FLASH HABER
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
 
-#EXTINF:-1TR-GUNAZ TV TR
+#EXTINF:-1,TR-GUNAZ TV TR
 https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1,TR-İLKE TV TR
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
@@ -590,7 +590,7 @@ https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 #EXTINF:-1,TR-GÖPSEN TV TR
 https://cdn-gurbet24.yayin.com.tr/gurbet24/gurbet24/chunklist_w1998469160.m3u8
 
-#EXTINF:-1 TR-İMPACTS TV TR
+#EXTINF:-1,TR-İMPACTS TV TR
 https://metroturk.castpin.com/hls/metroturk/1_2/index.m3u8
 #EXTINF:-1,TR-KANAL AVRUPA TR
 https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
