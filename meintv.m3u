@@ -524,6 +524,50 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 
 
+#EXTINF:-1,TAGESSCHAU24 DE
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1,ARTE DE
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1,Das Erste DE
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1,RTL DE
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+#EXTINF:-1,SIXX DE
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1,WDR
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1,
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+
+#EXTINF:-1,RAKUTEN TV-Comedy DE
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+
+#EXTINF:-1,RAKUTEN TV Drama
+
+https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
+
+#EXTINF:-1-RAKUTEN TV-Top Movies DE
+
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+
+#EXTINF:-1,TRAVELXP DE
+https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,-KIKA DE
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+
+#EXTINF:-1D
+
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4wMZ8Em.png" group-title="Çocuk",DE-RiC DE
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+
+#EXTINF:-1,DE-FIFA+ DE
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+
+#EXTINF:-1,DE-Deluxe Music DE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1,RED BULL TV
 
 
