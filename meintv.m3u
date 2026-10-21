@@ -487,7 +487,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb9HrsDc/Ahaber-Logo.png" group-title="Haber",TR-A HABER TR
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 
-,TR-TVNET TR
+#EXTINF:,TR-TVNET TR
 https://tvnet-live.lg.mncdn.com/tvnet-live/tvnet/chunklist_w1327906541.m3u8
 
 #EXTINF:-1,TR-Haber Global TR
