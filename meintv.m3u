@@ -59,12 +59,6 @@ https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
 
-#EXTINF:-1,HABER GLOBAL
-http://umperisn.mywire.org/index.php?id=594246&token=DeaTHLesS
-#EXTINF:-1,HABER GLOBAL
-http://umperisn.mywire.org/index.php?id=594247&token=DeaTHLesS
-
-
 #EXTINF:-1,TV 100
 https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
 
@@ -94,16 +88,6 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER 
-http://umperisn.mywire.org/index.php?id=594254&token=DeaTHLesS
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER 
-http://umperisn.mywire.org/index.php?id=594255&token=DeaTHLesS
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
