@@ -80,8 +80,8 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png",AKIT TV
 
+https://github.com/umitm0d/-mittube/raw/refs/heads/main/Umittube/Akit.m3u8
 
-https://akittv-live.ercdn.net/akittv/akittv.m3u8
 
 
 
@@ -137,11 +137,10 @@ https://video.twimg.com/amplify_video/1988933245791096832/pl/-LYtCesCNPKsSJDS.m3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
-
+https://github.com/umitm0d/-mittube/raw/refs/heads/main/Umittube/Krt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
+https://internettv.guventechnology.com/hls/ulusaltv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
@@ -225,7 +224,32 @@ https://ladyboy.ardastream2.cfd//bein4/tracks-v1a1/mono.m3u8
 
 https://ladyboy.ardastream2.cfd//bein5/tracks-v1a1/mono.m3u8
 
-
+
+
+#EXTINF:-1,TRT spor
+https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/atom/trt-spor.m3u8
+
+
+#EXTINF:-1,Bein 1
+https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/atom/bein-sports-1.m3u8
+
+#EXTINF:-1,Bein 2
+https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/atom/bein-sports-2.m3u8
+
+#EXTINF:-1,Bein 3
+https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/atom/bein-sports-3.m3u8
+
+#EXTINF:-1,Bein 4
+https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/atom/bein-sports-1.m3u8
+
+#EXTINF:-1,SSport 
+https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/atom/s-sport.m3u8
+
+#EXTINF:-1,SSport 2
+https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/atom/s-sport-2.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png",S SPORT FHD 2
 https://yastikkavgasi.lol/static/ss11.m3u8
@@ -239,10 +263,6 @@ http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/111411.ts
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png",SMARTSPOR 2
 https://andro.mangeinde4.lat/checklist/androstreamlivesm2.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/qk8hffs.png", HT SPOR UHD
 https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7vcjas3k9dur&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
