@@ -22,9 +22,6 @@ https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/pla
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/4559304253ebb4acbb6ab
 
 
-#EXTINF:-1,ATV AVRUPA 
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/31959103513ebb4acbb6ab
-
 
 
 #EXTINF:-1,4K KANAL D HD 
@@ -42,8 +39,22 @@ https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/pla
 #EXTINF:-1,4KSTAR TV HD 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/21929712933ebb4acbb6ab
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id=",NOW
+
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
+
+
 #EXTINF:-1,EURO STAR 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/18270946803ebb4acbb6ab
+
+
+#EXTINF:-1,ATV AVRUPA 
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/31959103513ebb4acbb6ab
+
+
+
+
+
 
 #EXTINF:-1,FOX 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/14984590943ebb4acbb6ab
@@ -94,6 +105,15 @@ https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/pla
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/19071547043ebb4acbb6ab
 #EXTINF:-1,4K TVNET HD 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/17387392773ebb4acbb6ab
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png",ÜLKE
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png",AKIT TV
+
+https://github.com/umitm0d/-mittube/raw/refs/heads/main/Umittube/Akit.m3u8
+
 
 
 
@@ -537,60 +557,7 @@ https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/pla
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/37932006443ebb4acbb6ab
 #EXTINF:-1,EUROSPORT2 HD (1)
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/18219422473ebb4acbb6ab
-#EXTINF:-1,EXXEN SPOR 1 SD (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/20245689823ebb4acbb6ab
-#EXTINF:-1,EXXEN SPORTS 1 (6)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/11882580663ebb4acbb6ab
-#EXTINF:-1,EXXEN SPORTS 1 (7)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/18420182523ebb4acbb6ab
-#EXTINF:-1,EXXEN SPORTS 2 (6)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/243209623ebb4acbb6ab
-#EXTINF:-1,EXXEN SPORTS 2 (7)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/7116260123ebb4acbb6ab
-#EXTINF:-1,EXXEN SPORTS 3 [LIVE DURING
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/38079394533ebb4acbb6ab
-#EXTINF:-1,EXXEN SPORTS 4 (7)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/27710240603ebb4acbb6ab
-#EXTINF:-1,EXXEN SPORTS 5 (7)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/25550072443ebb4acbb6ab
-#EXTINF:-1,EXXEN SPORTS 6 [LIVE DURING
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/36155394323ebb4acbb6ab
-#EXTINF:-1,EXXEN SPORTS 7 (7)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/38006954043ebb4acbb6ab
-#EXTINF:-1,EXXEN SPORTS 8 (7)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/16249379173ebb4acbb6ab
-#EXTINF:-1,EXXEN TV SPOR 1 (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/12083699953ebb4acbb6ab
-#EXTINF:-1,EXXEN TV SPOR 1 720P (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/33339028673ebb4acbb6ab
-#EXTINF:-1,EXXEN TV SPOR 1 FEED (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/10914039123ebb4acbb6ab
-#EXTINF:-1,EXXEN TV SPOR 1 HD (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/12042008013ebb4acbb6ab
-#EXTINF:-1,EXXEN TV SPOR 1 UHD (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/38149253713ebb4acbb6ab
-#EXTINF:-1,EXXEN TV SPOR 2 HD (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/33770461463ebb4acbb6ab
-#EXTINF:-1,EXXEN TV SPOR 2 UHD (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/36730370543ebb4acbb6ab
-#EXTINF:-1,EXXEN TV SPOR 3 (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/8518410673ebb4acbb6ab
-#EXTINF:-1,EXXEN TV SPOR 4 (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/21626092113ebb4acbb6ab
-#EXTINF:-1,EXXEN TV SPOR 5 (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/31797344113ebb4acbb6ab
-#EXTINF:-1,EXXEN TV SPOR 6 (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/41968351633ebb4acbb6ab
-#EXTINF:-1,EXXEN TV SPOR 7 (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/33433003313ebb4acbb6ab
-#EXTINF:-1,EXXEN TV SPOR 8 (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/11590782023ebb4acbb6ab
-#EXTINF:-1,FILBOX SPOR 1 MACZAMANI (1)"
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/4076122673ebb4acbb6ab
-#EXTINF:-1,FILBOX SPOR 2 MACZAMANI (1)"
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/1545833143ebb4acbb6ab
-#EXTINF:-1,FILBOX SPOR 3 MACZAMANI (1)"
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/29662318023ebb4acbb6ab
+
 #EXTINF:-1,IDMAN TV HD (1)
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/23684227603ebb4acbb6ab
 #EXTINF:-1,4K TR: NBA TV HD (1)
