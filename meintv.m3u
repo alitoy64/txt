@@ -24,24 +24,27 @@ https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/pla
 
 
 
-#EXTINF:-1,4K KANAL D HD 
+#EXTINF:-1, KANAL D HD 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/16776796843ebb4acbb6ab
 
-#EXTINF:-1,EURO D 
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/12904348903ebb4acbb6ab
 
 
-
-#EXTINF:-1,4K SHOW TV HD 
+#EXTINF:-1, SHOW TV HD 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/8795889603ebb4acbb6ab
 
 
-#EXTINF:-1,4KSTAR TV HD 
+#EXTINF:-1,KSTAR TV HD 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/21929712933ebb4acbb6ab
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id=",NOW
 
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
+
+
+
+#EXTINF:-1,EURO D 
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/12904348903ebb4acbb6ab
+
 
 
 #EXTINF:-1,EURO STAR 
@@ -71,7 +74,7 @@ https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/pla
 
 
 
-#EXTINF:-1,4K TR: CNN 
+#EXTINF:-1,CNN Türk
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/20567686473ebb4acbb6ab
 
 
@@ -79,7 +82,7 @@ https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/pla
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/28683185343ebb4acbb6ab
 
 
-#EXTINF:-1,4 KTV100 
+#EXTINF:-1,4 TV100 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/37604969073ebb4acbb6ab
 
 
@@ -90,7 +93,7 @@ https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/pla
 #EXTINF:-1,HABER GLOBAL 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/6522100823ebb4acbb6ab
 
-#EXTINF:-1,HABER T RK HD
+#EXTINF:-1,HABER Türk 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/32253354543ebb4acbb6ab
 
 #EXTINF:-1,HABER TURK 
@@ -99,11 +102,8 @@ https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/pla
 
 #EXTINF:-1,4K  NTV HD 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/20732929073ebb4acbb6ab
-#EXTINF:-1,4K  TELE1 
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/41796618023ebb4acbb6ab
-#EXTINF:-1,4K TGRT HABER HD 
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/19071547043ebb4acbb6ab
-#EXTINF:-1,4K TVNET HD 
+
+#EXTINF:-1,TVNET HD 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/17387392773ebb4acbb6ab
 
 
@@ -114,16 +114,17 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 https://github.com/umitm0d/-mittube/raw/refs/heads/main/Umittube/Akit.m3u8
 
-
-
-
-
-
-
-
-
-#EXTINF:-1,4K KRT TV 
+#EXTINF:-1, KRT TV 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/32663971463ebb4acbb6ab
+
+
+
+
+
+#EXTINF:-1,TELE1 
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/41796618023ebb4acbb6ab
+#EXTINF:-1,TGRT HABER HD 
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/19071547043ebb4acbb6ab
 
 
 
@@ -251,30 +252,41 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 https://github.com/umitm0d/-mittube/raw/refs/heads/main/Umittube/Akit.m3u8
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png",A HABER 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 
-
+#EXTINF:-1,TYT Türk
+https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png",BLOOMBERG HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=web&ce=3
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
+https://internettv.guventechnology.com/hls/ulusaltv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
+
+#EXTINF:-1,EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
 
-#EXTINF:-1,TYT Türk
-https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
+
 
 #EXTINF:-1,KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
@@ -307,22 +319,19 @@ https://video.twimg.com/amplify_video/1988933245791096832/pl/-LYtCesCNPKsSJDS.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT
 https://github.com/umitm0d/-mittube/raw/refs/heads/main/Umittube/Krt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
-https://internettv.guventechnology.com/hls/ulusaltv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
-https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
+#EXTINF:-1,FLASH TV
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
-
-#EXTINF:-1,EKOL TV
-https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-
-#EXTINF:-1,FLASH TV
-https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 
 
 
@@ -349,6 +358,12 @@ http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9Pmc2qN/thhaber.jpg",TÜRK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" https://i.ibb.co/wrMn5rgQ/mktv.png",MK TV
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2vyJRC5/noktatv.jpg",NOKTA TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Nokta_Tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
@@ -364,12 +379,6 @@ https://edge1.socialsmart.tv/neohaber/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhcxMxJ9/telenews.png",TELE NEWS
 https://cdn-telenews.yayin.com.tr/telenews/index.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.ibb.co/wrMn5rgQ/mktv.png",MK TV
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2vyJRC5/noktatv.jpg",NOKTA TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Nokta_Tv.m3u8
 
 
 #EXTINF:-1,TR beIN SPORTS 1 TR
