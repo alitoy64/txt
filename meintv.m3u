@@ -10,12 +10,12 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 http://89.187.191.41/TRT-1-HD-TR/playlist.m3u8
 
 
-#EXTINF:-1,4K TR: TRT1 HD 
+#EXTINF:-1,TRT1 HD 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/16522001353ebb4acbb6ab
 
-#EXTINF:-1,4K TR: TRT 2 HD 
+#EXTINF:-1,TRT 2 HD 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/38843190333ebb4acbb6ab
-#EXTINF:-1,4K TR: TRT 3 
+#EXTINF:-1,TRT 3 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/41874035123ebb4acbb6ab
 
 #EXTINF:-1,ATV 
@@ -33,7 +33,7 @@ https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/pla
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/8795889603ebb4acbb6ab
 
 
-#EXTINF:-1,KSTAR TV HD 
+#EXTINF:-1,STAR TV HD 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/21929712933ebb4acbb6ab
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id=",NOW
@@ -118,6 +118,17 @@ https://github.com/umitm0d/-mittube/raw/refs/heads/main/Umittube/Akit.m3u8
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/32663971463ebb4acbb6ab
 
 
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png" ,KANAL AVRUP	
+https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/szcytbe.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 
 
@@ -125,6 +136,16 @@ https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/pla
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/41796618023ebb4acbb6ab
 #EXTINF:-1,TGRT HABER HD 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/19071547043ebb4acbb6ab
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png",ULUSAL KANAL
+https://internettv.guventechnology.com/hls/ulusaltv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png",BENGÜ TÜRK
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
 
 
 
@@ -300,17 +321,6 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:-1,TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png" ,KANAL AVRUP	
-https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
-https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/szcytbe.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKSd9c5h/tele2.png",TELE 2 HABER
 https://video.twimg.com/amplify_video/1988933245791096832/pl/-LYtCesCNPKsSJDS.m3u8?variant_version=1&tag=14
