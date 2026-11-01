@@ -10,13 +10,10 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 http://89.187.191.41/TRT-1-HD-TR/playlist.m3u8
 
 
-#EXTINF:-1,TRT1 HD 
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/16522001353ebb4acbb6ab
 
 #EXTINF:-1,TRT 2 HD 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/38843190333ebb4acbb6ab
-#EXTINF:-1,TRT 3 
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/41874035123ebb4acbb6ab
+
 
 #EXTINF:-1,ATV 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/4559304253ebb4acbb6ab
@@ -59,7 +56,7 @@ https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/pla
 
 
 
-#EXTINF:-1,FOX 
+#EXTINF:-1,NOW TV
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/14984590943ebb4acbb6ab
 
 
@@ -87,14 +84,18 @@ https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/pla
 #EXTINF:-1,HABER GLOBAL 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/6522100823ebb4acbb6ab
 
-#EXTINF:-1,HABER Türk 
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/32253354543ebb4acbb6ab
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TÜRK 
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+
+
 
 #EXTINF:-1,HABER TURK 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/4643781703ebb4acbb6ab
 
 
-#EXTINF:-1,4K  NTV HD 
+#EXTINF:-1, NTV HD 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/20732929073ebb4acbb6ab
 
 #EXTINF:-1,TVNET HD 
@@ -382,7 +383,8 @@ https://edge1.socialsmart.tv/neohaber/bant1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhcxMxJ9/telenews.png",TELE NEWS
 https://cdn-telenews.yayin.com.tr/telenews/index.m3u8
-
+#EXTINF:-1,TRT 3 
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/41874035123ebb4acbb6ab
 
 
 #EXTINF:-1,TR beIN SPORTS 1 TR
