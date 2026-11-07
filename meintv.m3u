@@ -382,103 +382,15 @@ https://cdn-telenews.yayin.com.tr/telenews/index.m3u8
 #EXTINF:-1,TRT 3 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/41874035123ebb4acbb6ab
 
-
-#EXTINF:-1,TR beIN SPORTS 1 TR
-https://ladyboy.ardastream2.cfd//beintv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,TR beIN SPORTS 2 TR
-https://ladyboy.ardastream2.cfd//bein2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Bein 3
-
-https://ladyboy.ardastream2.cfd//bein3/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1,BeIN  4
-https://ladyboy.ardastream2.cfd//bein4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,BeIN 5
-
-https://ladyboy.ardastream2.cfd//bein5/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1,TRT spor
-https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/atom/trt-spor.m3u8
-
-
-#EXTINF:-1,Bein 1
-https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/atom/bein-sports-1.m3u8
-
-#EXTINF:-1,Bein 2
-https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/atom/bein-sports-2.m3u8
-
-#EXTINF:-1,Bein 3
-https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/atom/bein-sports-3.m3u8
-
-#EXTINF:-1,Bein 4
-https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/atom/bein-sports-1.m3u8
-
-#EXTINF:-1,SSport 
-https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/atom/s-sport.m3u8
-
-#EXTINF:-1,SSport 2
-https://raw.githubusercontent.com/umitm0d/Liveinlive/refs/heads/main/atom/s-sport-2.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png",SMARTSPOR HD 2
-http://ip.xtremetv.eu:8000/live/hizirarkadashollanda/V39WCmGCgSp8/111411.ts
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png",SMARTSPOR 2
-https://andro.mangeinde4.lat/checklist/androstreamlivesm2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/qk8hffs.png", HT SPOR UHD
-https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7vcjas3k9dur&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/qk8hffs.png", HT SPOR 
-https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7vcjas3k9dur&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
-
-
-#EXTINF:-1,BEIN SPORTS HABER (6)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/11973360003ebb4acbb6ab
-#EXTINF:-1,BEIN SPORTS HABER (7)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/28060796123ebb4acbb6ab
-#EXTINF:-1,BEIN SPORTS HABER HD (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/39899955333ebb4acbb6ab
-#EXTINF:-1,BEIN SPORTS HABER RAW (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/16466328253ebb4acbb6ab
-
-
-
-#EXTINF:-1,A SPOR (6)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/8192726963ebb4acbb6ab
-#EXTINF:-1,A SPOR (7)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/15619589713ebb4acbb6ab
-#EXTINF:-1,A SPOR FHD (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/9118365063ebb4acbb6ab
-#EXTINF:-1,4K TR: A SPOR HD (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/17711375393ebb4acbb6ab
-#EXTINF:-1,A SPOR HD (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/25567110303ebb4acbb6ab
-#EXTINF:-1,A SPOR HEVC (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/28805292083ebb4acbb6ab
-#EXTINF:-1,A SPOR RAW (1)
-https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/27771210533ebb4acbb6ab
-#EXTINF:-1,BEIN SPORTS 1 (6)
+#EXTINF:-1,BEIN SPORTS 1 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/3001133943ebb4acbb6ab
-#EXTINF:-1,BEIN SPORTS 1 (720P) (1)
+#EXTINF:-1,BEIN SPORTS 1 (720P) 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/38404756533ebb4acbb6ab
-#EXTINF:-1,BEIN SPORTS 1 (720PFEED) (1)
+#EXTINF:-1,BEIN SPORTS 1 (720PFEED) 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/22330664333ebb4acbb6ab
-#EXTINF:-1,BEIN SPORTS 1 + (1)
+#EXTINF:-1,BEIN SPORTS 1 + 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/25762168973ebb4acbb6ab
-#EXTINF:-1,BEIN SPORTS 1 50 FPS (1)
+#EXTINF:-1,BEIN SPORTS 1 50 FPS 
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/13524210533ebb4acbb6ab
 #EXTINF:-1,BEIN SPORTS 1 [LIVE DURING E
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/34289847033ebb4acbb6ab
@@ -581,6 +493,47 @@ https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/pla
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/24292987983ebb4acbb6ab
 #EXTINF:-1,4K TR: TJK TV (1)
 https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/27949369133ebb4acbb6ab
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/qk8hffs.png", HT SPOR UHD
+https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7vcjas3k9dur&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/qk8hffs.png", HT SPOR 
+https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7vcjas3k9dur&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
+
+
+#EXTINF:-1,BEIN SPORTS HABER 
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/11973360003ebb4acbb6ab
+#EXTINF:-1,BEIN SPORTS HABER 
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/28060796123ebb4acbb6ab
+#EXTINF:-1,BEIN SPORTS HABER HD 
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/39899955333ebb4acbb6ab
+#EXTINF:-1,BEIN SPORTS HABER RAW 
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/16466328253ebb4acbb6ab
+
+
+
+#EXTINF:-1,A SPOR (6)
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/8192726963ebb4acbb6ab
+#EXTINF:-1,A SPOR (7)
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/15619589713ebb4acbb6ab
+#EXTINF:-1,A SPOR FHD (1)
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/9118365063ebb4acbb6ab
+#EXTINF:-1,4K TR: A SPOR HD (1)
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/17711375393ebb4acbb6ab
+#EXTINF:-1,A SPOR HD (1)
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/25567110303ebb4acbb6ab
+#EXTINF:-1,A SPOR HEVC (1)
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/28805292083ebb4acbb6ab
+#EXTINF:-1,A SPOR RAW (1)
+https://vuvuu.enesgonullu2009-356.workers.dev/?url=https://kool.to/kool-iptv/play/27771210533ebb4acbb6ab
+
 
 
 
